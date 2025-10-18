@@ -4,8 +4,8 @@
 
 import os, sys, glob
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_chroma import Chroma
 
 ROOT = os.path.dirname(__file__)
 TEXT_DIR = os.path.join(ROOT, "data", "text")
