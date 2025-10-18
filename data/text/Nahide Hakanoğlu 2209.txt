@@ -1,0 +1,1139 @@
+
+
+=== [SAYFA 1] ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÜBİTAK–2209-A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA 
+PROJELERİ DESTEĞİ PROGRAMI 
+ 
+Başvuru formunun Arial 9 yazı tipinde, her bir konu başlığı altında verilen açıklamalar göz önünde 
+bulundurularak 
+hazırlanması 
+ve 
+ekler 
+hariç 
+toplam 
+20 
+sayfayı 
+geçmemesi 
+beklenir 
+(Alt 
+sınır 
+bulunmamaktadır). Değerlendirme araştırma önerisinin özgün değeri, yöntemi, yönetimi ve yaygın etkisi 
+başlıkları üzerinden yapılacaktır. 
+ 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2024 Yılı 
+ 
+1. Dönem Başvurusu
+
+
+=== [SAYFA 2] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+2 
+  
+ 
+A. GENEL BİLGİLER 
+ 
+Başvuru Sahibinin Adı Soyadı:  Nahide Hakanoğlu 
+Araştırma Önerisinin Başlığı: Hücrede 3D Kromatin Organizasyonunda ZBTB ve Kohezin Etkileşimlerinin 
+İstatiksel Analizleri ve Zaman Serisi Modelleri ile İncelenmesi 
+Danışmanın Adı Soyadı: Dr. Öğr. Üyesi Sümeyye Bakım 
+Araştırmanın Yürütüleceği Kurum/Kuruluş: KTO Karatay Üniversitesi 
+ 
+ 
+ÖZET 
+ 
+     Türkçe özetin araştırma önerisinin (a) özgün değeri, (b) yöntemi, (c) yönetimi ve (d) yaygın etkisi hakkında bilgileri 
+kapsaması beklenir. Bu bölümün en son yazılması önerilir.  
+ 
+DNA, hücre içinde transkripsiyon faktörleri ve çeşitli protein kompleksleriyle etkileşime girerek katlanmakta ve 
+düzenlenmektedir. Bu katlanma düzeni, hangi genlerin ne zaman aktif olacağı, hangi proteinlerin 
+sentezleneceği ve dolayısıyla hücrenin işlevleri üzerinde doğrudan bir etkiye sahiptir. Bu süreçte önemli bir rol 
+oynayan Kohezin proteini, DNA’nın 3D yapısının düzenlenmesine katkı sağlayan bir protein kompleksi olarak 
+bilinmektedir. Kohezin, DNA’nın belirli bölgelerini yakınlaştırarak kromatin yapısını organize eder ve böylece 
+hücresel gen ekspresyonunun doğru bir şekilde kontrol edilmesine yardımcı olur. Ancak, Kohezin’in hangi 
+düzenleyici proteinlerle etkileşim kurarak bu işlevleri yerine getirdiği tam olarak anlaşılamamıştır. Bu proje, 
+kromatin yapısının üç boyutlu (3D) organizasyonunu etkileyen gen düzenleyici mekanizmaları inceleyerek 
+hücrelerdeki gen ekspresyonunun kontrolü hakkında daha derin bir anlayış geliştirmeyi hedeflemektedir. 
+ 
+Bu araştırma önerisi, ZBTB (Zinc Finger and BTB Domain-Containing) transkripsiyon faktörleri ile Kohezin 
+arasındaki etkileşimlerin kromatin organizasyonu üzerindeki etkilerini incelemeye odaklanmaktadır. ZBTB 
+ailesindeki bazı transkripsiyon faktörlerinin (özellikle ZBTB21 ve ZBTB7B), Kohezin ile etkileşime girerek 
+kromatin yapısının düzenlenmesinde ve gen ekspresyonunun kontrolünde rol oynadığı bilinmektedir. Bu 
+kapsamda, gen ekspresyon düzeylerinin karşılaştırılması, proteinlerin bağlanma yoğunlukları arasındaki 
+korelasyonların hesaplanması ve zaman serisi verileri kullanılarak temel doğrusal regresyon modellerinin 
+uygulanması hedeflenmektedir. Bu sayede, Kohezin’in kromatin yapısındaki dinamik bağlanma özellikleri ve 
+ZBTB21 gibi transkripsiyon faktörlerinin kromatin etkileşimleri üzerindeki düzenleyici rollerine dair yeni bilgiler 
+sunulması amaçlanmaktadır. Çalışma, kromatin organizasyonu ve gen regülasyonunun temel mekanizmalarını 
+aydınlatmaya yönelik basit ancak etkili bir veri odaklı analiz yaklaşımı ortaya koymaktadır. 
+ 
+Bu çalışmanın genetik hastalıklar ve kanser gibi bozuklukların moleküler temellerini anlamaya katkı 
+sağlayacağı öngörülmektedir. Bu tür bozukluklarda gen düzenleyici mekanizmalar sıklıkla bozulmakta olup, 
+Kohezin ve ZBTB faktörlerinin rolünün anlaşılması, bu hastalıklarda yeni tedavi yaklaşımlarının geliştirilmesine 
+olanak tanıyabilir. Elde edilen bulguların, genetik mühendisliği ve biyoteknoloji alanlarında yenilikçi 
+uygulamaların geliştirilmesine katkı sağlaması beklenmektedir. Proje, veri işleme, analiz ve modelleme 
+adımlarında araştırmacıya yetkinlik kazandırmayı amaçlamakta olup, tüm analizlerin Python programlama dili 
+ile yapılması planlanmaktadır. Çalışma, ZBTB ve Kohezin etkileşimlerinin hücredeki 3D kromatin 
+organizasyonu üzerindeki etkilerine dair yeni bilgiler sunarak biyoteknoloji ve moleküler biyoloji alanındaki bilgi 
+birikimini derinleştirmeyi, genetik düzenleme süreçlerinin daha iyi anlaşılmasını sağlamayı amaçlamaktadır. 
+Ayrıca, genetik hastalıklar ve kanser gibi sağlık sorunlarının moleküler düzeyde daha iyi anlaşılması için 
+biyomedikal araştırmalara katkıda bulunmayı hedeflemektedir. 
+ 
+Bu proje, biyoinformatik alanına, hücresel 3D kromatin organizasyonunu anlamaya yönelik yenilikçi veri analiz 
+yaklaşımları sunarak katkıda bulunmaktadır. Python tabanlı veri işleme ve modelleme yöntemleri ile genetik 
+düzenleme süreçlerindeki karmaşık etkileşimlerin sadeleştirilmesi ve analizlerin yeniden üretilebilir hale 
+getirilmesi, projeyi Biyoinformatik alt dalı için uygun kılmaktadır.  
+Anahtar Kelimeler: 3D kromatin organizasyonu, transkripsiyon faktörleri, gen düzenleme, zaman serisi analizi, 
+modelleme 
+ 
+ 
+1. ÖZGÜN DEĞER  
+ 
+ 1.1. Konunun Önemi, Araştırma Önerisinin Özgün Değeri ve Araştırma Sorusu/Hipotezi 
+ 
+
+
+=== [SAYFA 3] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+3 
+  
+ 
+Araştırma önerisinde ele alınan konunun kapsamı ve sınırları ile önemi literatürün eleştirel bir değerlendirmesinin 
+yanı sıra nitel veya nicel verilerle açıklanır. 
+ 
+Özgün değer yazılırken araştırma önerisinin bilimsel değeri, farklılığı ve yeniliği, hangi eksikliği nasıl gidereceği 
+veya hangi soruna nasıl bir çözüm geliştireceği ve/veya ilgili bilim veya teknoloji alan(lar)ına kavramsal, kuramsal 
+ve/veya metodolojik olarak ne gibi özgün katkılarda bulunacağı literatüre atıf yapılarak açıklanır.  
+  
+Önerilen çalışmanın araştırma sorusu ve varsa hipotezi veya ele aldığı problem(ler)i açık bir şekilde ortaya 
+konulur. 
+ 
+Kromatin organizasyonu, hücre çekirdeğinde genetik bilginin düzenlenmesini sağlayan karmaşık bir süreçtir. Bu 
+düzenleme, DNA'nın histon proteinleri etrafında sarılması, daha yüksek yapılı kromatin yapılarına dönüşmesi ve 
+bu yapıların üç boyutlu olarak çekirdek içinde yerleşmesiyle oluşur. Kromatinin düzenli bir şekilde paketlenmesi, 
+DNA’nın stabilitesini artırmakla birlikte, genetik bilginin doğru zamanda ve doğru miktarda ifadesini kontrol 
+etmektedir. Bu durum, hücrelerin farklı uyaranlara yanıt verebilmesini ve işlevlerini sürdürebilmesini 
+sağlamaktadır. Kromatin organizasyonunda Kohezinin ve CTCF gibi düzenleyici proteinlerin büyük rol oynadığı 
+bilinmektedir. Kohezin kompleksi, kromatinde halkasal yapılar oluşturarak genomun belirli bölgelerini birbirine 
+yaklaştırır ve böylece genetik etkileşimler ve gen ifadesi üzerinde düzenleyici bir etki yaratmaktadır. Rao ve 
+arkadaşlarının (2014) çalışması, yüksek çözünürlüklü kromatin haritalama yöntemleri ile genom çapında 
+kromatin döngülerini ve bunların genetik fonksiyonlar üzerindeki etkilerini ayrıntılı olarak göstermektedir. Bu 
+çalışma, kromatin organizasyonunun üç boyutlu genom yapısını ve işlevini anlamada ne kadar kritik olduğunu 
+vurgulamaktadır. 
+Kohezin, hücrelerde DNA'nın işlevsel düzenlenmesi ve kromozom bütünlüğünün korunmasında kilit rol oynayan 
+bir protein kompleksidir. İlk olarak kardeş kromatitlerin ayrılmasını düzenlemek için tanımlanmış olan Kohezin, 
+aynı zamanda kromozomlar arasındaki üç boyutlu etkileşimleri ve düzeni sağlayarak gen ekspresyonunu da 
+etkilemektedir. Bu protein, hücre bölünmesi sırasında kardeş kromatitleri bir arada tutarak, genetik bilginin 
+doğruluğunu korumaktadır. Kromatinde halkalar oluşturarak farklı gen bölgelerini birbirine yaklaştıran Kohezin, 
+genomun belirli bölgelerinin işlevselliğini optimize eden düzenleyici bir mikro çevre oluşturmaktadır. Bu 
+özellikleriyle Kohezin, gen ifadesini düzenleyen ve genomun yapısal bütünlüğünü koruyan çok yönlü bir yapıdır 
+(Nasmyth ve Haering, 2009). 
+ZBTB transkripsiyon faktörleri, çeşitli biyolojik süreçlerde gen ifadesini düzenleyen bir protein ailesidir. "Zinc 
+finger and BTB domain-containing" (ZBTB) olarak adlandırılan bu faktörler, hücre gelişimi, bağışıklık sistemi 
+düzenlemesi ve farklılaşma gibi temel hücresel işlevlerde önemli rol oynamaktadır. ZBTB ailesindeki proteinler, 
+gen düzenleyici bölgelerine bağlanarak belirli genlerin aktif veya baskılanmış durumda kalmasını sağlamakta, 
+böylece hücrenin işlevselliği ve adaptif yanıtları için hayati önem taşımaktadır. Bu transkripsiyon faktörleri 
+özellikle bağışıklık hücrelerinin gelişimi ve fonksiyonlarının düzenlenmesinde kritik bir role sahiptir ve birçok 
+genetik hastalıkla ilişkili olduğu bilinmektedir (Ma vd., 2014). 
+ZBTB 
+transkripsiyon 
+faktörleri 
+ile 
+Kohezin 
+kompleksi 
+arasındaki 
+etkileşim, 
+gen 
+ekspresyonunun 
+düzenlenmesinde kritik bir rol oynamakta ve kromatin yapısının üç boyutlu organizasyonuna katkıda 
+bulunmaktadır. Şekil-1’de de ZBTB çeşitlerinden biri olan ZBTB21’in Kohezin ile etkilişimi gösterilmektedir. 
+Kohezin, kromatinde halkalar oluşturarak belirli gen bölgelerini birbirine yaklaştrmakta, böylece genetik 
+etkileşimleri kolaylaştırmakta ve hücre içinde sinyallerin doğru bir şekilde iletilmesini sağlamaktadır. Bu süreçte 
+ZBTB transkripsiyon faktörleri, belirli gen bölgelerine bağlanarak genetik düzenleyici mekanizmaları 
+yönlendirmekte ve gen ekspresyonunun aktif veya baskılayıcı durumunu düzenlemektedir (Bonev ve Cavalli, 
+2016). Bu tür etkileşimler, hücre gelişimi, farklılaşması ve bağışıklık yanıtları gibi karmaşık biyolojik süreçlerin 
+düzenlenmesinde büyük önem taşımaktadır (Liu vd., 2017).  
+ 
+Şekil-1: ZBTB21’in Kohezin ile etkileşimi (Wang vd., 2023). 
+
+
+=== [SAYFA 4] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+4 
+  
+ 
+Kohezin ve ZBTB'nin koordineli çalışması sayesinde, genomun belirli bölgelerinin birlikte çalışması sağlanarak 
+hücresel süreçler optimize edilmektedir. Bu düzenleyici işlevler, kromatin organizasyonunun dinamik yapısını 
+destekleyerek, gen ekspresyonunun hücresel taleplerle uyumlu hale getirilmesini sağlamaktadır (Rowley ve 
+Corces, 2018). Bu tür düzenlemelerin özellikle bağışıklık sistemi ve sinir sistemi gibi hızlı ve uyumlu yanıt 
+gerektiren sistemlerde kritik olduğu literatürdeki çalışmalarda belirtilmiştir (Cai vd., 2021). Böylelikle ZBTB ve 
+Kohezin etkileşimi, genetik hastalıkların ve kanser gibi karmaşık rahatsızlıkların moleküler düzeydeki 
+düzenlemelerini anlamaya yönelik önemli bir araştırma alanı olarak öne çıkmaktadır. 
+Önceki araştırmalar, Kohezin ile etkileşime giren ve genomun 3D yapısını düzenleyen birçok transkripsiyon 
+faktörü belirlemiştir. Bu faktörler, genellikle genlerin promotör bölgelerinde (bir genin transkripsiyonunun, yani 
+DNA'dan RNA'ya kopyalanma işleminin başlamasını kontrol eden DNA dizisidir) veya sınır bölgelerinde bulunur 
+ve bu etkileşimler genomun 3D yapısını şekillendirmektedir. Kohezin ile etkileşen diğer transkripsiyon 
+faktörlerinin olduğu hipotezi ortaya atılmıştır. Bu nedenle, Kohezin etkileşim partnerlerinin kapsamlı bir şekilde 
+tanımlanması, 3D genom organizasyonunu düzenleyen yeni faktörlerin keşfi için önemli olacaktır (Weintraub vd., 
+2017). 
+Kaushal ve Mohana (2021), ZBTB (zinc finger and BTB domain) transkripsiyon faktörlerini, meyve sineği olarak 
+bilinen Drosophila türündeki kromatin etkileşimlerini düzenlemede kritik rol oynayan faktörler olarak 
+tanımlamaktadır. Wang vd., (2023) ise çalışmalarında özellikle ZBTB21’in, Kohezin kromatin bağlanmasını 
+kolaylaştırdığını ve 3D kromatin etkileşimlerini şekillendirdiğini ifade etmiştir. Ayrıca bu çalışmada, ZBTB 
+transkripsiyon faktörlerinin (ZBTB7A, ZBTB7B, ZBTB11, ZBTB35) Kohezinle etkileşime girdiği ve bu etkileşimin, 
+kromatin bağlanmasını etkilediği gösterilmiştir. 
+Kohezin ile etkileşen proteinlerin belirlenmesi için yapılan çalışmalar, bu proteinlerin 3D genom yapısındaki 
+rollerini anlamada önemli bir adım atmaktadır. Bu bağlamda, Phanstiel ve arkadaşlarının (2017) bulguları, 
+özellikle gen düzenleyici mekanizmaların hücre tipi spesifik rollerine dair çıkarımlarımız için değerli bir temel 
+sağlamaktadır. Bu çalışmada hücre tipi spesifik DNA halkalarının düzenlenmesini açıklayan bir model 
+sunulması, önerilen proje çalışmasında Kohezin-ZBTB etkileşimlerinin potansiyel hücre tipi spesifik etkilerini 
+değerlendirmemizde rehberlik etmektedir. Ayrıca, bu çalışmada kullanılan deneysel yaklaşımlar ve analiz 
+yöntemleri, bizim çalışmamızda da benzer şekilde veri odaklı bir yaklaşım geliştirmemiz için yol gösterici 
+olmuştur. Dolayısıyla, bu çalışma, Kohezin ve ZBTB transkripsiyon faktörlerinin etkileşimlerinin kromatin 
+organizasyonundaki rolünü anlamaya yönelik araştırmamızda önemli bir referans kaynağı oluşturmaktadır. 
+Kohezin ile etkileşen proteinlerin belirlenmesi için yapılan çalışmalar, bu proteinlerin 3D genom yapısındaki 
+rollerini anlamada önemli bir adım atmaktadır. Bu araştırmaların gelecekte daha fazla hücre tipi ve deneysel veri 
+ile genişletilmesi, Kohezin etkileşim ağı hakkında daha kapsamlı bilgiler sağlayacaktır. Sürekli olarak ifade 
+edilen temel kromatin yapısal proteinlerin, CTCF ve YY1 gibi, 3D genom organizasyonunda genel bir rol 
+oynadığı varsayılmaktadır. Daha az temel olarak özel olarak ifade edilen proteinlerin, ADNP ve AP-1 gibi, hücre 
+tipi spesifik bir rol oynadığı veya kromatin etkileşimlerinin bir alt kümesini düzenlediği gösterilmiştir (Phanstiel, 
+vd., 2017). 
+Wang vd. (2023) çalışmalarında, hücre içindeki proteinlerin DNA ile etkileşimini ve genlerin organizasyonunu 
+incelemek için çeşitli biyoteknolojik ve moleküler biyoloji teknikleri kullanmıştır. Özellikle, proteinlerin DNA 
+üzerindeki bağlanma noktalarını haritalamak, belirli proteinlerin geçici olarak ortadan kaldırılmasının etkilerini 
+gözlemlemek ve bu değişikliklerin gen aktivitesini nasıl etkilediğini analiz etmek için detaylı ve kapsamlı biyolojik 
+analiz yöntemlerinden faydalanmıştır. Bu tür yöntemler, hücresel süreçlerin ve genetik düzenlemenin ayrıntılı bir 
+şekilde anlaşılmasına olanak tanımaktadır. Bu çalışmadan elde edilen sonuçlardan bazıları şekil 2 ve şekil 3 te 
+sunulmuştur.  
+
+
+=== [SAYFA 5] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+5 
+  
+ 
+ 
+Şekil-2: Çalışmalardan elde edilen bulgular.ZBTB21 ve ZBTB7B, Kohezinin kromatin bağlanmasında önemli bir rol oynar. (A) 
+ZBTB7B’nin degradasyonu, ZBTB7B-degron–GFP mESC’lerinde IAA tedavisi sonrası Western blotting ile analiz edilmiştir. (B) 
+ZBTB7B tükenmiş koşulda, Rap2a lokusundaki Kohezin ChIP-seq sinyalleri. (C) ZBTB7B tükenmesi ile Kohezinin değişen 
+sinyalleri gösteren meta-gen analizi. (D) ZBTB21 ve ZBTB7B’nin çift degradasyonu şematik olarak gösterilmiştir. (E) ZBTB21 
+ve ZBTB7B proteinlerinin degradasyonu, ZBTB21 ve ZBTB7B çift-degron mESC’lerinde Western blotting ile incelenmiştir. (F) 
+Kromatin fraksiyonlarında ZBTB21 ve ZBTB7B degradasyonu analizi. (G) ZBTB21 ve ZBTB7B tükenmiş koşullarda Kohezin 
+ChIP-seq sinyalleri. (H) ZBTB21 veya ZBTB21 ve ZBTB7B degradasyonu sonrası, ZBTB21 bağlı genlerdeki Kohezinin 
+değişimi. Anlamlılık, Wilcoxon testi ile belirlenmiştir (Wang vd., 2023). 
+ 
+Şekil-3: Çalışmalarda elde edilen bulgular.ZBTB faktörleri Kohezin ile etkileşir. (A) ZBTB protein ChIP-MS analizinde, 
+HEK293T hücrelerinde SMC kompleksi için proteomik tespit ısı haritası ile gösterilmiştir. (B) ZBTB–GFP HEK293T 
+hücrelerinde ZBTB–GFP ve Kohezin (SMC1) etkileşimleri, Western blotting ile incelenmiştir. (C) ZBTB, Kohezin ve CTCF’nin 
+birleşik zirvelerindeki yerleşimi gösteren ısı haritası. (D) Aktif gen promotörlerinde ZBTB ve Kohezin arasındaki korelasyonları 
+gösteren eğriler. (E) USPL1 lokusunda ZBTB21, ZBTB7B, ZBTB35, ZBTB7A, ZBTB11, GFP kontrolü ve girdi arasındaki 
+birlikte lokalizasyonu gösteren ChIP-seq anlık görüntüleri. (F) ZBTB zirveleri ve Kohezin zirvelerindeki sinyalleri gösteren 
+meta-gen analizi (Wang vd., 2023). 
+Bu proje önerisinde, Wang vd. (2023) çalışması ve veri setinden esinlenilerek, ZBTB ve Kohezin etkileşimlerinin 
+hücredeki 3D kromatin organizasyonu üzerindeki etkileri istatistiksel analizler, zaman serisi modelleri ve lineer 
+modelleme yöntemleriyle incelenecektir. Bu analizler sayesinde, ZBTB faktörlerinin Kohezin ile etkileşerek 
+kromatinin üç boyutlu yapısında meydana getirdiği değişiklikler ve bu değişikliklerin gen ekspresyonu ile 
+hücresel süreçlere etkisi anlaşılacaktır. Ayrıca, lineer modelleme kullanılarak, bu etkileşimlerin genom üzerindeki 
+etkilerinin niceliksel olarak değerlendirilmesi sağlanacak ve kromatin yapısını ve gen ekspresyonunu etkileyen 
+faktörler incelenecektir. Bu açıdan bakıldığında, Wang vd. (2023) çalışmasında kullanılan yöntemler daha 
+gelişmiş ve karmaşıkken, bizim yaklaşımımız veri analizini daha erişilebilir kılmayı amaçlayan basit ve 
+anlaşılabilir yöntemlere dayanmaktadır. Bu proje çalışmasında kullanılacak olan veriler, GEO veri tabanında 
+GSE184272 kodu ile mevcuttur 
+Kullanılacak istatistiksel yöntemler, proteinlerin DNA üzerindeki bağlanma noktalarını belirlemenin yanı sıra, 
+ZBTB-Kohezin etkileşimlerinin genom üzerinde nasıl dağıldığı ve bu etkileşimlerin zamanla nasıl değiştiği 
+
+
+=== [SAYFA 6] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+6 
+  
+ 
+konusunda bilgi verecektir. Zaman serisi analizleri, proteinlerin geçici olarak ortadan kaldırılması veya aktif hale 
+getirilmesinin kromatin yapısındaki değişimlerle ve genetik düzenlemeyle nasıl bir ilişki içinde olduğu 
+gözlemlenebilecektir. Lineer modelleme ise, bu etkileşimlerin kromatin yapısı ve gen ekspresyonu üzerindeki 
+etkilerini nicel olarak değerlendirme imkânı sağlayacaktır. 
+Bu analizler sayesinde, ZBTB ve Kohezin etkileşimlerinin hücredeki genetik ağlar ve düzenleyici mekanizmalar 
+üzerindeki rolü ortaya konacaktır. Ayrıca, bu etkileşimlerin bozulmasının genetik hastalıklar veya kanser gibi 
+sağlık sorunlarının gelişimindeki potansiyel etkileri daha iyi anlaşılabilecektir. 
+Araştırma Önerisinin Özgün Değeri: 
+Bu çalışmanın özgün değeri, ZBTB ve Kohezin etkileşimlerinin hücresel 3D kromatin organizasyonu üzerindeki 
+etkilerini anlamak için istatistiksel analizler ve zaman serisi modelleri kullanılarak kapsamlı ve erişilebilir bir veri 
+analiz yöntemi sunulmasıdır. Literatürde, 3D kromatin organizasyonunu anlamaya yönelik genellikle karmaşık 
+biyoinformatik ve modelleme teknikleri kullanılmaktadır. Ancak, bu araştırmada, Python dili ile uygulanan veri 
+işleme, korelasyon analizleri ve zaman serisi modelleri gibi anlaşılır ve yeniden üretilebilir yöntemler ile ZBTB ve 
+Kohezin etkileşimleri üzerindeki analizler sadeleştirilmiştir. Bu yaklaşım, hücresel gen düzenleme süreçlerine 
+dair temel bilgilerin geniş bir araştırmacı kitlesi tarafından daha erişilebilir hale getirilmesini amaçlamaktadır. 
+Önerilen çalışma, ZBTB ve Kohezin proteininin kromatin yapısındaki etkileşimlerini doğrusal regresyon modelleri 
+ve korelasyon analizleri aracılığıyla inceleyerek literatüre önemli bir kavramsal katkı sağlamaktadır. Bu 
+yöntemler sayesinde ZBTB-Kohezin etkileşimlerinin kromatin üzerindeki bağlanma yoğunlukları ile gen 
+ekspresyon düzeyleri arasındaki ilişkiler ortaya konulacaktır. Alkolizm veya kanser gibi genetik hastalıkların 
+anlaşılmasında ZBTB-Kohezin etkileşimlerinin hücreye özel işlevsel farklılıkları analiz edilerek 3D kromatin 
+organizasyonuna dair mevcut çalışmalara yeni bir bakış açısı sunulacaktır. Bu çalışma, aynı zamanda, hücresel 
+kromatin organizasyonuna yönelik nörolojik ya da genetik hastalıkların anlaşılmasında sadeleştirilmiş analiz 
+yöntemleri ile katkı sağlayarak, araştırmacılara metodolojik bir örnek teşkil etmeyi hedeflemektedir. 
+Ayrıca, kök hücreler gibi farklı hücre modellerinde ZBTB-Kohezin etkileşimlerinin araştırılması, bu proteinlerin 
+hücre farklılaşması ve işlevi üzerindeki potansiyel etkilerini anlamaya yönelik yeni bir metodolojik çerçeve 
+sunarak hücresel biyoloji alanında önemli bir katkı sağlayacaktır. 
+Araştırma Sorusu: ZBTB21 ve ZBTB7B gibi ZBTB transkripsiyon faktörleri, Kohezin’in kromatin üzerindeki 
+bağlanma dinamiklerini ve 3D kromatin organizasyonunu nasıl etkiler? 
+ 
+Hipotez: ZBTB21 ve ZBTB7B gibi ZBTB transkripsiyon faktörlerinin, Kohezin’in kromatin bağlanmasını 
+destekleyerek 3D kromatin yapısını düzenlediği ve gen ekspresyonunu arasında anlamlı düzeyde ilişkiler 
+bulunduğu öngörülmektedir. Bu etkileşimin, temel istatistiksel analizlerle tespit edilebilir ve kromatin 
+organizasyonunun düzenlenmesine yönelik daha ileri çalışmalara rehberlik edebileceği düşünülmektedir. 
+ 
+Bu çalışma, sürdürülebilir kalkınma hedeflerinden "Sağlıklı ve kaliteli yaşamı her yaşta güvence altına almak" ile 
+yakından ilişkilidir. Genetik materyalin üç boyutlu (3D) organizasyonu, hücre içinde genlerin doğru zaman ve 
+yerlerde aktive edilmesi veya baskılanması için kritik bir mekanizma sunar. Kohezin ve ZBTB transkripsiyon 
+faktörleri gibi proteinlerin bu organizasyonda önemli roller oynadığı bilinmektedir. Ancak, bu proteinlerin nasıl 
+etkileşime girerek gen düzenleyici ağları oluşturduğu ve hücrelerin normal işlevlerini nasıl sürdürdükleri 
+konusundaki bilgilerimiz sınırlıdır. Çalışmanın bulguları, genetik materyalin 3D organizasyonundaki 
+düzensizliklerin gen ekspresyonu üzerinde oluşturabileceği etkileri anlamamıza katkı sağlayacaktır. Bu durum, 
+genetik hastalıklar, nörolojik bozukluklar ve kanser gibi çeşitli sağlık sorunlarında gen düzenleyici 
+mekanizmaların nasıl bozulduğunu anlamak için kritik bir bilgi sunabilir. Kohezin ve ZBTB faktörlerinin rollerinin 
+anlaşılması, genetik hastalıklar ve kanser gibi karmaşık hastalıkların tedavisine yönelik yeni moleküler hedeflerin 
+belirlenmesine 
+ve 
+bireylerin 
+sağlıklı 
+yaşamlarının 
+güvence 
+altına 
+alınmasına 
+katkı 
+sağlayacak 
+potansiyele sahiptir. 
+ 
+ 
+ 
+1.2. Amaç ve Hedefler 
+    
+Araştırma önerisinin amacı ve hedefleri açık, ölçülebilir, gerçekçi ve araştırma süresince ulaşılabilir nitelikte 
+olacak şekilde yazılır. 
+ 
+Amaç: ZBTB transkripsiyon faktörlerinin Kohezin kompleksi ile etkileşimlerinin hücredeki kromatin yapısının 
+düzenlenmesindeki rollerini incelemektir. Bu kapsamda özellikle ZBTB21 ve ZBTB7B faktörlerinin Kohezin’in 
+kromatine bağlanma yoğunluğu ve bağlanma bölgeleri üzerindeki etkileri araştırılacaktır. 
+
+
+=== [SAYFA 7] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+7 
+  
+ 
+Hedefler: 
+1. İstatistiksel analizler ve zaman serisi modelleri kullanarak, ZBTB faktörlerinin Kohezin ile etkileşimi sonucu 
+kromatinin üç boyutlu yapısında meydana gelen değişiklikleri belirlemek. 
+2. Lineer modelleme yöntemiyle, ZBTB ve Kohezin etkileşimlerinin genom üzerindeki etkilerini niceliksel olarak 
+değerlendirerek, kromatin yapısını ve gen ekspresyonunu etkileyen faktörleri belirlemek. 
+3. Sürdürülebilir gelişim bağlamında sağlıklı ve kaliteli yaşam için sürdürülebilir biyoteknolojik çözümler ve 
+genetik düzenleme alanlarında potansiyel uygulamalara katkı sağlamak. Bu bağlamda, kök hücreler gibi model 
+sistemler kullanılarak, gen düzenleme mekanizmalarının farklılaşma ve hücresel yenilenme süreçlerindeki rolü 
+anlaşılabilir. Elde edilen bulgular, kök hücrelerin tedavi ve rejeneratif tıp alanlarındaki potansiyel kullanımını 
+destekleyecek biyoteknolojik çözümler ve genetik düzenleme stratejileri geliştirilmesine katkı sağlayacaktır. Bu 
+da uzun vadede sürdürülebilir ve yenilikçi sağlık çözümlerine önemli bir zemin oluşturacaktır. 
+4.Bu proje, ülkemizde disiplinler arası çalışmaları teşvik ederek, öğrenciler, mühendisler ve akademisyenler için 
+yenilikçi araştırmalara yön verecek bir odak noktası olmayı amaçlamaktadır. Araştırma bulguları, akademik 
+çalışmaları derinleştirmek, farklı mühendislik alanlarına uygulama alanları sağlamak ve özellikle proje 
+yürütücüsü ve proje araştırmacısının akademik gelişimlerine katkı sağlayarak lisansüstü çalışmalarına temel 
+oluşturacaktır. Bu projenin gelecekte yapılacak biyoinformatik çalışmalarına ışık tutması hedeflenmektedir. 
+Bu amaç ve hedefler doğrultusunda, proje ZBTB transkripsiyon faktörlerinin Kohezin ile etkileşimleri yoluyla 
+kromatin organizasyonundaki rollerini açıklığa kavuşturmayı hedeflemekte ve böylece hücresel gen düzenleme 
+mekanizmalarına dair yeni bilgiler sunmayı amaçlamaktadır. 
+ 
+2. YÖNTEM 
+ 
+Araştırma önerisinde uygulanacak yöntem ve araştırma teknikleri (veri toplama araçları ve analiz yöntemleri dahil) 
+ilgili literatüre atıf yapılarak açıklanır. Yöntem ve tekniklerin çalışmada öngörülen amaç ve hedeflere ulaşmaya 
+elverişli olduğu ortaya konulur.  
+ 
+Yöntem bölümünün araştırmanın tasarımını, bağımlı ve bağımsız değişkenleri ve istatistiksel yöntemleri 
+kapsaması gerekir. Araştırma önerisinde herhangi bir ön çalışma veya fizibilite yapıldıysa bunların sunulması 
+beklenir. Araştırma önerisinde sunulan yöntemlerin iş paketleri ile ilişkilendirilmesi gerekir. 
+ 
+ 
+Bu çalışmada, Kohezin proteini ile ZBTB ailesinden transkripsiyon faktörlerinin kromatin organizasyonu 
+üzerindeki etkileşimlerinin analizi amaçlanmaktadır. Analizler, gen ekspresyon düzeyleri ve kromatin 
+organizasyonunun üç boyutlu yapısı üzerine etki eden temel dinamikleri anlamak amacıyla gerçekleştirilmiştir. 
+Çalışmada kullanılacak veri setleri, biyoinformatik analizler ile gen ekspresyon düzeyleri, protein bağlanma 
+yoğunlukları ve kromatin yapısının zaman serisi verilerini kapsamaktadır. Bu bölümde veri hazırlama süreci, 
+değişkenler, analiz teknikleri ve literatürdeki benzer yöntemlere yapılan atıflar sunulmaktadır. 
+ 
+Veri Seti  
+ 
+Bu projede kullanılacak veri seti, daha önce Wang ve arkadaşlarının (2023) çalışmasında kullanılan GEO veri 
+tabanından alınmıştır. Çalışmada ZBTB21 ve ZBTB7B gibi ZBTB transkripsiyon faktörleri ile Kohezin 
+kompleksinin kromatin üzerindeki bağlanma noktaları ve zaman içindeki değişimleri incelenmiştir. ZBTB ve 
+Kohezin etkileşimlerini içeren bu veri seti, 3D kromatin yapısındaki dinamikleri ve proteinlerin bağlanma 
+yoğunluklarını ölçmek için uygun bir kaynak sağlamaktadır. Veri setinde çeşitli zaman dilimlerinde farklı kromatin 
+bölgelerindeki Kohezin ve ZBTB proteinlerinin bağlanma yoğunlukları yer almakta ve gen ekspresyonuna etkileri 
+gözlemlenmektedir. 
+ 
+Bu çalışmada kullanılan veri seti, Kohezin ve ZBTB21 gibi transkripsiyon faktörlerinin kromatin organizasyonuna 
+etkilerini anlamak için çok yönlü biyolojik veri toplama teknikleriyle oluşturulmuştur. Veri seti şu bileşenlerden 
+oluşmaktadır: 
+ 
+1. 
+ChIP-Seq Verileri: Bu veriler, Kohezin ve ZBTB21’in kromatin üzerindeki bağlanma bölgelerini ve bu 
+bağlanmaların yoğunluğunu göstermektedir. ChIP-Seq ile Kohezin ve ZBTB proteinlerinin spesifik DNA 
+bölgelerine nasıl bağlandığı ve bu bağlanmaların hücredeki gen düzenleyici işlevlerle nasıl ilişkili 
+olduğu belirlenmektedir. 
+ 
+2. 
+Kütle Spektrometrisi (MS) Verileri: ZBTB ve Kohezin kompleksinde yer alan diğer proteinler tespit 
+
+
+=== [SAYFA 8] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+8 
+  
+ 
+edilmiştir. ChIP-MS kullanılarak elde edilen bu veri, ZBTB21 ve Kohezin ile etkileşen diğer proteinleri 
+ve bu proteinlerin hücresel işlevlerinin anlaşılmasını sağlamaktadır. 
+ 
+3. 
+BAT-HiC Verileri: DNA bölgeleri arasındaki üç boyutlu etkileşimleri analiz etmek için BAT-HiC tekniği 
+kullanılmıştır. Bu yöntem, kromatinin belirli bölgelerinin hücre çekirdeğinde birbirine nasıl yaklaştığını 
+ve böylece gen ekspresyonunu nasıl etkilediğini anlamak için gereklidir. 
+ 
+4. 
+4C-Seq Verileri: Bu veriler, spesifik gen bölgelerinin (örneğin, ZBTB21 tarafından düzenlenen bölgeler) 
+diğer DNA bölgeleri ile nasıl etkileşimde bulunduğunu göstermektedir. Bu, belirli bir genin hücre içinde 
+diğer gen bölgeleriyle olan konum ilişkilerini anlamak için kullanılmaktadır.  
+ 
+5. 
+RNA-Seq Verileri: ZBTB21 eksikliği durumunda gen ekspresyon düzeylerindeki değişiklikleri 
+belirlemek için RNA-Seq verileri kullanılmıştır. Bu veri, hangi genlerin aktive edildiğini veya 
+baskılandığını göstererek ZBTB21'in düzenleyici işlevini ortaya koymaktadır. 
+ 
+Burada ChIP-Seq ve BAT-HiC verileri bağlanma ve konum bilgilerini sağlarken, RNA-Seq verileri düzenleyici 
+etkiyi, 4C-Seq verileri ise deneyde belirli etkileşimleri görselleştirmektedir. 
+ 
+Analiz Adımları ve İş Paketleri 
+ 
+İş Paketi 1 (İP1) – Veri Hazırlama ve Temizleme: İlk olarak, veri seti Python programlama dilinde analiz 
+edilebilir hale getirilecektir. ZBTB ve Kohezin etkileşimlerine dair veriler, her bir gen bölgesinde bağlanma 
+yoğunluklarını içerdiğinden, bu bilgileri organize edip analiz edilecek bir formata dönüştürülecektir. Eksik veya 
+hatalı kayıtlar ayıklanacak ve analiz dışında tutulacaktır. 
+ 
+İş Paketi 2 (İP2) – Bağlanma Yoğunluğu ve Korelasyon Analizi: Kohezin ve ZBTB proteinlerinin kromatin 
+üzerindeki bağlanma yoğunlukları ile gen ekspresyon seviyeleri arasında korelasyon analizleri yapılacaktır. Her 
+bir gen bölgesi için ortalama bağlanma yoğunlukları ve bağlanma sürekliliği hesaplanacaktır. Kohezin'in 
+kromatin üzerindeki bağlanma özellikleri ile ZBTB21 ve ZBTB7B'nin bağlanma yoğunlukları arasında anlamlı bir 
+ilişki olup olmadığı incelenecektir. Bu analiz, verileri ilişkilendirmek ve Kohezin-ZBTB etkileşimlerini istatistiksel 
+olarak doğrulamak için korelasyon katsayıları kullanarak yapılacaktır. 
+ 
+Öncelikle, gen bölgelerindeki bağlanma yoğunlukları hazırlanır. Bu yoğunluklar, ChIP-Seq veya benzer 
+deneylerden elde edilen okunma yoğunluklarına (peak yoğunlukları) dayalıdır. Her bir gen bölgesi için ortalama 
+bağlanma yoğunluğu hesaplanacaktır. Örneğin, belirli bir genin bağlanma yoğunluğu 𝑦𝑖 ise, ortalama bağlanma 
+yoğunluğu 𝑦̅ şu şekilde hesaplanabilir: 
+ 
+𝑦̅ = 1
+𝑁∑𝑦𝑖
+𝑁
+𝑖=1
+ 
+Burada 𝑁, gen bölgesi üzerinde belirlenen bağlanma noktalarının sayısını göstermektedir.  
+ 
+Korelasyon analizi, Kohezin’in bağlanma özellikleri ile ZBTB proteinlerinin bağlanma yoğunlukları arasındaki 
+ilişkiyi değerlendirmek için yapılır. Bu analizde Pearson korelasyon katsayısı kullanılacaktır. Pearson korelasyon 
+katsayısı, iki değişken arasındaki doğrusal ilişkiyi gösterir ve 𝑟 ile ifade edilir. Kohezin bağlanma yoğunluğu 𝑋 ve 
+ZBTB bağlanma yoğunluğu 𝑌 olarak alındığında, 𝑟 şu formüle göre hesaplanır: 
+ 
+𝑟=
+∑
+(𝑋𝑖−𝑋̅)(𝑌𝑖−𝑌̅)
+𝑁
+𝑖=1
+√∑
+(𝑋𝑖−𝑋̅)2
+𝑁
+𝑖=1
+∙√∑
+(𝑌𝑖−𝑌̅)2
+𝑁
+𝑖=1
+ 
+ 
+Burada: 
+ 
+𝑋𝑖: Kohezin bağlanma yoğunluğu değerleri 
+ 
+𝑌𝑖: ZBTB proteinlerinin bağlanma yoğunluğu değerleri 
+ 
+𝑋̅ ve 𝑌̅: Sırasıyla 𝑋 ve 𝑌 için ortalama değerleri ifade etmektedir.  
+ 
+ 
+Python'da, bu analiz pandas ve scipy.stats gibi kütüphanelerle gerçekleştirebilmektedir. Analiz sonuçlarında 
+elde edilen r değerleri ve p değerlerine göre sonuçlar yorumlanır:  
+ 
+ 
+r değeri -1 ve +1 arasında olup, +1’e yakın değerler pozitif korelasyon, -1’e yakın değerler negatif 
+korelasyon olduğunu göstermektedir 
+ 
+p-değeri ise korelasyonun anlamlı olup olmadığını belirler. 𝑝< 0.05 değeri, korelasyonun istatistiksel 
+olarak anlamlı olduğunu göstermektedir. 
+ 
+
+
+=== [SAYFA 9] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+9 
+  
+ 
+Bu analiz, ZBTB21 ve ZBTB7B’nin Kohezin üzerindeki düzenleyici etkisini incelemek için kullanılacak olup, 
+korelasyon analizinin sonuçlarına göre bağlanma yoğunlukları arasında anlamlı bir ilişki olup olmadığına karar 
+verilecektir. 
+ 
+İş Paketi 3 (İP3) – İstatistiksel Testler: Bu iş paketinde, ZBTB21 ve ZBTB7B transkripsiyon faktörlerinin 
+Kohezin bağlanma yoğunlukları ile gen ekspresyon seviyeleri arasındaki ilişkiyi incelemek için istatistiksel testler 
+yapılacaktır. Bu testler, transkripsiyon faktörlerinin bağlandıkları kromatin bölgelerinde gen ekspresyonu 
+üzerinde anlamlı bir etkisinin olup olmadığını belirlememize olanak tanır. Bu süreçte, t-testi ve ANOVA gibi 
+istatistiksel analiz yöntemleri kullanılacaktır. 
+ 
+Analizde kullanılan veriler, her bir kromatin bölgesi için şu değişkenleri içerecektir: 
+ 
+ 
+Bağımsız Değişkenler: Kohezin ve ZBTB proteinlerinin bağlanma yoğunlukları. 
+ 
+Bağımlı Değişken: Gen ekspresyon seviyeleri. 
+ 
+ 
+Bu değişkenlere dayalı olarak hipotezler şu şekilde formüle edilir: 
+ 
+ 
+Null hipotez (H0): ZBTB ve Kohezin bağlanma yoğunluklarının gen ekspresyonu üzerinde anlamlı bir 
+etkisi yoktur. 
+ 
+Alternatif hipotez (H1): ZBTB ve Kohezin bağlanma yoğunluklarının gen ekspresyonu üzerinde 
+anlamlı bir etkisi vardır. 
+ 
+t-Testi, iki grup arasında ortalama bir fark olup olmadığını test etmek için kullanılır. Bu analizde, ZBTB veya 
+Kohezin bağlanma yoğunluğunun yüksek ve düşük olduğu durumlar karşılaştırılarak gen ekspresyon 
+seviyelerinde anlamlı bir fark olup olmadığı değerlendirilir. 
+ 
+Örneğin: 
+ 
+Yüksek bağlanma yoğunluğu: ZBTB ve Kohezin bağlanma yoğunluğu belirli bir eşik değerin üzerinde 
+olan kromatin bölgeleri. 
+ 
+ 
+Düşük bağlanma yoğunluğu: ZBTB ve Kohezin bağlanma yoğunluğu belirli bir eşik değerin altında 
+olan kromatin bölgeleri. 
+ 
+1. 
+t-testi 
+ 
+Bu iki gruptaki gen ekspresyon düzeylerini karşılaştırmak için iki örneklemli t-testi yapılabilir. t-değeri ve p-değeri 
+hesaplanarak, iki grup arasında anlamlı bir fark olup olmadığı belirlenir. 
+ 
+t-testi formülü şu şekildedir: 
+ 
+𝑡=  𝑋̅1 −𝑋̅2
+√𝑠1
+2
+𝑛1 + 𝑠2
+2
+𝑛2
+ 
+Burada: 
+ 
+𝑋̅1 ve 𝑋̅2: Yüksek ve düşük bağlanma yoğunluğu gruplarının ortalama gen ekspresyon değerlerini, 
+ 
+𝑠1 ve 𝑠2 : İki grubun varyanslarını, 
+ 
+𝑛1 ve 𝑛2 : İki grubun örneklem büyüklüklerini ifade etmektedir.  
+ 
+2. 
+Anova Testi 
+ 
+ANOVA, birden fazla grubun ortalamaları arasında anlamlı bir fark olup olmadığını test etmek için kullanılır. Bu 
+analiz, farklı bağlanma yoğunluklarına sahip gruplar arasında gen ekspresyon seviyelerinin farklılık gösterip 
+göstermediğini belirlemek için uygundur. 
+ 
+Örneğin: 
+ 
+ 
+Grup 1: Çok düşük bağlanma yoğunluğu (eşik değerin altında). 
+ 
+Grup 2: Orta düzeyde bağlanma yoğunluğu. 
+ 
+Grup 3: Çok yüksek bağlanma yoğunluğu (eşik değerin üzerinde). 
+ 
+ 
+ANOVA testi, gruplar arasındaki farkı test etmek için F-değerini hesaplar: 
+
+
+=== [SAYFA 10] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+10 
+  
+ 
+ 
+𝐹= 𝐺𝑟𝑢𝑝𝑙𝑎𝑟 𝑎𝑟𝑎𝑠𝚤 𝑉𝑎𝑟𝑦𝑎𝑛𝑠
+𝐺𝑟𝑢𝑝𝑙𝑎𝑟 𝑖ç𝑖 𝑉𝑎𝑟𝑦𝑎𝑛𝑠 
+ 
+Elde edilen F-değeri ve p-değeri, gruplar arasında anlamlı bir fark olup olmadığını gösterir. Eğer 𝑝< 0.05 ise, 
+gruplar arasında istatistiksel olarak anlamlı bir fark olduğu kabul edilir ve gen ekspresyonu üzerinde bağlanma 
+yoğunluğunun etkili olduğu sonucuna varılır. 
+ 
+Python’da bu analizleri yapmak için scipy.stats ve statsmodels kütüphaneleri kullanılabilir. 
+ 
+Bu analizlerde elde edilen p-değerleri şu şekilde yorumlanabilir: 
+ 
+ 
+t-Testi Sonuçları: Eğer t-testi p-değeri 𝑝< 0.05 ise, ZBTB veya Kohezin bağlanma yoğunluğunun 
+yüksek ve düşük olduğu gruplar arasında gen ekspresyon seviyelerinde anlamlı bir fark vardır. 
+ 
+ 
+ANOVA Sonuçları: ANOVA testi sonucunda 𝑝< 0.05  ise, bağlanma yoğunluğu gruplarına göre gen 
+ekspresyon seviyelerinde anlamlı bir farklılık olduğu kabul edilir. 
+ 
+ 
+Bu analizler, ZBTB ve Kohezin'in bağlandıkları bölgelerde gen ekspresyonunu düzenleme kapasitelerini 
+anlamamıza yardımcı olur ve gen düzenleyici işlevleri hakkında önemli bilgiler sağlamaktadır. 
+ 
+İş Paketi 4 (İP4) – Zaman Serisi Analizi ve Doğrusal Regresyon Modeli: Kohezin ve ZBTB proteinlerinin 
+kromatin üzerindeki bağlanma yoğunluklarının zamansal değişimlerini değerlendirmek için zaman serisi 
+analizleri gerçekleştirilecektir. Kohezin’in belirli gen bölgelerindeki bağlanma yoğunlukları ile ZBTB 
+transkripsiyon faktörlerinin bağlanma zamanlaması arasındaki dinamikleri incelemek amacıyla basit doğrusal 
+regresyon modelleri kullanılacaktır. Bu modeller ile zaman içindeki bağlanma değişimlerinin, hücresel gen 
+ekspresyonuna etkisi değerlendirilecektir. 
+ 
+Bu analizde kullanılan veri yapısı zaman serisine dayalı olup, her bir zaman noktasında ölçülen bağlanma 
+yoğunluklarını içerir: 
+ 
+ 
+Bağımsız Değişken (X): Zamana göre ölçülen Kohezin ve ZBTB proteinlerinin kromatin üzerindeki 
+bağlanma yoğunluklarıdır. 
+ 
+ 
+Bağımlı Değişken (Y): Aynı zaman diliminde ölçülen gen ekspresyon seviyeleridir. 
+ 
+Zaman serisi analizlerinde, verinin her bir zaman noktasında tutarlı bir sıralamaya sahip olması gerekir. Bu 
+nedenle, ölçümler düzenli aralıklarla yapılmış ve zamana bağlı olarak sıralanmış olmalıdır. 
+ 
+Zaman serisi analizi ile Kohezin ve ZBTB proteinlerinin bağlanma yoğunluklarının zamana göre nasıl değiştiği 
+incelenecektir. Zaman serisi verilerinde genel eğilim ve rastgele değişimler gibi özellikler analiz edilerek, belirli 
+bir düzen olup olmadığı belirlenecektir. 
+ 
+Örneğin, zaman serisi verilerinde Kohezin bağlanma yoğunluğunun günün belirli saatlerinde artış gösterdiğini 
+veya haftalık olarak farklılık gösterdiğini saptamak mümkündür. Bu tür değişimlerin incelenmesi, gen 
+ekspresyonundaki dalgalanmaların anlaşılmasına katkı sağlayacaktır. Zaman içinde Kohezin ve ZBTB 
+bağlanma yoğunluklarının nasıl değiştiğini görselleştiren grafikler elde edilerek, gözlenen artış ve azalışlar 
+değerlendirilerek bağlanma yoğunlukları yorumlanacaktır.  
+ 
+Zaman serisi analizinden elde edilen bilgileri kullanarak, belirli bağlanma yoğunlukları ve gen ekspresyon 
+seviyeleri arasındaki ilişkiyi doğrusal regresyon modeli ile inceleyebiliriz. Bu model, bağımsız değişken olarak 
+Kohezin veya ZBTB bağlanma yoğunluğunu, bağımlı değişken olarak ise gen ekspresyon seviyesini almaktadır. 
+ 
+Bir doğrusal regresyon modeli, genellikle aşağıdaki formülle ifade edilmektedir: 
+𝑌= 𝛽0 + 𝛽1𝑋+ 𝜀. 
+Burada; 
+𝑌: Bağımlı değişkeni, 
+𝑋: Bağımsız değişkeni, 
+
+
+=== [SAYFA 11] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+11 
+  
+ 
+𝛽0: Regresyon denkleminin kesişim noktasını, 
+𝛽1: Regresyon katsayısı, yani 𝑋 değişkeninin 𝑌 üzerindeki etkisini, 
+𝜀: Hata terimi olup gözlemler arasındaki sapmaları temsil etmektedir. 
+Analiz sonucunda elde edilen 𝛽1 katsayısı, Kohezin bağlanma yoğunluğunun gen ekspresyonu üzerindeki 
+etkisini nümerik olarak sunacaktır.  
+Doğrusal regresyon sonuçlarında elde edilen 𝛽1 ve 𝑝−değerleri şu şekilde yorumlanabilir: 
+ 
+𝛽1 Katsayısı: Pozitif bir değer, Kohezin bağlanma yoğunluğunun arttıkça gen ekspresyon seviyesinin 
+de arttığını gösterir. Negatif bir değer ise bağlanma yoğunluğu arttıkça gen ekspresyon seviyesinin 
+azaldığını ifade eder. 
+ 
+𝑝−Değeri: 𝑝< 0.05 ise sonuç istatistiksel olarak anlamlıdır, yani Kohezin bağlanma yoğunluğunun gen 
+ekspresyonu üzerinde belirgin bir etkisi olduğu kabul edilir. 
+Bu analiz, Kohezin ve ZBTB proteinlerinin kromatin üzerindeki bağlanma yoğunluklarının zaman içinde 
+değişimlerinin gen ekspresyonunu nasıl etkilediğine dair önemli ipuçları sağlayacak ve bu değişimlerin hücresel 
+süreçlerle ilişkisini anlamamıza yardımcı olacaktır. 
+İş Paketi 5 (İP5) – Sonuçların Değerlendirilmesi: Tüm analizlerden elde edilen sonuçlar, Kohezin ve ZBTB 
+proteinlerinin kromatin üzerindeki etkileşimlerinin gen ekspresyonu üzerindeki düzenleyici etkilerini anlamamıza 
+yardımcı olacaktır. Bağlanma yoğunlukları, korelasyon katsayıları ve regresyon modelleme sonuçları 
+literatürdeki bulgularla karşılaştırılarak, Kohezin-ZBTB etkileşimlerinin biyolojik işlevleri üzerindeki etkileri 
+tartışılacaktır. 
+ 
+Bu yöntemler ve analizler, Kohezin ve ZBTB transkripsiyon faktörlerinin kromatin üzerindeki bağlanma 
+dinamiklerinin gen ekspresyonu üzerindeki etkilerini incelemek için pratik ve erişilebilir bir yaklaşım sunmaktadır. 
+Bu yaklaşım, literatürde kromatin organizasyonuna yönelik yapılan diğer çalışmalarla uyumlu olup, genetik 
+düzenleme süreçlerini anlamak için kullanılan istatistiksel modelleme ve zaman serisi analizlerine 
+dayanmaktadır. Kromatin yapısı ve protein etkileşimlerinin gen ekspresyonuna etkilerini inceleyen çalışmalarda 
+kullanılan analiz yöntemleri hakkında daha fazla bilgi için (Rao ve ark., (2014); Bonev ve Cavalli, (2016); 
+Weintraub, (2017); Rowley ve Corces, (2018); Cai ve ark., (20219) kaynaklarına başvurulabilir. 
+ 
+
+
+=== [SAYFA 12] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+12 
+  
+ 
+3 
+ PROJE YÖNETİMİ  
+ 
+3.1 İş- Zaman Çizelgesi 
+ 
+Araştırma önerisinde yer alacak başlıca iş paketleri ve hedefleri, her bir iş paketinin hangi sürede gerçekleştirileceği, başarı ölçütü ve araştırmanın başarısına katkısı “İş-
+Zaman Çizelgesi” doldurularak verilir. Literatür taraması, gelişme ve sonuç raporu hazırlama aşamaları, araştırma sonuçlarının paylaşımı, makale yazımı ve malzeme 
+alımı ayrı birer iş paketi olarak gösterilmemelidir. 
+Başarı ölçütü olarak her bir iş paketinin hangi kriterleri sağladığında başarılı sayılacağı açıklanır. Başarı ölçütü, ölçülebilir ve izlenebilir nitelikte olacak şekilde nicel veya 
+nitel ölçütlerle (ifade, sayı, yüzde, vb.) belirtilir. 
+ 
+ 
+İŞ-ZAMAN ÇİZELGESİ (*) 
+         
+İP 
+No 
+İş Paketlerinin Adı ve Hedefleri 
+Kim(ler) 
+Tarafından 
+Gerçekleştirileceği 
+Zaman Aralığı 
+(1-12 Ay) 
+Başarı Ölçütü ve Projenin Başarısına Katkısı  
+1 
+Veri Hazırlama ve Temizleme 
+Yürütücü ve 
+Araştırmacı 
+1 ay 
+Başarı Ölçütü: Veri setlerinin eksiksiz ve analiz edilebilir 
+formatta hazırlanması.  
+Katkısı: Projenin sonraki aşamalarında güvenilir ve temiz 
+veri kullanılarak, analiz sonuçlarının doğruluğunu ve 
+geçerliliğini sağlar. 
+2 
+Bağlanma Yoğunluğu ve 
+Korelasyon Analizi 
+Danışman, Yürütücü 
+ve Araştırmacı 
+3 ay 
+Başarı Ölçütü: Kohezin ve ZBTB bağlanma yoğunlukları 
+ile 
+gen 
+ekspresyonu 
+arasındaki 
+korelasyonun 
+belirlenmesi ve anlamlı ilişkilerin ortaya çıkarılması.  
+Katkısı: Projenin hipotezini destekleyen ilk bulguların 
+elde edilmesi, analiz sürecinin yönünü belirler ve projenin 
+bilimsel katkısını artırır. 
+3 
+İstatistiksel Testler 
+Danışman, Yürütücü 
+ve Araştırmacı  
+3 ay 
+Başarı 
+Ölçütü: Bağlanma 
+yoğunluklarının 
+gen 
+ekspresyonu üzerindeki etkilerini anlamak için t-testi ve 
+ANOVA sonuçlarının elde edilmesi ve anlamlı farkların 
+tespiti.  
+Katkısı: ZBTB ve Kohezin proteinlerinin gen düzenleyici 
+rollerini doğrulayan istatistiksel kanıtlar sunar, hipotezin 
+sağlam bir şekilde test edilmesini sağlar. 
+4 
+Zaman Serisi Analizi ve Doğrusal 
+Regresyon Modeli 
+Danışman, Yürütücü 
+ve Araştırmacı 
+3 ay 
+Başarı Ölçütü: Zaman serisi analizi ve regresyon 
+modelleri 
+ile 
+bağlanma 
+yoğunluklarının 
+zamansal 
+değişimleri ve gen ekspresyonuna etkilerinin ortaya 
+konulması.  
+Katkısı: Projenin ana hedefi olan proteinlerin zamansal 
+bağlanma 
+dinamiklerinin 
+anlaşılması 
+sağlanır, 
+gen 
+düzenleme süreçlerine dair yeni bulgular elde edilir. 
+
+
+=== [SAYFA 13] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+13 
+  
+ 
+5 
+Sonuçların Değerlendirilmesi 
+Danışman, Yürütücü 
+ve Araştırmacı 
+2 ay 
+Başarı Ölçütü: Tüm analizlerin sonuçlarının kapsamlı bir 
+rapor halinde sunulması 
+ve elde edilen verilerin 
+değerlendirilmesi.  
+Katkısı: Projenin genel bulgularının net bir şekilde 
+özetlenmesi, 
+bilimsel 
+katkıların 
+vurgulanması 
+ve 
+gelecekteki araştırmalara yol göstermesi sağlanır. 
+ 
+ 
+(*) 
+Çizelgedeki 
+satırlar 
+ve 
+sütunlar 
+gerektiği 
+kadar 
+genişletilebilir 
+ve 
+çoğaltılabilir.
+
+
+=== [SAYFA 14] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+14 
+  
+ 
+ 
+3.2 Risk Yönetimi 
+   Araştırmanın başarısını olumsuz yönde etkileyebilecek riskler ve bu risklerle karşılaşıldığında araştırmanın 
+başarıyla yürütülmesini sağlamak için alınacak tedbirler (B Planı) ilgili iş paketleri belirtilerek ana hatlarıyla 
+aşağıdaki Risk Yönetimi Tablosu’nda ifade edilir. B planlarının uygulanması araştırmanın temel hedeflerinden 
+sapmaya yol açmamalıdır. 
+ 
+                                                       RİSK YÖNETİMİ TABLOSU* 
+İP 
+No 
+En Önemli Riskler 
+Risk Yönetimi (B Planı) 
+1 
+Veri Temizleme ve Hazırlık Aşamasında 
+Eksik veya Hatalı Veri Bulunması 
+ 
+Eksik veya sıfır değerli veriler varsa, bu veriler analiz 
+dışında tutulacaktır. Verinin temizlenmesi sürecinde 
+her 
+kanal 
+ve 
+deneme 
+için 
+kapsamlı 
+kontrol 
+yapılacaktır. Gerekirse literatürde kullanılan veri 
+tamamlama 
+yöntemleri 
+uygulanarak 
+eksiklikler 
+giderilecektir. 
+2 
+Doğrusal Regresyon Modelinde Yeterli 
+Tahmin Performansının Sağlanamaması 
+ 
+Bağımsız değişkenler doğrusal olmayan ilişkiler 
+sergiliyorsa veya bağımlı değişken sınıflandırma 
+gerektiriyorsa, doğrusal regresyon dışında lojistik 
+regresyon gibi sınıflandırma modelleri de alternatif 
+bir yöntem olarak değerlendirilecektir. Ayrıca etkin bir 
+model 
+bulmak 
+amacıyla 
+yapay 
+zeka 
+algoritmalarından da yararlanılabilir. 
+   (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+3.3. Araştırma Olanakları 
+ 
+Bu bölümde projenin yürütüleceği kurum ve kuruluşlarda var olan ve projede kullanılacak olan altyapı/ekipman 
+(laboratuvar, araç, makine-teçhizat, vb.) olanakları belirtilir. 
+ 
+ARAŞTIRMA OLANAKLARI TABLOSU (*) 
+ 
+Kuruluşta Bulunan Altyapı/Ekipman Türü, Modeli 
+(Laboratuvar, Araç, Makine-Teçhizat, vb.) 
+Projede Kullanım Amacı 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+4. 
+YAYGIN ETKİ 
+ 
+      Önerilen çalışma başarıyla gerçekleştirildiği takdirde araştırmadan elde edilmesi öngörülen ve beklenen 
+yaygın etkilerin neler olabileceği, diğer bir ifadeyle yapılan araştırmadan ne gibi çıktı, sonuç ve etkilerin elde 
+edileceği aşağıdaki tabloda verilir. 
+ 
+ARAŞTIRMA ÖNERİSİNDEN BEKLENEN YAYGIN ETKİ TABLOSU 
+Yaygın Etki Türleri 
+Önerilen Araştırmadan Beklenen Çıktı, Sonuç ve 
+Etkiler 
+Bilimsel/Akademik  
+(Makale, Bildiri, Kitap Bölümü, Kitap) 
+Önerilen 
+araştırmadan 
+faydalanılarak 
+yapılacak 
+çalışmalar ile uluslararası konferans sunumları ve 
+indeksli dergilerde makale yayınlanması planlanmaktadır. 
+
+
+=== [SAYFA 15] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+15 
+  
+ 
+Ekonomik/Ticari/Sosyal 
+(Ürün, Prototip, Patent, Faydalı Model, Üretim İzni, 
+Çeşit Tescili, Spin-off/Start- up Şirket, Görsel/İşitsel 
+Arşiv, Envanter/Veri Tabanı/Belgeleme Üretimi, Telife 
+Konu Olan Eser, Medyada Yer Alma, Fuar, Proje 
+Pazarı, Çalıştay, Eğitim vb. Bilimsel Etkinlik, Proje 
+Sonuçlarını Kullanacak Kurum/Kuruluş, vb. diğer yaygın 
+etkiler) 
+Bu araştırmanın sonuçları, biyoteknoloji ve genetik 
+mühendisliği 
+alanlarında 
+uygulanabilir 
+niteliktedir. 
+Kromatin organizasyonu ve gen düzenlenmesine dair 
+elde 
+edilecek 
+verilerin, 
+biyomedikal 
+ve 
+sağlık 
+teknolojilerinde verimliliği artırarak maliyetleri düşürmesi, 
+ülke ekonomisine katkıda bulunması ve uluslararası 
+projelere zemin hazırlaması hedeflenmektedir. Bu sayede 
+genetik düzenleme ve hücresel süreçlerin iyileştirilmesi 
+gibi alanlarda ekonomik, ticari ve sosyal faydalar 
+sağlanabilecektir. 
+Araştırmacı Yetiştirilmesi ve Yeni Proje(ler) 
+Oluşturma  
+(Yüksek Lisans/Doktora Tezi, Ulusal/Uluslararası Yeni 
+Proje) 
+Bu projede kromatin organizasyonuna yönelik geliştirilen 
+modellerin, biyoteknoloji ve genetik mühendisliği başta 
+olmak üzere farklı mühendislik alanlarına katkı sunması 
+ve disiplinler arası projelere kapı açması 
+hedeflenmektedir.Bu çalışmalarla, ülkemizin genetik 
+araştırmalarda kendi teknolojisini üretebilmesine yönelik 
+bir temel oluşturulması amaçlanmaktadır. Ayrıca proje 
+yürütücüsü ve proje araştırmacısının akademik 
+gelişimlerine katkı sağlayarak lisansüstü çalışmalarına 
+temel oluşturacaktır. 
+ 
+ 
+5. BÜTÇE TALEP ÇİZELGESİ 
+Bütçe Türü 
+ Talep Edilen 
+Bütçe Miktarı 
+(TL) 
+Talep Gerekçesi 
+Sarf Malzeme 
+ 
+ 
+Makina/Teçhizat 
+(Demirbaş) 
+ 
+ 
+Hizmet Alımı 
+ 
+ 
+Ulaşım 
+9000 
+Bu proje çalışmasından elde edilen sonuçların aşağıda belirtilen 
+kongrelerde sunulması planlanmaktadır. Bu kongrelere ulaşımın sağlanması 
+için bütçe gerekmektedir.  
+ 
+1. 
+18-19 Şubat 2025, tarihleri arasında Seul’de gerçekleştirilecek olan 
+International Conference on Mathematical Biology and Ecology 
+(https://www.iarfconference.com/conf/index.php?id=2738327) 
+ 
+ 
+2. 
+15-20 Haziran 2025, tarihleri arasında Bulgarya’da 
+gerçekleştirilecek olan Mathematical Methods and Models in 
+Biosciences (Biomath)( https://biomath.bg/2025/) 
+ 
+ 
+3. 
+20-24 Temmuz 2025, tarihleri arasında UK’de gerçekleştirilecek 
+olan The annual international conference on Intelligent Systems for 
+Molecular Biology (ISMB) 
+(https://www.iscb.org/ismbeccb2025/home) 
+ 
+TOPLAM 
+9000 
+ 
+NOT: Bütçe talebiniz olması halinde hem bu tablonun hem de TÜBİTAK Yönetim Bilgi Sistemi (TYBS) başvuru 
+ekranında karşınıza gelecek olan bütçe alanlarının doldurulması gerekmektedir. Yukardaki tabloda girilen bütçe 
+kalemlerindeki rakamlar ile, TYBS başvuru ekranındaki rakamlar arasında farklılık olması halinde TYBS 
+ekranındaki veriler dikkate alınır ve başvuru sonrasında değiştirilemez. 
+ 
+6. BELİRTMEK İSTEDİĞİNİZ DİĞER KONULAR 
+
+
+=== [SAYFA 16] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+16 
+  
+ 
+Sadece araştırma önerisinin değerlendirilmesine katkı sağlayabilecek bilgi/veri (grafik, tablo, vb.) eklenebilir.  
+ 
+ 
+ 
+  
+ 
+7. EKLER 
+ 
+EK-1: KAYNAKLAR 
+ 
+Bonev, B., & Cavalli, G. (2016). Organization and function of the 3D genome. Nature Reviews Genetics, 
+17(11), 661-678. 
+ 
+Cai, Y., Zhang, Y., Loh, Y. E., Tng, J. Q., Lim, M. C., Cao, Z., & Ruan, Y. (2021). H3K27me3-rich genomic 
+regions can function as silencers to repress gene expression via chromatin interactions. Nature 
+Communications, 12(1), 1-14. 
+ 
+Cai, Y., Zhang, Y., Loh, Y. E., Tng, J. Q., Lim, M. C., Cao, Z., ... & Ruan, Y. (2021). Chromatin Accessibility 
+Dynamics Regulated by the Cohesin Complex and ZBTB Transcription Factors. Nature Genetics, 53(1), 1-
+12. 
+ 
+Kaushal, A., Mohana, G., Dorier, J., Ozdemir, I., Omer, A., Cousin, P., Semenova, A., Taschner, M., Dergai, 
+O., & Marzetta, F. (2021). CTCF loss has limited effects on global genome architecture in Drosophila despite 
+critical regulatory functions. Nature Communications, 12, 1011. 
+ 
+Liu, N., Lee, C. H., Swigut, T., & Wysocka, J. (2017). Enhancer connectivity and chromatin dynamics. Cell, 
+171(7), 1564-1578.e16. 
+ 
+Ma, Q., Wang, L., Liu, C., & Zhang, L. (2014). ZBTB transcription factors: key regulators of immune cells and 
+inflammation. Cellular & Molecular Immunology, 11(4), 394-400. 
+ 
+Nasmyth, K., & Haering, C. H. (2009). Cohesin: its roles and mechanisms. Annual Review of Genetics, 43, 
+525-558. 
+ 
+Nunez, P., & Srinivasan, R. (2006). Electric fields of the brain: The neurophysics of EEG (2nd ed.). Oxford 
+University Press. 
+ 
+Phanstiel, D. H., Van Bortle, K., Spacek, D., Hess, G. T., Shamim, M. S., Machol, I., Love, M. I., Aiden, E. L., 
+Bassik, M. C., & Snyder, M. P. (2017). Static and dynamic DNA loops form AP-1-bound activation hubs 
+during macrophage development. Molecular Cell, 67, 1037-1048. 
+ 
+Rao, S. S., Huntley, M. H., Durand, N. C., Stamenova, E. K., Bochkov, I. D., Robinson, J. T., ... & Aiden, E. L. 
+(2014). A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping. Cell, 
+159(7), 1665-1680. 
+ 
+Rowley, M. J., & Corces, V. G. (2018). Organizational principles of 3D genome architecture. Nature Reviews 
+Genetics, 19(12), 789-800. 
+ 
+Sanei, S. (2007). Adaptive processing of brain signals. John Wiley & Sons. 
+ 
+Weintraub, A. S., Li, C. H., Zamudio, A. V., Sigova, A. A., Hannett, N. M., Day, D. S., ... & Young, R. A. (2017). 
+YY1 is a structural regulator of enhancer-promoter loops. Cell, 171(7), 1573-1588. 
+ 
+ 
+ 
+ 
+ 

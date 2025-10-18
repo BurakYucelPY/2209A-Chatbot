@@ -1,0 +1,281 @@
+
+
+=== [SAYFA 1] ===
+Destek Kapsamı 
+Ön lisans ve lisans öğrencisinin/öğrencilerinin hazırladıkları araştırma projelerinin gerektirdiği 
+makine/teçhizat, sarf malzeme, seyahat, hizmet alımı giderleri için destek sağlanır. 
+Kongre/konferans katılım, yayın ve patent, konaklama veya gündelik (yeme-içme) masraflar 
+2209 proje desteği bütçesine dahil edilemez. 
+Destek Miktarı ve Ödeme Koşulları 
+Araştırma projeleri en çok 12 aylık süre ile desteklenir.  Destek alanlar destek kararının 
+TÜBİTAK web sayfasında ilan edilmesini takip eden en çok bir yıl içinde projesini 
+tamamlamak zorundadır. 
+Destek tutarı en fazla 9.000 TL'dir. 
+Online başvuruda girişi yapılacak IBAN numarası mutlaka proje yürütücüsü öğrenciye ait 
+olmalıdır. 
+Öğrenci ve danışmanlara harcırah ya da yevmiye ödemesi yapılmamaktadır. 
+Konaklama harcamaları destek kapsamına dahil edilemez. 
+Kimler Başvurabilir 
+Başvuru Koşulları 
+1. Başvuru sahibinin ön lisans veya lisans öğrenimi* görüyor olması, 
+2. Projenin akademik danışman rehberliğinde yapılıyor olması** 
+3. Aynı dönemde birden fazla başvuruda ve/veya önceki dönemlerde desteği devam 
+eden bir 2209-A ya da 2209-B projesinde yer alınmamış olunması, 
+4. Daha önce aynı proje için TÜBİTAK’tan destek alınmamış olması gerekmektedir. 
+5. Öğrenciler programa bireysel veya ekip halinde başvuru yapabilirler. Tüm 
+başvurularda proje yürütücüsü ve akademik danışman TÜBİTAK’a karşı müteselsilen 
+sorumludur. Bir projede proje yürütücüsü dışında en fazla 4 proje ortağı yer alabilir. 
+6. Aynı dönem içinde bir akademik danışman en fazla 5 projede görev alabilir.  
+7. Proje başlığı; araştırmanın amacını ve içeriğini yansıtan, açık ve anlaşılabilir şekilde 
+bilimsel ifadeler kullanılarak belirlenmelidir.  
+8. Proje başlığı ve proje önerisi dahil olmak üzere başvuru kapsamında sunulan tüm 
+belgelerde herhangi bir kurum, kuruluş, firma, ticari ürün ya da marka öne 
+çıkarılmamalıdır. Ayrıca; dil, din, ırk, mezhep, milliyet, renk, cinsiyet, siyasi görüş, 
+felsefi inanç, ulusal ya da sosyal köken, doğum, ekonomik durum gibi sebeplerle 
+ayrımcılık yapan, dışlayıcı veya rencide edici hiçbir ifade kullanılmamalıdır. 
+*  Açık Öğretim ve Hazırlık Sınıfı öğrencileri projede yürütücü ya da proje ortağı olarak yer 
+alamaz. 
+** Akademik danışmanın güncel YÖK kaydının olması zorunludur. 
+ 
+ 
+ 
+
+
+=== [SAYFA 2] ===
+e-Başvuru 
+ 
+Başvurular, proje yürütücüsü tarafından TÜBİTAK Yönetim Bilgi Sistemi (TYBS)’nden 
+çevrim içi olarak yapılır. Elektronik başvuru sistemine yüklenen dosyaların açıldığının 
+ve doğruluğunun proje yürütücüsü tarafından kontrol edilmesi gerekmektedir. Son 
+başvuru günü mesai bitiminde (17:30) sistem başvuruya kapatılır. Çevrim içi başvuru 
+haricinde, BİDEB’e e-posta/posta/faks ile gönderilen belgeler değerlendirmeye 
+alınmaz ve imha edilir. 
+ 
+Kişilerin sisteme girdikleri bilgilerin doğru olduğunu ve program yükümlülüklerine 
+uyacaklarını taahhüt etmeleri gerekmektedir. Öğrenim bilgisi çevrim içi sistemler 
+üzerinden görüntülenmektedir. 
+ 
+Başvuru esnasında akademik danışman bilgisi çevrim içi sistemler üzerinden 
+görüntülenmektedir. Akademik danışmanın bilgisi öncelikle YÖKSİS (Yükseköğretim 
+Bilgi Sistemi) üzerinden, sonra da TÜBİTAK ARBİS (Araştırmacı Bilgi Sistemi) 
+sistemleri üzerinden kontrol edilmektedir. Bu nedenle bu iki sistemde akademik 
+danışmanın bilgilerinin güncel olması gerekmektedir. 
+ 
+Proje yürütücüsünün sistem üzerinden başvurusuna dair son onayı sonrası, proje 
+başvuru bilgileri ve ekleri salt okunur şekilde, akademik danışmanın sistemde kayıtlı 
+e-posta adresine “danışman onayı” için gönderilir. Akademik danışman bu aşamada 
+proje yürütücüsünün sisteme girdiği bilgilerin doğru olduğunu, danışmanlığı kabul 
+ettiğini, başvuru yapılan projenin değerlendirileceği bilimsel ve teknolojik alanın doğru 
+olduğunu, bölüm olanaklarının yeterli olduğunu ve programın yükümlülüklerine 
+uyacaklarını taahhüt eder. 
+ 
+Akademik danışmanın bu aşamada projeyi sistem (TÜBİTAK Yönetim Bilgi Sistemi) 
+üzerinden onaylamayıp öğrenciye iade etmesi durumunda, öğrenci gerekli 
+düzenlemeleri yaparak projeyi yeniden akademik danışmanın onayına sunar. 
+ 
+Akademik danışmanın verilen süre içerisinde projeyi onaylaması halinde, başvuru 
+bilgileri proje yürütücüsü öğrencinin öğrenim gördüğü üniversitenin kuruluş yetkilisinin 
+imzasına gönderilir. Kuruluş yetkilisinin imzası (https://eimza.tubitak.gov.tr)  sonrası 
+başvuru geçerli kabul edilir. 
+ 
+Bu süreçlerin takibi proje yürütücüsü ve akademik danışmanın sorumluluğundadır. 
+ 
+Başvuru geri çekme işlemi için imzalı bir dilekçenin elektronik ortamda 
+(bideb2209a@tubitak.gov.tr) BİDEB’e ulaştırılması gerekmektedir. Başvuru geri 
+çekme işlemi çağrı kapanış tarihinden itibaren 1 (bir) ay içerisinde yapılabilir. 
+Değerlendirme Yöntemi 
+Başvurular iki aşamada değerlendirilmektedir. 
+Ön İnceleme 
+ 
+Ön inceleme aşamasında başvuru bilgi ve belgeleri kontrol edilmektedir. Başvuru 
+koşullarından herhangi birini sağlamayan, belgesi eksik olan veya istenen formatta 
+olmayan başvurular, son başvuru tarihine kadar sisteme girilen bilgileri 
+onaylanmayan, faks veya elektronik posta ile yapılan başvurular bilimsel 
+değerlendirmeye tabi tutulmadan ön incelemede elenir. 
+ 
+Başvuru esnasında TÜBİTAK tarafından belirlenen formata göre hazırlanmamış, 
+şablonda belirtilen minimum karakter sınırlamalarına uyulmamış veya Türkçe dilinde 
+
+
+=== [SAYFA 3] ===
+hazırlanmamış olan araştırma önerileri yüklenerek yapılan başvurular ön incelemede 
+elenir. 
+Bilimsel Değerlendirme 
+ 
+Ön incelemeden geçen başvurular için değerlendirmeler, alanında uzman danışma 
+kurulu üyeleri ya da panelist/dış danışmanlar tarafından, aşağıdaki kriterler esas 
+alınarak yapılmaktadır: 
+o 
+Araştırma önerisinin bilimsel niteliği (%35),  
+o 
+Yöntem (%25), 
+o 
+Proje yönetimi (%20),  
+o 
+Araştırma önerisinin yaygın etkisi (%20). 
+ 
+Değerlendirme yalnızca sisteme yüklenen belgeler üzerinden yapılmaktadır. Bu 
+nedenle her bir koşula ilişkin belge, açık ve belirlenen içerikte olacak şekilde başvuru 
+formları aracılığıyla sisteme yüklenmelidir. 
+ 
+12. Kalkınma Planı ve 2030 Sanayi ve Teknoloji Stratejisi’nde yer verilen kritik 
+teknoloji alanları ve öncelikli Ar-Ge ve Yenilik konularında düzenlenecek başvurular 
+için destek taban puanı farklı belirlenebilir. 
+ 
+Desteklenecek projelerin seçiminde üniversitelere ve bilim dallarına göre dengeli 
+dağılım gözetilebilir. 
+ 
+Çevre dostu, sürdürülebilir ve iklim nötr toplumlara ulaşmayı hedefleyen teknolojik 
+çözümlere odaklanan projelerde yürütücünün kadın ya da uluslararası öğrenci olması 
+durumunda, bu projeler TÜBİTAK ve UNIDO iş birliğinde yürütülen “Türkiye’nin Yeşil 
+Ekonomiye Geçişinde Göçmenlerin Dahil Edilmesini Destekleme Projesi” kapsamında 
+finanse edilebilir. 
+ 
+Sonuçlar BİDEB Başvuru ve İzleme 
+Sistemi’nden https://ebideb.tubitak.gov.tr/giris.htm adresinden duyurulur. 
+  
+İzleme, Sonuçlandırma ve Yükümlülükler 
+Desteğin Başlatılması 
+ 
+Bilimsel değerlendirme aşamasında çalışmanın etik kurul onayına tabi olduğunun 
+belirlenmesi halinde, Etik Kurul Onay Belgesi veya Etik Kurul Muafiyet Belgesi’nin, e-
+posta ile bildirilecek süre içerisinde BİDEB Başvuru ve İzleme Sistemine (e-
+bideb.tubitak.gov.tr) yüklenmesi zorunludur. Aksi halde projenin yürürlüğe alınması 
+mümkün olmayacaktır. 
+ 
+Bilimsel değerlendirme aşamasında destek taban puanı üzerinde bulunan projeler 
+için destek kararı verilir. Söz konusu projeler için ulusal bilim ve teknoloji stratejileri ile 
+uyumluluk, etik ilkeler ve benzerlik kontrolünün yanı sıra, gerekli görülmesi halinde 
+etik kurul onay/etik kurul muafiyet belgelerinin tamamlanması işlemlerinin ardından 
+proje yürürlüğe alınır ve proje desteği yürütücünün banka hesabına yatırılır. 
+İzleme ve Sonuçlandırma 
+ 
+Proje kapsamında yapılan harcamalar fatura ile belgelendirilmelidir. Demirbaş 
+malzeme alınması durumunda proje tamamlandıktan sonra üniversite envanterine 
+
+
+=== [SAYFA 4] ===
+kaydı yaptırılmalı ve kayıt belgesi alınmalıdır. Faturalar proje yürütücüsü ya da proje 
+ortakları adına kesilmelidir. Üzerinde isim bulunmayan fiş dökümleri (akaryakıt fişleri 
+hariç) geçersiz harcama sayılır ve iadesi talep edilir. Belgelendirilmeyen ya da 
+kullanılmayan destek tutarı program web sitesinde belirtilen TÜBİTAK banka 
+hesabına iade edilmelidir. Harcamaların ilgili mevzuata uygun olarak 
+gerçekleştirilmesinden proje yürütücüsü ve akademik danışman müteselsilen 
+sorumludur. 
+ 
+Proje yürürlüğe alındıktan sonra akademik danışman değişikliği yapılmak istenmesi 
+durumunda, aktif görevdeki danışmandan ve yeni danışmandan değişikliğin uygun 
+olduğuna ilişkin alınacak yazılı onaylar ile BİDEB Başvuru ve İzleme Sistemi’nden 
+talep yapılır. Talepler GYK tarafından değerlendirilir. 
+ 
+Proje yürürlüğe alındıktan sonra proje ortaklarında değişiklik yapılmak istenmesi 
+durumunda, proje ekibinden ayrılmak isteyen öğrenci ve ekibe yeni katılacak 
+öğrenciden değişikliğin uygun olduğuna ilişkin alınacak yazılı onaylar ile BİDEB 
+Başvuru ve İzleme Sistemi’nden talep yapılır. Talepler GYK tarafından değerlendirilir. 
+Proje yürürlüğe alındıktan sonra proje ortağı sayısı değiştirilemez. 
+ 
+Proje bitiş tarihine 3 aydan az süre kaldığı takdirde proje ortağı ve/veya akademik 
+danışman değişiklik talepleri kabul edilmez. 
+ 
+Program kapsamında gerçekleştirilen araştırma sonucunda üretilen çıktıların (makale, 
+bildiri, kitap, kitap bölümü vb.) TÜBİTAK’a bildirilmesi zorunludur. Çıktı bilgilerinin 
+BİDEB Başvuru ve İzleme Sistemi’ne yüklenmesi gerekmektedir.  Program 
+kapsamında yapılan her türlü duyuru, yayın ve bilimsel etkinliklerde TÜBİTAK 
+desteğinin belirtilmesi ve TÜBİTAK logosunun kullanılması zorunludur (Tabi olduğu 
+mevzuat gereği logonun kullanılamayacağı tez, makale vb. durumlar hariç). TÜBİTAK 
+logosu, TÜBİTAK internet sayfasında yer alan şekil ve standartlara uygun olarak 
+kullanılmalıdır. TÜBİTAK adına hareket edildiği ve/veya TÜBİTAK ile iş birliği 
+içerisinde yürütüldüğü izlenimini verecek herhangi bir açıklamada bulunamaz. 
+ 
+Projenin bilimsel ve teknik tüm gelişmelerini içeren sonuç raporu ve BİDEB Başvuru 
+ve İzleme Sistemi’nde yer alan harcama tablosu proje süresi içerisinde; 
+o 
+Proje yürütücüsü tarafından TÜBİTAK’ça hazırlanmış olan formata uygun 
+olarak BİDEB Başvuru ve İzleme Sistemine yüklenir. 
+o 
+Akademik danışman tarafından kontrol edilerek nihai onay verilir. 
+ 
+Demirbaş grubuna giren bir ürün alınmış ise akademik danışman tarafından kontrol 
+edilen üniversiteden alınacak envanter kayıt belgesinin TÜBİTAK tarafından talep 
+edilmesi halinde ibrazı zorunludur. 
+ 
+Harcama bilgileri ekranına girişi yapılan ve akademik danışman tarafından kontrol 
+edilen faturaların TÜBİTAK tarafından talep edilmesi halinde ibrazı zorunludur. 
+ 
+BİDEB Başvuru ve İzleme Sistemi’ne yüklenen sonuç raporlarının ve sistem 
+tarafından üretilen sonuç raporu formunun posta yoluyla ya da e-posta ile BİDEB’e 
+ulaştırılmasına gerek yoktur. 
+ 
+Sonuç raporları, ilgili dönem sonuç raporu yükleme son tarihinden sonra toplu halde 
+BİDEB’in görevlendirdiği izleyiciler tarafından değerlendirilir. İzleyici tarafından uygun 
+bulunmayan sonuç raporlarının, verilen süre içerisinde düzeltilmesi talep edilir. 
+
+
+=== [SAYFA 5] ===
+ 
+Sonuç raporunun destek bitiş tarihine kadar BİDEB Başvuru ve İzleme Sistemi’ne 
+yüklenmemesi durumunda gerekçeli dilekçe ile en fazla 6 ay ek süre istenebilir. 
+Gerekçenin GYK tarafından uygun bulunması halinde raporun tamamlanması için ek 
+süre verilebilir. 
+ 
+Proje süresi içerisinde sonuç raporları BİDEB’e sunulmayan veya revize raporu kabul 
+edilmeyen projeler kusur durumuna göre yürürlükten kaldırılır veya iptal edilir. Sonuç 
+raporunun proje süresi içerisinde BİDEB Başvuru ve İzleme Sistemine yüklenmesi, 
+proje yürütücüsü ve akademik danışmanın sorumluluğundadır. 
+Yükümlülükler 
+ 
+Başvuru, izleme ve sonuçlandırma süreçlerinde yerine getirilmesi gereken 
+yükümlülüklerden proje yürütücüsü ve akademik danışman müteselsilen sorumludur. 
+ 
+Proje yürütücüsü (varsa proje ortakları) ve akademik danışmanı, araştırmanın 
+yürütülmesi sırasında TÜBİTAK Araştırma ve Yayın Etiği Kurulu (AYEK) 
+Yönetmeliği’nde belirtilen hükümler ve diğer evrensel etik kurallara uymak zorundadır. 
+Yukarıda belirtilen kurallara aykırı davranılması halinde ilgililer hakkında AYEK 
+Yönetmeliği hükümleri uyarınca işlem yapılabilir. 
+ 
+TÜBİTAK BİDEB tarafından bildirimler elektronik yolla yapılmaktadır. Bu nedenle 
+başvuru sırasında ARBİS hesabında tanımlanan iletişim bilgilerinin tebligata elverişli 
+olması ve iletişim bilgilerinin her zaman güncel tutulması önemlidir. 
+ 
+Proje yürütücüsü, proje önerisinin ve projeye özel bütün bilgilerin hazırlanma ve 
+sunulma sürecinde ve devamında üretken yapay zekâ (ÜYZ) araçlarının kullanımına 
+ilişkin olarak “TÜBİTAK Destek Süreçlerinde Üretken Yapay Zekânın (ÜYZ) Sorumlu 
+ve Güvenilir Kullanımı Rehberi”nde yer alan tüm ilke, kural ve yükümlülüklere tam ve 
+eksiksiz biçimde uygun hareket etmekle yükümlüdür. Bu süreçte ÜYZ kullanımına 
+ilişkin verilen ve verilecek olan bütün bilgilerin eksiksiz ve gerçeğe uygun sunulması 
+sorumluluğunu üstlenir. 
+ 
+Akademik danışman, proje metinlerinde ve eklerinde yer alan ve ÜYZ araçları ile 
+üretilen metin, görsel, analiz, öneri ve benzeri tüm içeriklerin doğruluğunu, 
+özgünlüğünü, güncelliği ve bilimsel güvenilirliğini kontrol etme, gerekli düzeltmeleri ve 
+düzenlemeleri yapma ve nihai sorumluluğu üstlenmekle ve “TÜBİTAK Destek 
+Süreçlerinde Üretken Yapay Zekânın (ÜYZ) Sorumlu ve Güvenilir Kullanımı 
+Rehberi”nde yer alan tüm kural, ilke ve yükümlülüklere uygun hareket etmekle 
+yükümlüdür. 
+Banka Hesapları 
+ 
+TÜBİTAK BANKA HESABI BİLGİSİ (TL) 
+ 
+Hesap adı: TÜBİTAK STRATEJİ GELİŞTİRME DAİRE BAŞKANLIĞI 
+ 
+Banka Adı ve Şube: VAKIFBANK ATATÜRK BULVARI ŞUBESİ 
+ 
+IBAN No: TR49 0001 5001 5800 7290 1092 35 
+ 
+İletişim 
+ 
+TÜBİTAK-BİDEB 2209/A 
+Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı 
+ 
+TÜBİTAK Bilim İnsanı Destek Programları Başkanlığı 
+
+
+=== [SAYFA 6] ===
+ 
+Adres:  TÜBİTAK Başkanlık Binası 
+Tunus Caddesi No:80 Kavaklıdere 
+ÇANKAYA/ANKARA PK:06100 
+ 
+Tel:  444 66 90 
+e-Posta: bideb2209a@tubitak.gov.tr 
+ 

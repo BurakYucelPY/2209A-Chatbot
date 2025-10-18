@@ -1,0 +1,868 @@
+
+
+=== [SAYFA 1] ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÜBİTAK–2209-A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA 
+PROJELERİ DESTEĞİ PROGRAMI 
+ 
+Başvuru formunun Arial 9 yazı tipinde, her bir konu başlığı altında verilen açıklamalar göz önünde 
+bulundurularak hazırlanması ve ekler hariç toplam 20 sayfayı geçmemesi beklenir (Alt sınır 
+bulunmamaktadır). Değerlendirme araştırma önerisinin özgün değeri, yöntemi, yönetimi ve yaygın etkisi 
+başlıkları üzerinden yapılacaktır. 
+ 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.....Yılı 
+ 
+… Dönem Başvurusu
+
+
+=== [SAYFA 2] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+2 
+  
+ 
+A. GENEL BİLGİLER 
+ 
+Başvuru Sahibinin Adı Soyadı: Naile Rana Çiçek 
+Araştırma Önerisinin Başlığı: IMF Büyüklüğü ve Güneş Rüzgarı Hızının Jeomanyetik Fırtınaların Şiddetini ve 
+Teknolojik Etkilerini Tahmin Etmedeki Rolü 
+Danışmanın Adı Soyadı: Sümeyye Bakım 
+Araştırmanın Yürütüleceği Kurum/Kuruluş: KTO Karatay Üniversitesi 
+ 
+ 
+ÖZET 
+ 
+     Türkçe özetin araştırma önerisinin (a) özgün değeri, (b) yöntemi, (c) yönetimi ve (d) yaygın etkisi hakkında bilgileri 
+kapsaması beklenir. Bu bölümün en son yazılması önerilir.  
+ 
+Özet 
+Bu araştırma, jeomanyetik fırtınaların şiddetini ve süresini, IMF (Gezegenler Arası Manyetik Alan) büyüklüğü ve 
+güneş rüzgarı hızı gibi temel parametreleri kullanarak daha doğru bir şekilde tahmin etmeyi amaçlayan yenilikçi 
+bir model geliştirmeyi hedeflemektedir. Jeomanyetik fırtınalar, uzay ve yer tabanlı teknolojilere ciddi zararlar 
+verebilen doğa olaylarıdır. GPS, radyo iletişimi, enerji şebekeleri ve uydu yörüngelerini etkileyebilmekte, hatta 
+astronotlar için tehlike yaratabilmektedir. Bu fırtınaların şiddetini tahmin edebilmek, söz konusu etkileri 
+hafifletmek açısından büyük önem taşımaktadır. IMF büyüklüğü ve güneş rüzgarı hızı bu tür olayların tahmininde 
+kritik parametreler olarak öne çıkmaktadır. 
+Literatürde IMF büyüklüğü ve güneş rüzgarı hızının jeomanyetik fırtına başlangıcındaki rolü üzerine çalışmalar 
+yapılmıştır. Özellikle, IMF’nin güney yönelimli Bz bileşeni, jeomanyetik fırtınaların başlatıcı bir unsuru olarak 
+sıklıkla incelenmiştir. Ayrıca, yüksek hızlı güneş rüzgarlarının manyetosferi sıkıştırarak jeomanyetik fırtınalara 
+yol açabileceği gösterilmiştir. Önceki araştırmalar, IMF ve güneş rüzgarı hızı arasındaki ilişkilerin jeomanyetik 
+bozulmalarla güçlü bir korelasyon sergilediğini ortaya koymakla birlikte, bu iki parametrenin birlikte nasıl daha 
+hassas bir tahmin modeli oluşturabileceği konusunda sınırlı bir anlayış sunmaktadır. Mevcut modeller çoğunlukla 
+kısa süreli olayların tahmininde başarılı iken, uzun vadeli uzay hava tahminlerinde belirsizlikler devam etmektedir. 
+Bu nedenle, daha kapsamlı analizler ve daha hassas tahmin modellerine ihtiyaç duyulmaktadır. 
+Bu çalışmada, IMF büyüklüğü ve güneş rüzgarı hızının birlikte ele alındığında jeomanyetik fırtına şiddetini daha 
+doğru şekilde tahmin edebileceği incelenecektir. Araştırmada, zaman serisi analizleri kullanılarak geçmiş 
+jeomanyetik olaylar ile bu iki parametre arasındaki korelasyon incelenecek; lineer regresyon ve korelasyon 
+analizleri ile bu parametrelerin tahmin gücü test edilecektir. Elde edilen sonuçlar mevcut tahmin modelleri ile 
+karşılaştırılarak performans değerlendirmesi yapılacaktır. 
+Hipotez olarak, IMF büyüklüğü ve güneş rüzgarı hızı parametrelerinin birlikte ele alınmasının, jeomanyetik 
+fırtınaların şiddetini ve süresini daha hassas bir şekilde tahmin etmeye olanak tanıyacağı öngörülmektedir. 
+Ayrıca, bu iki parametre arasındaki korelasyonun bazı kritik eşik değerlerde belirgin artış göstereceği ve bu 
+eşiklerin uzay hava olaylarının öngörüsünde kullanılabileceği düşünülmektedir. Bu araştırmanın bulguları, uzay 
+hava tahminlerinin doğruluğunu artırarak, özellikle uzay ve yer tabanlı altyapıların güvenilirliğini sağlamada 
+önemli katkılar sunacaktır. Sürdürülebilir kalkınma amaçlarının 9.1 ve 9.c maddeleriyle uyumlu olarak, 
+araştırma; dayanıklı altyapıların inşası, yenilikçiliğin teşviki ve bilgi ile iletişim teknolojilerine erişimin artırılmasına 
+katkıda bulunmayı hedeflemektedir. Bu sayede uzay hava tahminlerinin teknolojik altyapılarla entegrasyonu 
+sağlanarak, bölgesel ekonomik kalkınmaya da katkı sunulacaktır. 
+Bu proje, Güneş’ten kaynaklanan IMF (gezegenler arası manyetik alan) ve güneş rüzgarı gibi uzay ortamı 
+parametrelerinin Dünya’nın manyetik alanı üzerindeki etkilerini inceleyerek, uzay ortamında meydana gelen 
+bozulmaların teknolojiye ve altyapıya olan etkilerini anlamayı amaçlamaktadır. Jeomanyetik fırtınaların neden 
+olduğu elektrik kesintileri, uydu hasarları ve iletişim arızaları gibi etkiler, uzay ortamı koşullarının Dünya 
+üzerindeki doğrudan sonuçlarıdır. Projede, IMF ve güneş rüzgarı hızına dayalı tahmin modelleri geliştirilerek bu 
+etkilerin daha hassas öngörülmesi hedeflenmektedir. Bu nedenle, proje, uzay ortamının teknolojik sistemler 
+üzerindeki etkilerini anlamaya ve bu etkileri en aza indirmeye yönelik çözüm önerileri sunması bakımından Uzay 
+Ortamı Etkileri alanına doğrudan katkı sağlamaktadır. 
+Anahtar Kelimeler: Gezegenler Arası Manyetik Alan, Güneş Rüzgarı, Jeomanyetik Fırtına, Korelasyon, Uzay 
+OrtamıTahmini 
+ 
+ 
+1. ÖZGÜN DEĞER  
+ 
+ 1.1. Konunun Önemi, Araştırma Önerisinin Özgün Değeri ve Araştırma Sorusu/Hipotezi 
+ 
+
+
+=== [SAYFA 3] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+3 
+  
+ 
+Araştırma önerisinde ele alınan konunun kapsamı ve sınırları ile önemi literatürün eleştirel bir değerlendirmesinin 
+yanı sıra nitel veya nicel verilerle açıklanır. 
+ 
+Özgün değer yazılırken araştırma önerisinin bilimsel değeri, farklılığı ve yeniliği, hangi eksikliği nasıl gidereceği 
+veya hangi soruna nasıl bir çözüm geliştireceği ve/veya ilgili bilim veya teknoloji alan(lar)ına kavramsal, kuramsal 
+ve/veya metodolojik olarak ne gibi özgün katkılarda bulunacağı literatüre atıf yapılarak açıklanır.  
+  
+Önerilen çalışmanın araştırma sorusu ve varsa hipotezi veya ele aldığı problem(ler)i açık bir şekilde ortaya konulur. 
+ 
+ 
+Jeomanyetik fırtınalar, Güneş’teki çeşitli olayların tetiklediği gezegenler arası manyetik alan (IMF) ve güneş 
+rüzgarı plazma emisyonlarındaki anormal koşullar nedeniyle Dünya'nın manyetik alanında meydana gelen küresel 
+bozulmalardır. Basit bir ifadeyle, IMF ve güneş rüzgarı gibi parametrelerdeki enerji değişimlerinin Dünya 
+yüzeyinde yol açtığı rahatsızlıklarla kendini gösteren, uzay kaynaklı hava olaylarıdır. Güneş’ten gelen yüklü 
+parçacıkların Dünya'nın manyetik alanıyla etkileşime girmesi sonucu ortaya çıkan bu kozmik fırtınalar, özellikle 
+manyetosfer ve iyonosfer üzerinde büyük çaplı bozulmalara yol açabilir (Rathore vd., 2011). 
+ 
+Bu fırtınalar, genellikle IMF’deki anomaliler ve yoğun güneş rüzgarı emisyonları nedeniyle tetiklenir (Kaushik vd., 
+2000). Güneş rüzgarı, IMF’yi taşıyan bir akış olarak, Güneş’teki patlamalar ve koronal delikler sonucu ortaya çıkar. 
+Bu plazma akımları Dünya’nın manyetik alanına çarptığında, iyonosfer ve manyetosfer üzerinde bir dizi dinamik 
+etkileşime yol açar. Bu etkileşimler sonucunda meydana gelen jeomanyetik fırtınalar; elektrik kesintileri, uydu 
+hasarları, iletişim arızaları ve navigasyon sorunları gibi çeşitli sonuçlara yol açarak teknolojik altyapılar üzerinde 
+ciddi etkilere neden olabilir (Gonzalez vd., 1994; Lakhina, 1994; Joselyn ve McIntosh, 1981; Akasofu, 1983). Bu 
+bozulmaların incelenmesi, Güneş ve Dünya arasındaki karmaşık etkileşimleri anlamak açısından büyük önem 
+taşır. 
+ 
+Jeomanyetik fırtınaların etkileri çoğunlukla iyonosferdeki manyetik bozulmalarla ilişkilidir. Örneğin, Mart 1989'da 
+meydana gelen büyük jeomanyetik fırtına, Kanada'nın Québec eyaletinde 9 saat süren geniş çaplı bir elektrik 
+kesintisine neden olmuş, bu olay modern altyapı sistemleri üzerinde jeomanyetik fırtınaların doğrudan etkilerinin 
+ciddi sonuçlara yol açabileceğini göstermiştir. Fırtınalar sırasında iyonosferde oluşan akımlar ve enerjik 
+parçacıklar, üst atmosferde ısı enerjisi üretir; bu durum alçak Dünya yörüngesindeki uydularda ekstra sürtünme 
+yaratarak GPS sinyallerini bozabilir ve konum hatalarına yol açabilir (Yeh vd., 1992). Bu fırtınalar aynı zamanda 
+GNSS gibi navigasyon sistemlerini de bozarak elektrik şebekelerinde ve boru hatlarında zararlı jeomanyetik 
+kaynaklı akımlar (GIC) oluşturabilir (Rathore vd., 2011). 
+ 
+IMF, Güneş’ten gelen ve Güneş Sistemi boyunca taşınan bir manyetik alan olup, yönü ve gücü, jeomanyetik 
+fırtınaların şiddeti ve auroral aktivitelerin konumu üzerinde belirleyici bir rol oynar. IMF'nin güney yönelimi, 
+jeomanyetik fırtınaların gelişmesinde kritik öneme sahiptir; özellikle -10 nT veya daha düşük değerlerdeki güney 
+yönelimi, Dünya’nın manyetosferi ile IMF arasında enerji transferi sağlayarak fırtına şiddetini artırabilir (Cowley, 
+1995). Güneş rüzgarı ise IMF’yi taşıyan akış olarak, jeomanyetik etkilerin önemli bir belirleyicisidir ve Güneş 
+yüzeyindeki patlamalar ve koronal delikler nedeniyle hızında ve yoğunluğunda değişiklikler meydana gelebilir 
+(Howard vd., 1985). 
+ 
+Bu araştırmada, jeomanyetik fırtınaların yoğunluğunu tahmin etmek için Omniweb’den elde edilecek veriler 
+üzerinden zaman serisi analizleri yapılacaktır. Bu veri seti, bir güneş döngüsü seçilerek belirlenecek ve bu döngü 
+boyunca IMF (gezegenler arası manyetik alan) ve güneş rüzgarı gibi temel parametreler incelenecektir. Analiz 
+kapsamında, parametreler arasındaki korelasyon değerlendirilecek ve bir model kurulması planlanmaktadır. Bu 
+sayede, jeomanyetik fırtına şiddetinin, güneş aktiviteleriyle olan ilişkisi daha detaylı olarak anlaşılabilecek ve uzay 
+hava tahminleri için yeni bir model önerilecektir. 
+ 
+Ayrıca, Mansilla (2008) tarafından yapılan çalışmaya dayanan ve 2000-2005 yılları arasındaki jeomanyetik 
+fırtınalar ile güneş rüzgarı hızının ilişkisinin incelendiği Şekil 1, bu çalışmanın analizine temel teşkil etmektedir. 
+Şekil 1’te görüldüğü üzere, maksimum güneş rüzgarı hızının jeomanyetik fırtına şiddetiyle (Dst indeksi) olan 
+ilişkisinde geniş bir saçılma gözlemlenmektedir. Çalışma, özellikle yüksek şiddetteki jeomanyetik fırtınaların (Dst 
+< -350 nT) daha yüksek güneş rüzgarı hızlarıyla bağlantılı olmadığını göstermektedir. Bunun sonucunda, güneş 
+rüzgarı hızının jeomanyetik fırtınalar üzerindeki etkisinin sınırlı olduğu ve IMF’nin güney bileşeninin (Bz) fırtına 
+şiddeti üzerinde daha belirleyici bir rol oynadığı öne sürülmektedir. 
+ 
+Bu bağlamda, çalışmamızda da IMF ve güneş rüzgarı hızı parametrelerinin etkileşimli etkilerinin incelenmesi, daha 
+doğru uzay hava tahminleri sağlamak açısından önem arz etmektedir. 
+ 
+
+
+=== [SAYFA 4] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+4 
+  
+ 
+ 
+Şekil 1: 2000-2005 döneminde meydana gelen bazı fırtınalar için maksimum güneş rüzgarı hızı ile maksimum Dst değerleri 
+arasındaki ilişki (Mansilla, 2008). 
+ 
+Uzay hava tahminlerinin doğruluğunu artırmak amacıyla IMF ve güneş rüzgarı verilerinin birlikte ele alınarak 
+incelenmesi gerekmektedir. Bu bağlamda, NASA’dan elde edilecek Proton Yoğunluğu (n/cc) gibi parametrelerin 
+analizi, uzay hava tahminlerinin güvenilirliğini güçlendirmek açısından değerli bilgiler sunabilir. Güneş rüzgarları 
+ile Dünya'nın manyetik alanı arasında güçlü bir ilişki olduğu gibi, IMF ve jeomanyetik fırtınalar arasında da benzer 
+bir ilişki bulunmaktadır. 
+ 
+Literatür çalışmaları, IMF ve güneş rüzgarı parametrelerinin jeomanyetik fırtınalarla ilişkisini vurgulamakta ve bu 
+parametrelerin birlikte ele alındığında uzay hava tahminlerinde daha doğru sonuçlar sağlayabileceğini öne 
+sürmektedir (Sabbah, 2000). Bununla birlikte, mevcut tahmin modelleri genellikle bu iki parametreyi ayrı ayrı ele 
+alır ve uzun vadeli tahminlerde sınırlamalara sahiptir. Bu çalışma, IMF büyüklüğü ve güneş rüzgarı hızının bir 
+arada değerlendirilmesiyle daha hassas bir jeomanyetik fırtına tahmin modeli geliştirmeyi amaçlamaktadır. Bu 
+amaçla, zaman serisi analizleri ve doğrusal regresyon yöntemleri kullanılarak geçmiş jeomanyetik olaylar ile bu 
+parametrelerin korelasyonları analiz edilecek, ardından mevcut tahmin modelleriyle karşılaştırılarak olası 
+iyileştirmeler değerlendirilecektir. 
+ 
+Bu çalışmanın özgün değeri, IMF ve güneş rüzgarının birlikte ele alınarak jeomanyetik fırtına şiddetini daha doğru 
+bir şekilde tahmin edebilecek bir model sunmasında yatmaktadır. Çoğu mevcut çalışma tek bir parametreye 
+odaklanırken, bu araştırmada her iki parametrenin birlikte etkisi incelenecektir. Çalışmanın hipotezi, IMF 
+büyüklüğü ve güneş rüzgarı hızının birlikte ele alındığında, jeomanyetik fırtına şiddetini ve süresini daha hassas 
+bir şekilde tahmin edebileceğidir. Bu özgün yaklaşım, IMF ve güneş rüzgarı ilişkisini daha derinlemesine 
+inceleyerek jeomanyetik fırtınaların oluşumu ve gelişimi hakkında yeni bilgiler sunacak; bu da uzay hava 
+tahminlerinin doğruluğunu artırarak uydu sistemlerinin korunması, iletişim altyapısının güvenilirliği ve enerji 
+şebekelerinin dayanıklılığı gibi alanlarda önemli katkılar sağlayacaktır. 
+ 
+ 
+1.2. Amaç ve Hedefler 
+    
+Araştırma önerisinin amacı ve hedefleri açık, ölçülebilir, gerçekçi ve araştırma süresince ulaşılabilir nitelikte olacak 
+şekilde yazılır. 
+ 
+Amaç: Bu araştırma önerisinin temel amacı, gezegenler arası manyetik alan (IMF) ve güneş rüzgarı 
+parametrelerine dayalı olarak jeomanyetik fırtınaların şiddetini daha doğru tahmin eden bir model geliştirmektir. 
+Bu bağlamda proje, özellikle IMF’nin güney bileşeni (Bz) ve güneş rüzgarı hızı gibi anahtar parametreler ile 
+jeomanyetik fırtına şiddeti arasındaki korelasyonları inceleyerek yeni bir tahmin yöntemi önermeyi 
+amaçlamaktadır.  
+Projenin hedefleri şu şekilde sıralanmıştır: 
+1. Analiz İçin Uygun Zaman Aralığının Belirlenmesi: NASA OMNIWeb veri seti içerisinde yüksek ve düşük 
+güneş aktivitesi dönemlerini, çeşitli jeomanyetik aktivite koşullarını içeren zaman aralıklarını belirlemek. Bu seçim, 
+geniş bir veri seti sağlayarak sağlam bir tahmin modelinin geliştirilmesine temel oluşturacaktır. 
+2. ⁠Veri Toplama ve Ön İşleme: IMF büyüklüğü, güneş rüzgarı hızı ve Dst gibi jeomanyetik indekslere odaklanarak 
+OMNIWeb platformundan yüksek çözünürlüklü güneş rüzgarı ve IMF verilerinin toplanması. Bu verilerde eksik 
+değerler, anormallikler ve aykırı değerler temizlenerek ve normalleştirilerek derinlemesine istatistiksel analizlere 
+hazır hale getirilecektir. 
+3. ⁠Temel İstatistiksel Analizlerin Yapılması: Veri setinin yapısını ve özelliklerini anlamak amacıyla keşifsel veri 
+analizi (KVA) gerçekleştirmek. Her parametre için özet istatistiklerin (ortalama, medyan, standart sapma) 
+
+
+=== [SAYFA 5] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+5 
+  
+ 
+hesaplanması, veri setindeki eğilimlerin, dağılımların ve mevsimsel değişimlerin görselleştirilmesi (çizgi grafikleri, 
+histogramlar) hedeflenmektedir. 
+4. Anahtar Parametreler Arasındaki Korelasyonun İncelenmesi: IMF’nin güney bileşeni (Bz), güneş rüzgarı 
+hızı ve Dst gibi jeomanyetik indeksler arasındaki korelasyonları analiz etmek. Bu analiz, jeomanyetik fırtına şiddeti 
+ile en güçlü ilişkiye sahip parametrelerin belirlenmesine ve modelleme için değişken seçiminde iyileştirmeler 
+yapılmasına katkı sağlayacaktır. 
+5. Doğrusal Regresyon Modeli Geliştirme ve Test Etme: Jeomanyetik fırtına şiddetini tahmin etmek amacıyla 
+doğrusal bir regresyon modeli oluşturmak. Ana tahmin değişkenleri olarak güney IMF bileşeni (Bz) ve güneş 
+rüzgarı hızını kullanarak modelin performansı, tahmin edilen ve gözlemlenen jeomanyetik fırtına şiddetleri 
+karşılaştırılarak değerlendirilecektir. Modelin doğruluğu ve uyumu, R-kare ve kalıntı analizi gibi ölçütlerle test 
+edilecektir. 
+6. Uzun Vadeli Tahmin ve Öngörü Potansiyeli: Geliştirilen modelin uzay hava tahminlerinde uzun vadeli 
+uygulama potansiyelini değerlendirmek. Modelin daha fazla veri ile güçlendirilmesi ve doğrulanması yoluyla, 
+güneş rüzgarı ve IMF parametrelerine dayalı bir tahmin aracı geliştirilmesi hedeflenmektedir. Bu araç, jeomanyetik 
+fırtına etkilerinin önceden öngörülmesini sağlayarak teknolojik altyapılar üzerindeki olumsuz etkilerin 
+hafifletilmesine katkı sunabilir. 
+Bu proje, ülkemizde disiplinler arası çalışmaları teşvik ederek, öğrenciler, mühendisler ve akademisyenler için 
+yenilikçi araştırmalara yön verecek bir odak noktası olmayı amaçlamaktadır. Araştırma bulguları, akademik 
+çalışmaları derinleştirmek, farklı mühendislik alanlarına uygulama alanları sağlamak ve jeomanyetik fırtınaların 
+etkilerini azaltmaya yönelik teknolojik çözümler geliştirmeye katkı sunabilecektir. Bu proje, gelecekte yapılacak 
+mühendislik projelerine temel oluşturarak, özellikle uzay hava tahmini alanında önemli bir stratejik adım olabilir ve 
+özellikle bu alanda lisansüstü çalışma yapmayı planlamakta olan proje yürütücüsünün akademik kariyerlerine 
+temel oluşturacak bir fırsat sunmaktadır. 
+ 
+ 
+2. YÖNTEM 
+ 
+Araştırma önerisinde uygulanacak yöntem ve araştırma teknikleri (veri toplama araçları ve analiz yöntemleri dahil) 
+ilgili literatüre atıf yapılarak açıklanır. Yöntem ve tekniklerin çalışmada öngörülen amaç ve hedeflere ulaşmaya 
+elverişli olduğu ortaya konulur.  
+ 
+Yöntem bölümünün araştırmanın tasarımını, bağımlı ve bağımsız değişkenleri ve istatistiksel yöntemleri kapsaması 
+gerekir. Araştırma önerisinde herhangi bir ön çalışma veya fizibilite yapıldıysa bunların sunulması beklenir. 
+Araştırma önerisinde sunulan yöntemlerin iş paketleri ile ilişkilendirilmesi gerekir. 
+ 
+ 
+Bu çalışmada, jeomanyetik fırtınaların şiddetini IMF (Gezegenler Arası Manyetik Alan) ve güneş rüzgarı hızına 
+bağlı olarak daha doğru bir şekilde tahmin edebilmek amacıyla Python programlama dili kullanılarak kapsamlı bir 
+veri analizi ve modelleme süreci izlenecektir. Python’un esnek veri işleme kütüphaneleri (Pandas, NumPy) ve veri 
+görselleştirme araçları (Matplotlib, Seaborn) ile istatistiksel analizler ve doğrusal regresyon modelleme 
+gerçekleştirilmesi planlanmaktadır. Ayrıca, veri bilimi ve makine öğrenimi için yaygın kullanılan Scikit-Learn 
+kütüphanesi de modelleme aşamalarında kullanılacaktır. 
+ 
+İş Paketi 1: Veri Toplama ve Zaman Aralığının Belirlenmesi 
+ 
+Bu iş paketinde, NASA’nın OMNIWeb (bkz : https://omniweb.gsfc.nasa.gov ) veri tabanından sağlanacak, yüksek 
+çözünürlüklü 1 dakikalık veya 5 dakikalık ortalamalarla sunulan güneş rüzgarı ve IMF verileri kullanılacaktır. 
+Projede kullanılacak veri seti, yüksek ve düşük güneş aktivitesi dönemlerini kapsayacak bir zaman aralığında 
+seçilecektir. Zaman aralığının belirlenmesi, jeomanyetik fırtınaların şiddetini etkileyen çeşitli koşulları içermesi 
+bakımından önemlidir. OMNIWeb arayüzü kullanılarak; IMF’nin güney bileşeni (Bz), güneş rüzgarı hızı, Dst ve 
+proton yoğunluğu gibi anahtar parametreler belirli dönemler için indirilecek ve araştırma amaçlarına uygun olarak 
+analiz edilecektir. 
+ 
+Veri Toplama Süreci: 
+ 
+ 
+Ara yüz Kullanımı: OMNIWeb arayüzünden, kullanıcıların ilgilendiği zaman aralığını günlük veya saatlik 
+çözünürlükte belirlemeleri ve veri türlerini seçmeleri gerekmektedir. 
+ 
+Zaman Aralığı Seçimi: Proje kapsamında kullanılacak verilerin içerdiği zaman dilimi, uzun süreli 
+jeomanyetik değişimleri ve güneş aktivitesi koşullarını göz önünde bulundurarak, bir güneş döngüsünü 
+(11 yıllık bir dönem) veya döngü içerisindeki seçilmiş birkaç yılı kapsayacak şekilde ayarlanacaktır. 
+
+
+=== [SAYFA 6] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+6 
+  
+ 
+ 
+Yüksek Çözünürlüklü Veri İndirimi: Veri seti, IMF ve güneş rüzgarı parametreleri için 1 dakikalık veya 
+5 dakikalık ortalama verilerle indirilecek olup, araştırmada analiz edilecek veri miktarını ve detayını 
+optimize etmek amacıyla günlük veya saatlik çözünürlüğe uygun şekilde bölünecektir. 
+ 
+İş Paketi 2: Veri Ön İşleme 
+ 
+Bu aşamada, OMNIWeb veri setindeki eksik, aykırı veya anormal değerler tespit edilerek temizlenecektir. Veriler 
+aşağıdaki şekilde ön işlemden geçirilecektir: 
+ 
+1. 
+Eksik Değerlerin Giderilmesi: Eksik veriler, interpolasyon veya uygun veri tamamlama yöntemleri 
+kullanılarak tamamlanacaktır. 
+2. 
+Aykırı Değer Analizi: Veri setinde bulunan uç değerler (örneğin, Bz veya güneş rüzgarı hızında aşırı 
+yüksek ya da düşük değerler), z-puanı yöntemiyle tespit edilip ayıklanacaktır. 
+3. 
+Normalizasyon: Verilerin farklı ölçeklerde olması durumunda tüm parametreler 
+ 𝑋𝑛𝑜𝑟𝑚=
+𝑋−min (𝑋)
+max(𝑋) −min (𝑋) 
+formülü ile normalize edilecektir. 
+Bu adımın amacı, veri setini analizler için tutarlı ve güvenilir bir hale getirmektir. 
+ 
+İş Paketi 3: Veri Analizi 
+ 
+Bu iş paketinde, veri setinin özelliklerini anlamak amacıyla keşifsel veri analizi yapılacaktır. Veri analizi aşağıdaki 
+bileşenleri içermektedir: 
+ 
+1. 
+Özet İstatistiklerin Hesaplanması: Her bir parametre için ortalama (𝜇), medyan, standart sapma (𝜎) ve 
+varyans (𝜎2) hesaplanacaktır. Bu özet istatistikler, veri setindeki genel eğilimleri gösterecektir. 
+ 
+2. 
+Görselleştirme: Verilerin zamana göre değişimini incelemek amacıyla çizgi grafikleri, histogramlar ve 
+dağılım grafikleri oluşturulacaktır. Mevsimsel veya dönemsel değişiklikleri ortaya çıkarmak için veri 
+kümesi alt gruplara ayrılarak incelenecektir. 
+ 
+İş Paketi 4: Parametreler Arasındaki Korelasyon Analizi 
+ 
+Jeomanyetik fırtına şiddeti ile güçlü bir ilişkiye sahip anahtar parametrelerin belirlenmesi amacıyla korelasyon 
+analizleri yapılacaktır. Bu aşamada yapılacak işlemler: 
+ 
+1. 
+Korelasyon Katsayısının Hesaplanması: IMF’nin Bz bileşeni, güneş rüzgarı hızı ve Dst arasındaki 
+korelasyon Pearson korelasyon katsayısı ile belirlenecektir: 
+ 
+𝑟𝑥𝑦= ∑(𝑋−𝜇𝑥)(𝑌−𝜇𝑦)
+√(𝑋−𝜇𝑥)2(𝑌−𝜇𝑦)2 
+Bu analiz sonucunda, jeomanyetik fırtınaların şiddetini en güçlü şekilde belirleyen parametreler 
+belirlenecektir. 
+ 
+2. 
+Korelasyon Matrisinin Oluşturulması: Tüm parametrelerin birbiriyle ilişkisini gösteren bir korelasyon 
+matrisi oluşturulacak ve ilişkilerin gücü incelenecektir. 
+ 
+İş Paketi 5: Doğrusal Regresyon Modelinin Geliştirilmesi 
+ 
+Bu iş paketinde, anahtar parametrelerin (Bz, güneş rüzgarı hızı) jeomanyetik fırtına şiddetini (Dst) tahmin 
+etmek amacıyla doğrusal regresyon modeli geliştirilecektir. Model aşağıdaki adımları içermektedir: 
+ 
+1. 
+Model Kurulumu: Doğrusal regresyon modeli, bağımlı değişken YY (Dst indeksi) ve bağımsız 
+değişkenler 𝑋1(Bz bileşeni) ve 𝑋2(güneş rüzgarı hızı) olacak şekilde aşağıdaki formda oluşturulacaktır: 
+ 
+𝑌= 𝛽0 + 𝛽1𝑋1 + 𝛽2𝑋2 + 𝜖. 
+ 
+Burada 𝛽0 kesişim noktası, 𝛽1ve 𝛽2 regresyon katsayıları ve 𝜖 ise hata terimidir. 
+ 
+2. 
+Katsayıların Tahmini: En küçük kareler yöntemi (OLS) kullanılarak regresyon katsayıları tahmin 
+edilecektir: 𝛽̂ = (𝑋𝑇𝑋)−1𝑋𝑇𝑌. 
+3. 
+Model Performansının Değerlendirilmesi: Model performansı, R-kare (𝑅2) ve kök ortalama kare hata 
+(RMSE) ile değerlendirilecektir:  
+𝑅2 = 1 −
+∑(𝑌𝑖−𝑌̂𝑖)2
+∑(𝑌𝑖−𝑌̅𝑖)2,     RMSE = √
+1
+𝑛∑(𝑌𝑖−𝑌̂𝑖)2. 
+
+
+=== [SAYFA 7] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+7 
+  
+ 
+Regresyon modelinde, bağımlı ve bağımsız değişkenler proje amacına uygun olarak jeomanyetik fırtınaların 
+şiddetini tahmin etmek için tanımlanacaktır. 
+ 
+Bağımlı Değişken (Y): Bu proje kapsamında bağımlı değişken, jeomanyetik fırtına şiddetini gösteren Dst 
+indeksi olacaktır. Dst indeksi, Dünya’nın manyetik alanında güneş aktiviteleri nedeniyle meydana gelen 
+sapmaları ölçer ve jeomanyetik fırtınaların yoğunluğunu belirlemede yaygın olarak kullanılır. Dst değerindeki 
+düşüşler, fırtına şiddetinin artması anlamına gelir, bu nedenle bu indeks jeomanyetik aktivitenin doğrudan bir 
+göstergesi olarak modellenebilir. 
+ 
+Bağımsız Değişkenler (X): Jeomanyetik fırtına şiddetini tahmin etmek için seçilen bağımsız değişkenler, güneş 
+aktivitesini ve gezegenler arası manyetik alanı temsil eden parametrelerden oluşacaktır: 
+ 
+o 
+IMF'nin Güney Bileşeni (Bz): IMF (Gezegenler Arası Manyetik Alan) Bz bileşeni, jeomanyetik aktivite 
+üzerinde güçlü bir etkiye sahip olan kritik bir parametredir. Özellikle Bz’nin negatif yönelimde olması, 
+Dünya’nın manyetosferine enerji girişini artırarak jeomanyetik fırtına riskini yükseltir. 
+ 
+o 
+Güneş Rüzgarı Hızı: Güneş rüzgarı hızı, Dünya’nın manyetik alanı ile etkileşime giren enerji miktarını 
+etkileyen önemli bir faktördür. Yüksek hızdaki güneş rüzgarları, manyetosferin sıkışmasına ve dolayısıyla 
+jeomanyetik bozulmaların artmasına yol açabilir. 
+ 
+Bu bağımsız değişkenlerin Dst indeksi üzerindeki etkilerini incelemek, jeomanyetik fırtına şiddetini tahmin eden 
+bir model geliştirilmesine olanak sağlayacaktır. 
+Doğrusal regresyon, hem teorik hem de pratik açıdan oldukça güçlü bir modelleme aracıdır (Draper, 1998; Kutner 
+vd., 2005). Kutner vd (2005), bu modelin çoklu regresyon analizleri için nasıl uygulanabileceğine dair ayrıntılı bir 
+kaynak sunarken, Montgomery vd (2021) doğrusal modellerin mühendislik ve bilimsel araştırmalarda yaygın 
+olarak kullanıldığını göstermiştir. Ayrıca, Weisberg (2005) modelin varsayımları ve bu varsayımların ihlal edilmesi 
+durumunda alınacak önlemler hakkında kapsamlı bir analiz sunar. 
+İş Paketi 6: Sonuçların Değerlendirilmesi 
+ 
+Analiz ve modelleme sonuçlarının değerlendirilmesi, güneş rüzgarı ve IMF parametrelerinin jeomanyetik fırtına 
+şiddetini tahmin etme üzerindeki etkisini ortaya koyacaktır. Elde edilen bulgular, güneş rüzgarı hızı ve IMF’nin Bz 
+bileşeni gibi parametrelerin Dst indeksindeki değişimleri ne ölçüde açıkladığını göstererek, bu parametrelerin 
+fırtına şiddetini öngörme gücünü değerlendirecektir. Doğrusal regresyon modeli ile bağımsız değişkenlerin 
+jeomanyetik fırtına şiddetini tahmin etme kapasitesi incelenecek ve modelin doğruluğu literatürdeki modellerle 
+karşılaştırılarak tartışılacaktır. Bu analizlerin sonucunda, hangi uzay hava parametrelerinin jeomanyetik fırtına 
+şiddetini daha doğru şekilde öngörebileceği belirlenerek, uzay hava tahminlerinin güvenilirliğini artırmaya yönelik 
+çıkarımlar yapılacaktır. 
+ 
+OMNIWeb veri setinin yüksek örnekleme hızı ve kapsamlı veri içeriği sayesinde, güneş rüzgarı ve IMF 
+parametrelerinin zamana bağlı değişimlerinin detaylı analiz edilmesi mümkündür. Bu sayede, jeomanyetik 
+fırtınaların zaman içindeki dinamiklerini hem ham veriler üzerinden hem de parametrik analizlerle incelemek 
+mümkündür. Veri setinin içeriği, güneş aktivitesi kaynaklı jeomanyetik olayların Dünya üzerindeki etkilerini 
+incelemeye yönelik istatistiksel analizler ve doğrusal regresyon modellemesi için uygundur. Parametrelerin farklı 
+aktivite dönemlerindeki değişimlerini inceleyerek, jeomanyetik fırtına şiddetini etkileyen kritik güneş rüzgarı hızları 
+ve IMF bileşenlerini belirlemek amaçlanmaktadır. Bu tasarım, uzay hava tahminlerinin doğruluğunu artırmak ve 
+jeomanyetik fırtınaların teknolojik sistemler üzerindeki olumsuz etkilerini azaltmaya yönelik yeni modelleme 
+stratejilerinin geliştirilmesine katkı sağlayacaktır. 
+ 
+Bu yöntem ve analizler, uzay hava tahmini ve jeomanyetik fırtına çalışmalarında kullanılan yöntemleri temel alarak 
+literatürdeki diğer çalışmalarla uyumlu pratik bir yaklaşım sunmaktadır (Richardson ve Cane, 2010; Gonzalez 
+vd.,1994; Tsurutani vd. 1992; Zhang vd.,2007; Echer vd., 2008). 
+
+
+=== [SAYFA 8] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+8 
+  
+ 
+3 
+ PROJE YÖNETİMİ  
+ 
+3.1 İş- Zaman Çizelgesi 
+ 
+Araştırma önerisinde yer alacak başlıca iş paketleri ve hedefleri, her bir iş paketinin hangi sürede gerçekleştirileceği, başarı ölçütü ve araştırmanın başarısına katkısı “İş-
+Zaman Çizelgesi” doldurularak verilir. Literatür taraması, gelişme ve sonuç raporu hazırlama aşamaları, araştırma sonuçlarının paylaşımı, makale yazımı ve malzeme alımı 
+ayrı birer iş paketi olarak gösterilmemelidir. 
+Başarı ölçütü olarak her bir iş paketinin hangi kriterleri sağladığında başarılı sayılacağı açıklanır. Başarı ölçütü, ölçülebilir ve izlenebilir nitelikte olacak şekilde nicel veya 
+nitel ölçütlerle (ifade, sayı, yüzde, vb.) belirtilir. 
+ 
+ 
+İŞ-ZAMAN ÇİZELGESİ (*) 
+         
+İP 
+No 
+İş Paketlerinin Adı ve Hedefleri 
+Kim(ler) Tarafından 
+Gerçekleştirileceği 
+Zaman Aralığı 
+(1-12Ay) 
+Başarı Ölçütü ve Projenin Başarısına Katkısı  
+1 
+Veri Toplama ve Zaman Aralığının 
+Belirlenmesi:  
+NASA’nın OMNIWeb veri tabanından 
+IMF ve güneş rüzgarı verilerinin 
+yüksek çözünürlükte indirilmesi ve 
+uygun zaman aralığının seçilmesi. 
+Yürütücü ve 
+Danışman 
+1 Ay 
+Başarı Ölçütü: Veri setinin eksiksiz ve doğru şekilde 
+toplanması, güneş aktivitesinin yoğun olduğu dönemlerini 
+içermesi. 
+Katkısı: Çalışmanın analiz süreci için kapsamlı ve değerli 
+bir veri temeli oluşturulması. 
+2 
+Veri Ön İşleme:  
+Eksik, aykırı ve anormal değerlerin 
+temizlenmesi ve verilerin normalize 
+edilmesi. 
+Yürütücü ve 
+Danışman 
+1 Ay 
+Başarı Ölçütü: Temizlenmiş, sürekli, analiz için tutarlı ve 
+normalize edilmiş bir veri setinin oluşturulması. 
+Katkısı: Veri setinin güvenilir hale getirilerek analiz 
+süreçlerinin sağlıklı yürütülmesini sağlaması. 
+3 
+Veri Analizi:  
+Keşifsel veri analizi ile özet 
+istatistiklerin hesaplanması ve 
+görselleştirilmesi. 
+Yürütücü ve 
+Danışman 
+3 Ay  
+Başarı Ölçütü: Parametrelerin istatistiklerinin doğru 
+hesaplanması ve görsellerle desteklenmesi. 
+Katkısı: Parametrelerin özelliklerinin anlaşılması ve 
+analizlerin yönlendirilmesi. 
+4 
+Korelasyon Analizi:  
+IMF Bz, güneş rüzgarı hızı ve Dst 
+arasındaki 
+ilişkilerin 
+korelasyon 
+katsayısı ile belirlenmesi. 
+Yürütücü ve 
+Danışman 
+3 Ay 
+Başarı Ölçütü: Korelasyon matrisinin oluşturulması ve en 
+güçlü ilişkiye sahip parametrelerin belirlenmesi. 
+Katkısı: Jeomanyetik fırtınaların şiddetini etkileyen kritik 
+parametrelerin tanımlanması. 
+5 
+Doğrusal 
+Regresyon 
+Modeli 
+Geliştirilmesi:  
+Anahtar parametrelerle Dst indeksini 
+tahmin eden modelin oluşturulması 
+ve değerlendirilmesi. 
+Yürütücü ve 
+Danışman 
+3 Ay 
+Başarı Ölçütü: 𝑅2 ve RMSE değerleri ile başarılı bir model 
+performansının elde edilmesi. 
+Katkısı: Jeomanyetik fırtına şiddetini tahmin eden 
+güvenilir bir modelin geliştirilmesi. 
+
+
+=== [SAYFA 9] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+9 
+  
+ 
+6 
+Sonuçların 
+Değerlendirilmesi: 
+Analiz 
+sonuçlarının 
+literatürle 
+karşılaştırılması 
+ve 
+kritik 
+parametrelerin 
+tahmin 
+gücünün 
+değerlendirilmesi. 
+Yürütücü ve 
+Danışman 
+ 1 Ay 
+Başarı Ölçütü: Bulguların literatürle uyumlu olması ve 
+uzay hava tahminleri için öneriler sunulması. 
+Katkısı: Uzay hava tahminlerinin doğruluğunu artırmaya 
+yönelik çıkarımlar yapılması. 
+ 
+ 
+(*) Çizelgedeki satırlar ve sütunlar gerektiği kadar genişletilebilir ve çoğaltılabilir.
+
+
+=== [SAYFA 10] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+10 
+  
+ 
+ 
+3.2 Risk Yönetimi 
+   Araştırmanın başarısını olumsuz yönde etkileyebilecek riskler ve bu risklerle karşılaşıldığında araştırmanın 
+başarıyla yürütülmesini sağlamak için alınacak tedbirler (B Planı) ilgili iş paketleri belirtilerek ana hatlarıyla aşağıdaki 
+Risk Yönetimi Tablosu’nda ifade edilir. B planlarının uygulanması araştırmanın temel hedeflerinden sapmaya yol 
+açmamalıdır. 
+ 
+                                                       RİSK YÖNETİMİ TABLOSU* 
+İP 
+No 
+En Önemli Riskler 
+Risk Yönetimi (B Planı) 
+1 
+Belirlenen Güneş Dögüsün’deki verideki 
+parametreler arasında bir korelasyonun 
+çıkmaması risk faktörüdür. 
+Veri için yeni bir tarih aralığı (başka bir Güneş 
+Döngüsü ) belirlenerek analiz yapılacaktır. 
+2 
+Linear regression modelinin çalışmaması ve 
+arzu edilen uzun vadeli tahmin modelinin hata 
+payının yüksek çıkması bir risk faktörüdür. 
+Yeni bir modelleme yöntemi denenmesi, gerektiği 
+takdirde 
+modelleme 
+için 
+yapay 
+zeka 
+algoritmalarından yararlanılması. 
+   (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+3.3. Araştırma Olanakları 
+ 
+Bu bölümde projenin yürütüleceği kurum ve kuruluşlarda var olan ve projede kullanılacak olan altyapı/ekipman 
+(laboratuvar, araç, makine-teçhizat, vb.) olanakları belirtilir. 
+ 
+ARAŞTIRMA OLANAKLARI TABLOSU (*) 
+ 
+Kuruluşta Bulunan Altyapı/Ekipman Türü, Modeli 
+(Laboratuvar, Araç, Makine-Teçhizat, vb.) 
+Projede Kullanım Amacı 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+4. 
+YAYGIN ETKİ 
+ 
+      Önerilen çalışma başarıyla gerçekleştirildiği takdirde araştırmadan elde edilmesi öngörülen ve beklenen yaygın 
+etkilerin neler olabileceği, diğer bir ifadeyle yapılan araştırmadan ne gibi çıktı, sonuç ve etkilerin elde edileceği 
+aşağıdaki tabloda verilir. 
+ 
+ARAŞTIRMA ÖNERİSİNDEN BEKLENEN YAYGIN ETKİ TABLOSU 
+Yaygın Etki Türleri 
+Önerilen Araştırmadan Beklenen Çıktı, Sonuç ve 
+Etkiler 
+Bilimsel/Akademik  
+(Makale, Bildiri, Kitap Bölümü, Kitap) 
+Önerilen 
+araştırmadan 
+faydalanılarak 
+yapılacak 
+çalışmalar ile uluslararası konferans sunumları ve 
+indeksli 
+dergilerde 
+makale 
+yayınlanması 
+planlanmaktadır. 
+Ekonomik/Ticari/Sosyal 
+(Ürün, Prototip, Patent, Faydalı Model, Üretim İzni, 
+Çeşit Tescili, Spin-off/Start- up Şirket, Görsel/İşitsel 
+Arşiv, Envanter/Veri Tabanı/Belgeleme Üretimi, Telife 
+Konu Olan Eser, Medyada Yer Alma, Fuar, Proje 
+Pazarı, Çalıştay, Eğitim vb. Bilimsel Etkinlik, Proje 
+Sonuçlarını Kullanacak Kurum/Kuruluş, vb. diğer 
+yaygın etkiler) 
+Bu araştırma, jeomanyetik fırtınaların şiddetini daha 
+doğru tahmin etmek amacıyla geliştirilecek bir modelin 
+temelini oluşturacaktır. IMF büyüklüğü ve güneş rüzgarı 
+hızı gibi parametreleri kullanarak geliştirilecek bu model, 
+uzay hava tahminlerinin doğruluğunu artırarak, kritik 
+altyapıların 
+korunmasına, 
+ekonomik 
+kayıpların 
+önlenmesine 
+ve 
+ülkemizin 
+uzay 
+teknolojilerindeki 
+yetkinliklerinin artmasına katkı sağlayacaktır. Elde edilen 
+sonuçlar, uluslararası bilim camiası ile paylaşılarak, 
+
+
+=== [SAYFA 11] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+11 
+  
+ 
+Ülkemizin bu alandaki prestijini yükseltecek ve yeni iş 
+birliklerine zemin hazırlayacaktır. 
+Araştırmacı Yetiştirilmesi ve Yeni Proje(ler) 
+Oluşturma  
+(Yüksek Lisans/Doktora Tezi, Ulusal/Uluslararası Yeni 
+Proje) 
+Gezegenler Arası Manyetik Alan ve Güneş Rüzgarlarının 
+jeomanyetik fırtınalara etkisi bilinmektedir. Araştırma 
+önerisinin sonuçları ile elde edilen modellerin uzay hava 
+tahmini araştırmalarına katkı sağlaması ve başka 
+mühendislik alanları ile disiplinler arası projeler yapılması 
+beklenmektedir. Ayrıca proje yürütücüsünün akademik 
+gelişimlerine katkı sağlayarak lisansüstü çalışmalarına 
+temel oluşturacaktır. 
+ 
+ 
+5. BÜTÇE TALEP ÇİZELGESİ 
+Bütçe Türü 
+ Talep Edilen 
+Bütçe Miktarı 
+(TL) 
+Talep Gerekçesi 
+Sarf Malzeme 
+ 
+ 
+Makina/Teçhizat 
+(Demirbaş) 
+ 
+ 
+Hizmet Alımı 
+ 
+ 
+Ulaşım 
+9000 
+Bu çalışmadan elde edilecek sonuçların aşağıda belirtilen kongrelerde 
+sunulması planlanmaktadır. Bu iki kongreye katılım sağlamak amacıyla 
+ulaşım bütçesi talep edilmektedir: 
+ 
+1) 
+24- 25 Temmuz 2025 tarihinde Lefkoşa, Kıbrıs'ta düzenlenecek 
+olan International Conference on Geomagnetic Storms and Space 
+Weather (ICGSSW-25)  
+https://iser.org.in/conf/index.php?id=3012510  
+ 
+ 
+2) 
+6-7 Şubat 2025 tarihinde, Prag’da düzenlenecek olan International 
+Conference on Geomagnetic Storms and Space Weather 
+(ICGSSW-25) 
+https://www.sciencecite.com/event/index.php?id=2672840  
+TOPLAM 
+9000 
+ 
+NOT: Bütçe talebiniz olması halinde hem bu tablonun hem de TÜBİTAK Yönetim Bilgi Sistemi (TYBS) başvuru 
+ekranında karşınıza gelecek olan bütçe alanlarının doldurulması gerekmektedir. Yukardaki tabloda girilen bütçe 
+kalemlerindeki rakamlar ile, TYBS başvuru ekranındaki rakamlar arasında farklılık olması halinde TYBS ekranındaki 
+veriler dikkate alınır ve başvuru sonrasında değiştirilemez. 
+ 
+6. BELİRTMEK İSTEDİĞİNİZ DİĞER KONULAR 
+Sadece araştırma önerisinin değerlendirilmesine katkı sağlayabilecek bilgi/veri (grafik, tablo, vb.) eklenebilir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== [SAYFA 12] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+12 
+  
+ 
+ 
+7. EKLER 
+ 
+EK-1:  KAYNAKLAR 
+ 
+Akasofu, S. I. (1983). Solar-wind disturbances and the solar wind-magnetosphere energy coupling function. 
+Space Science Reviews, 34(2), 173-183. 
+ 
+Cowley, S. W. (1995). The Earth's magnetosphere: A brief beginner's guide. Eos, Transactions American 
+Geophysical Union, 76(51), 525-529. 
+ 
+Draper, N. R. (1998). Applied regression analysis. McGraw-Hill. Inc. 
+ 
+Echer, E., Gonzalez, W. D., Tsurutani, B. T., & Gonzalez, A. C. (2008). Interplanetary conditions causing 
+intense geomagnetic storms (Dst≤− 100 nT) during solar cycle 23 (1996–2006). Journal of Geophysical 
+Research: Space Physics, 113(A5). 
+ 
+Gonzalez, W. D., Joselyn, J. A., Kamide, Y., Kroehl, H. W., Rostoker, G., Tsurutani, B. T., & Vasyliunas, V. M. 
+(1994). What is a geomagnetic storm?.Journal of Geophysical Research: Space Physics, 99(A4), 5771-5792. 
+ 
+Howard, R. A., Sheeley Jr, N. R., Koomen, M. J., & Michels, D. J. (1985). Coronal mass ejections: 1979–1981.  
+Journal of Geophysical Research: Space Physics, 90(A9), 8173-8191. 
+ 
+Joselyn, J. A., & McIntosh, P. S. (1981). Disappearing solar filaments: A useful predictor of geomagnetic 
+activity. Journal of Geophysical Research: Space Physics, 86(A6), 4555-4564. 
+ 
+  Kaushik, S.C. and Shrivastava, P.K., Influence of magnetic clouds on interplanetary features, Indian Journal 
+of Physics, 74 B (2), 2000, 159 - 162. 
+ 
+Kutner, M. H., Nachtsheim, C. J., Neter, J., & Li, W. (2005). Applied linear statistical models. McGraw-hill. 
+ 
+  Lakhina, G. S. (1994). Solar wind-magnetosphere-ionosphere coupling and chaotic dynamics. Surveys in 
+geophysics, 15, 703-754. 
+ 
+Mansilla, G. A. (2008). Solar wind and IMF parameters associated with geomagnetic storms with Dst<-50 nT. 
+Physica Scripta, 78(4), 045902. 
+ 
+Montgomery, D. C., Peck, E. A., & Vining, G. G. (2021). Introduction to linear regression analysis. John Wiley 
+& Sons. 
+ 
+Rathore, B. S., Kaushik, S. C., Firoz, K. A., Gupta, D. C., Shrivastava, A. K., Parashar, K. K., & Bhaduriya, R. 
+M. (2011). A correlative study of geomagnetic storms associated with solar wind and IMF features during solar 
+cycle 23. International Journal of Applied Physics and Mathematics, 1(2), 149. 
+ 
+Richardson, I. G., & Cane, H. V. (2010). Near-Earth interplanetary coronal mass ejections during solar cycle 
+23 (1996–2009): Catalog and summary of properties. Solar Physics, 264, 189-237. 
+ 
+Sabbah, I. (2000). The influence of transient solar-wind events on the cosmic-ray intensity modulation. 
+Canadian Journal of Physics, 78(4), 293-302. 
+ 
+Tsurutani, B. T., Gonzalez, W. D., Gonzalez, A. L. C., Tang, F., Lee, Y. T., & Okada, M. (1992). Interplanetary 
+origin of geomagnetic activity in the declining phase of the solar cycle. Journal of Geophysical Research: Space 
+Physics, 97(A8), 11227-11233. 
+ 
+Weisberg, S. (2005). Applied linear regression. 
+ 
+Yeh, K. C., Lin, K. H., & Conkright, R. O. (1992). The global behavior of the March 1989 ionospheric storm. 
+Canadian Journal of Physics, 70(7), 532-543. 
+ 
+Zhang, J., Richardson, I. G., Webb, D. F., Gopalswamy, N., Huttunen, E., Kasper, J. C., ... & Zhukov, A. N. 
+(2007). Solar and interplanetary sources of major geomagnetic storms (Dst≤− 100 nT) during 1996–2005. 
+Journal of Geophysical Research: Space Physics, 112(A10). 

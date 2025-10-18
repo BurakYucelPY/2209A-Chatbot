@@ -1,0 +1,950 @@
+
+
+=== [SAYFA 1] ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÜBİTAK–2209-A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA 
+PROJELERİ DESTEĞİ PROGRAMI 
+ 
+Başvuru formunun Arial 9 yazı tipinde, her bir konu başlığı altında verilen açıklamalar göz önünde 
+bulundurularak hazırlanması ve ekler hariç toplam 20 sayfayı geçmemesi beklenir (Alt sınır 
+bulunmamaktadır). Değerlendirme araştırma önerisinin özgün değeri, yöntemi, yönetimi ve yaygın etkisi 
+başlıkları üzerinden yapılacaktır. 
+ 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 Yılı 
+ 
+1. Dönem Başvurusu  
+ 
+Sevgili öğrencilerimiz:  Her 4 kişi bir grup oluşturarak benzer bir proje 
+hazırlayacak, Eylül’de geldiğinizde  bakıp düzelteceğiz. Tamamlayıp 
+başvuracağız. Bütçesi 4000 tl olup sadece sarf alabilirsiniz.
+
+
+=== [SAYFA 2] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+2 
+  
+ 
+A. GENEL BİLGİLER 
+ 
+Başvuru Sahibinin Adı Soyadı:  
+Araştırma Önerisinin Başlığı: 
+Danışmanın Adı Soyadı: 
+Araştırmanın Yürütüleceği Kurum/Kuruluş: 
+ 
+Araştırma konunuz aşağıda başlıkları verilen “Sürdürülebilir Kalkınma Amaçları (SKA)” kapsamında mı? 
+ 
+☒ EVET    
+ 
+☐ HAYIR  
+ 
+Cevabınız EVET ise aşağıdaki alanlardan seçim yapınız. 
+ 
+☐ 
+Yoksulluğa Son 
+☐ 
+Açlığa Son    
+☒ 
+Sağlıklı Bireyler   
+☒ 
+Nitelikli Eğitim   
+☐ 
+Toplumsal Cinsiyet Eşitliği    
+☐ 
+Temiz Su ve Sanitasyon   
+☐ 
+Erişilebilir ve Temiz Enerji    
+☐ 
+İnsana Yakışır İş ve Ekonomik Büyüme    
+☐ 
+Sanayi, Yenilikçilik ve Altyapı 
+☐ 
+Eşitsizliklerin Azaltılması 
+☐ 
+Sürdürülebilir Şehirler ve Topluluklar   
+☒ 
+Sorumlu Üretim ve Tüketim   
+☐ 
+İklim Eylemi   
+☐ 
+Sudaki Yaşam   
+☐ 
+Karasal Yaşam   
+☐ 
+Barış, Adalet ve Güçlü Kurumlar   
+☐ 
+Amaçlar İçin Ortaklıklar   
+ 
+ 
+ÖZET 
+ 
+     Türkçe özetin araştırma önerisinin (a) özgün değeri, (b) yöntemi, (c) yönetimi ve (d) yaygın etkisi hakkında bilgileri 
+kapsaması beklenir. Her bir özet 450 kelime veya bir sayfa ile sınırlandırılmalıdır. Bu bölümün en son yazılması 
+önerilir.  
+ 
+Yerkürenin sağlığını korumak için tüm ülkelerin global bir konsept (Tek Sağlık Konsepti) içerisinde rol alması 
+kaçınılmaz olmuştur. İnsan-hayvan-bitki ekosisteminde sağlığın tek bir döngü olarak bütüncül yaklaşımla 
+korunması gereği artık daha nettir. Geliştirilen yöntemler mikroorganizmaları kontrol altına almada başarıyı 
+artırmıştır.  Ancak mevcut mikroflora ekosistemlerinin (vücut, deri, barsak, çevre, su, gıda vb.) içerdiği bakteri 
+türlerinin en fazla %15’inin tanımlanabildiği öne sürülebilir. Henüz başında olduğumuz konulardan biri de 
+bakterilerde direnç mekanizmalarıdır. Bilinen bakterilerle çalışmak perspektifi daraltmakta ve direnç sorunun 
+çözümünü geciktirebilir. Bu konuda henüz en az %85’i adlandırılamamış bakterilerin de rolü olacağı düşünülmeli 
+
+
+=== [SAYFA 3] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+3 
+  
+ 
+ve en azından başlangıç araştırmalarında tarama ve tesadüfi örnekleme metotlarına da yer verilmesi 
+gerekmektedir. Oysa yapılan çalışmalarda çoğunlukla bilinen bakteriler ve öngörülmesi zor olmayan sonuçları 
+aramak üzerine yapılmaktadır. Örneğin yoğurt gibi fermente gıdalarda mikroflora zengindir ve direnç sorununun 
+bu vasatta hızla üreyen bakteriler arasında geçişken olabilir. Materyal olarak yoğurt seçilmiş olsun. Bu üründe 
+ya starter kültürün, ya da Escherichia coli gibi iyi bilinen bakterilerin antimikrobiyel dirençlerini tespit etmek bir 
+iştir. Ancak bu projede yapılmak istenen iş daha detaylıdır. Starter kültür (maya) bakterileri ve yoğurtta bulunan 
+diğer bakteriler arasında direnç geçişleri başlangıçta bir veya iki tanımlı suşa indirgenmeden tarama niteliğinde 
+araştırılmalı, sonra referans suşlar bu çalışmadan çıkarılmalı ve en son direnç geçişlerinde etkili olan faktörler 
+irdelenmelidir. Bundan sonra bu sorunu artıran bakteriler identifiye edilirse hem perspektif daraltılmamış, hem 
+de yeni türlerin adlandırılması sağlanmış olur. Bu projede önerilen de budur. Materyal olarak yoğurt seçilmiştir. 
+Yoğurt mayası bakterileri ile pastörizasyondan kurtulan çiğ süt bakterileri (çiftlikten sofraya gelen ve barsağa 
+giden, muhtemelen büyük çoğunluğu henüz adlandırılamamış olan ve muhtemelen hayvancılık sanayisinde 
+kullanılan antibiyotik ve antibiyotik benzeri maddelerle temasa gelmiş olan) birlikte araştırılacaktır. Direnç 
+geliştirme, direnç aktarımı veya belki de direnç yitirme özellikleri bakımından farklı üreme ortamı ve ısı dereceleri 
+ile soğuk muhafaza sürecinde tüm yoğurt florası araştırmaya dahil edilecektir. Muhtemelen birçok yeni tür bakteri 
+izole edilecek ve muhtemelen ilk defa literatüre düşen bilgi ve bulgulara ulaşılacaktır. Bu bilgi ve bulgular hem 
+fermente gıdalar ile antimikrobiyel direnç ilişkisini, hem de flora çeşitliliği ve üreme koşullarıyla kıyas açısında 
+yeni araştırmalara ilham verecektir. Temel direnç mekanizmalarının araştırılması dışında yapılacak olan 
+çalışmaların çoğu artık bilinen tür veya suş düzeyinde değil de foodomix, metabolomix ve proteomix analizleri 
+kullanılarak henüz identifiye edilmemiş bakteri türlerine de erişmek amacıyla araştırma yapılan materyalin total 
+mikroflorası dikkate alınarak yapılırsa yeni bilgilere daha fazla ulaşılır.  
+ 
+Anahtar Kelimeler: Yoğurt, antimikrobiyel direnç, mikroflora, suş. 
+ 
+ 
+1. ÖZGÜN DEĞER  
+ 
+ 1.1. Konunun Önemi, Araştırma Önerisinin Özgün Değeri ve Araştırma Sorusu/Hipotezi 
+ 
+Araştırma önerisinde ele alınan konunun kapsamı ve sınırları ile önemi literatürün eleştirel bir değerlendirmesinin 
+yanı sıra nitel veya nicel verilerle açıklanır. 
+ 
+Özgün değer yazılırken araştırma önerisinin bilimsel değeri, farklılığı ve yeniliği, hangi eksikliği nasıl gidereceği 
+veya hangi soruna nasıl bir çözüm geliştireceği ve/veya ilgili bilim veya teknoloji alan(lar)ına kavramsal, kuramsal 
+ve/veya metodolojik olarak ne gibi özgün katkılarda bulunacağı literatüre atıf yapılarak açıklanır.  
+  
+Önerilen çalışmanın araştırma sorusu ve varsa hipotezi veya ele aldığı problem(ler)i açık bir şekilde ortaya konulur. 
+ 
+ 
+ 
+En az 350 karakter (harf, noktalama işareti vb.) yazılmalıdır. 
+Konu: 
+Alexander Fleming ilk antibiyotik olan penisilini Eylül 1927'de keşfetti. Bu buluş sayesinde hastalıklar tedavi edilip 
+ortalama ömür uzadı. Ancak günümüzde antibiyotiklerin tedavi edici yetenekleri azaldı, bakteriler antibiyotiklere 
+direnç kazandı. Bunun başlıca nedeni aşırı ve kontrolsüz antibiyotik kullanımıdır. Sadece insan değil hayvanlarda 
+da aynı antibiyotiklerin kullanılması süreci hızlandırdı. Antibiyotiklerin yeme katılarak hayvanlarda verim artırmak 
+amacıyla kullanılması, durumu bugünün en büyük sağlık sorunu haline getirdi (1). Alarm veren bu konu üzerinde 
+bilim insanları gece gündüz çalışmakta, devletler büyük bütçelerle Ar-Ge çalışmalarını desteklemektedir. Türkiye 
+32 Avrupa ülkesi arasında en çok antibiyotik kullanan ülke olup bu direnç sorunundan en çok mağdur olan 
+ülkelerden birisidir (2). Çevre-bitki-hayvan-insan ekosistemleri arasında mikroflora değişimi ve dolayısı ile 
+antimikrobiyel direnç gen aktarımları da süregelmektedir (3). Bu nedenle antimikrobiyel direnç sorunu tek sağlık 
+kapsamında ele alınmakta ve bahse konu edilen bütün ekosistemler içerisinde kontrol altına alınması 
+gerekmektedir (4, 5). Bu nedenden dolayı konu hakkında geniş kapsamlı araştırmalar ve koruma –kontrol 
+programları uygulanmaktadır. Konu ülkeler ve AB gibi ülke toplulukları düzeyinde ele alınmakla birlikte tüm 
+dünyayı içerisine alan programlar da yürütülmektedir. Bunların başlıcası “The Global Antimicrobial Resistance 
+
+
+=== [SAYFA 4] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+4 
+  
+ 
+Surveillance System (GLASS)”tır (6). AB hastalık Kontrol Merkezi tarafından European Antimicrobial Resistance 
+Surveillance Network (EARS-Net) sitesi de bu konuda görev yapmaktadır (7). Dünya Sağlık Örgütü Antimikrobiyel 
+Direnç Dökümantasyon Merkezi belge ve bilgi üreten bir merkezdir (8). Antimikrobiyel direnç sorununu azaltma 
+konusunda bazı İskandinav ülkeleri öne çıkarken bazı ülkelerde yeterli iyileşme görülmüş değildir. Türkiye de 
+antimikrobiyel direnç sorununu öncelikler arasında görmekte ve küresel programlara dahil olmaktadır. Ancak 
+henüz bir istatistiki veri ve durum tespiti- stratejik eylem planlarının uygulamada olduğunu iddia etmek zordur. 
+Türkiye AB ülkeleri arasında kişi başına en çok antibiyotik tüketen ülkedir ve ortalamanın iki katı kadar tüketimi 
+vardır (9, 10). Kullanılan antibiyotiklerin 1/3’ünün beta-laktam grubu antibiyotikler olduğu bildirilmiştir. OECD 
+ülkeleri arasında en fazla Türkiye’de antibiyotik direnci geliştiği ve direnç oranının %35 kadar olduğu bildirilmiştir.  
+Oysa bu oran bazı Avrupa Ülkelerinde en düşük olarak %5’tir. Türkiye’de tarım ve hayvancılıkta kullanılan 
+antibiyotik miktarı hakkında herhangi bir kaynağa rastlanamamaktadır. Oysa Özellikle bu sektörlerin denetim 
+altında tutularak konu ile mücadelede “Tek Sağlık Konsepti”ne tam adaptasyon göstermesi ve uluslararası 
+organizasyonlara daha çok katılması gerekmektedir.  
+Bakteriler arasında antimikrobiyel direnç genlerinin aktarımı sonucunda diğer ekosistemlerden insana ulaşması 
+ve insandaki ekosistemlerde yer alan bakterilerde bu sorunun meydana gelmesi asıl risk kaynağıdır (11). 
+İnsanların solunum, sindirim, ürogenital ve hatta kan ve lenf sisteminde latent olarak bulunan ve ömür boyu sağlık 
+riskine neden olmayan bakterilere bu direnç genlerinin aktarılması ve bu bakterilerin veya sistemlere yeni giren 
+zararlı (patojen) bakterilerin de bu genlerle dirençli hale gelmesi ile asıl ölümcül sağlık riskleri ortaya çıkmaktadır 
+(4). Bu genlerin aktarımını sağlayabilecek kaynaklardan biri de gıdalardır. Tam olarak steril gıda üretimi yok 
+denecek kadar azdır. Halkın beslenmesinde fermente sütü ürünlerinin yeri büyüktür (12, 13). Bu besinlerde 
+pastörize edilen süt kullanıldığı için bir kısım çiğ süt florası ve fermentasyonda kullanılan ve üretici eliyle eklenen 
+mikroflora (maya, starter kültür, olgunlaştırma kültürü) yer almaktadır. Yoğurt, kefir, ayran, peynir tereyağı başlıca 
+fermente süt ürünleridir. Bu ürünler içerdikleri mikroflora ile birlikte ve çoğunlukla ilave bir ısı işlemine muamele 
+etmeden tüketildikleri için bu mikroflora barsağa kadar ulaşmaktadır. Bu ürünlerin faydalarından biri de bu flora 
+içerisinde probiyotik ve destek kültürü olma niteliğine sahip olan bakterilerin kaynağı olmalarından 
+kaynaklanmaktadır. Bu ürünlerden biri de yoğurttur. Yoğurt içerisinde pastörizasyondan kurtulan çiğ süt bakterileri 
+ve yoğurt mayası olarak kullanılan starter kültür bulunmaktadır.  
+Fermente hayvansal gıdaların içerdiği laktik asit bakterilerinin, probiyotik bakterilerin, starter kültürlerin ve diğer 
+bakterilerinin antimikrobiyel direnç sorununun bir parçası olarak görülmesi gereği bildirilmiştir. Mayalanma 
+esnasında meydana gelen bakteri üremeleri yoğun olduğu için bu aşamada dikey gen transferleri meydana 
+gelerek bu genler fermente gıda veya yem tüketen insan ve hayvan tarafından daha da yoğun olarak 
+alınabilmektedir. Bu nedenle starter ve probiyotik kültürlerin antibiyotik direnç genlerini taşımamaları tercih 
+edilmelidir (14, 15). Laktik asit bakterilerinde antimikrobiyel direncin diğer barsak florası üyelerinden daha fazla 
+olduğu bilinmektedir. Bu bakterilerde antimikrobiyel direnç olması doğaldır ve gereklidir. Şayet bu olmasa idi 
+barsak yararlı mikroflorası antibiyotik kullanımından sonra daha fazla yok olacak ve önce ishal ve daha sonra da 
+genel sağlık riskleri ortaya çıkacaktı. Bununla birlikte her antibiyotik kullanımında bir miktar faydalı bakteri yıkımı 
+da olmaktadır. Bu durumda ortaya çıkabilecek sağlık risklerinin önlenmesi amacıyla hekimler antibiyotik 
+tedavilerinde hastalara fermente gıdalar, probiyotik gıdalar veya probiyotik gıda takviyeleri önermektedirler. Bu 
+konuda gelecekte yapılacak araştırmalarla daha aydınlatıcı bilgiler ortaya konarak faydalı bakteriler ve zararlı 
+bakteriler arasında direnç genlerinin transferi konusu halk sağlığı açısından daha detaylı izahlara ulaşacaktır. 
+Gerek yoğurt ve gerekse diğer fermente süt ürünleri içerisinde kullanılan starter kültürler ve diğer doğal 
+mikroorganizmaların da patojen bakterilere benzer şekilde antimikrobiyel direnç geliştirdikleri; hatta diğer türlere 
+ait bakterilerle aralarında direnç değişimleri olduğu ortaya konmuştur (16-18). Bu çalışmada yoğurt starter kültürü 
+
+
+=== [SAYFA 5] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+5 
+  
+ 
+ve pastörize süt mikroflorası ayrı ayrı antimikrobiyel direnç bakımından analiz edilecek, muhtelif mayalamalardan 
+sonra her iki grup mikroflorada meydana gelmesi muhtemel antimikrobiyel direnç değişimleri gözlenebilecektir. 
+Çalışma sonucunda yoğurt içerisinde bulunan mikroorganizma grupları arasında direnç aktarımı olup olmadığı, 
+varsa hangi gruplar arasında olduğu veya daha fazla olduğu, yoğurt mayalama ve raf ömrü süresince benzer 
+değişimlerin olup olmadığı araştırılacaktır. Bu araştırmalar sonucunda antimikrobiyel direnç konusunda temel 
+bilgilerin ve anlayışların güncellenmesi, geliştirilmesi ve yeni araştırmalara kaynak olması mümkün olacaktır.  
+Antimikrobiyel direnç konusunda koruma ve kontrol tedbirlerinde yoğurdun rolü özel olarak değerlendirilecek ve 
+çıkarımlarda bulunulacaktır.  
+Kapsam: 
+Antimikrobiyel direnç sorunu G8 zirvelerinin bazen tek konusu bazen de öncelikli konulardan biri olarak 
+görüşülmüştür. Tüm dünyada bu sorun ile acil olarak mücadele etme gereği karara bağlanmıştır. Konu insan 
+sağlığını gelecekte tehdit edecek olan konudur. Bu konuda araştırmalar giderek yoğunlaşmakta ve sorunun 
+çözümüne katkı sağlamaktadır. Başka hastalıklardan dolayı tedavi alan insanların dahi antimikrobiyel direnç 
+sorunu nedeniyle tedavi olamadığı ve hatta bu nedenden dolayı hayatını kaybettiği bilinmektedir. Esas sorun da 
+budur. Bu sorunun kaynağı bakteriler arasında gen aktarımı sorunudur. Bu genlerin aktarım mekanizmaları bir 
+taraftan incelenirken, diğer taraftan da gıda kaynaklı gen taşınması konusu anlaşılmaya çalışılmaktadır. Yoğurdun 
+faydalı bakterileri ve zararlı olmakla birlikte sayıca az olmalarından dolayı zararsız olan çiğ süt bakterileri arasında 
+antimikrobiyel direnç konusunda ilişkilerini araştıran temel bir çalışmaya rastlayamadık. Bu ilişkinin yoğurt üretimi 
+ve soğuk muhafazası esnasındaki durumunu araştıran bir çalışmaya da rastlayamadık.  
+Bu çalışmada yoğurt mikroflorası içerisinde yer alan starter kültürler ve pastörizasyondan kurtulan bakiye çiğ süt 
+bakterileri grupları arasında veya gruplar içerisinde antimikrobiyel direnç gelişimi, değişimi ve olası halk sağlığı 
+önermeleri üzerinde durulacaktır. Çalışma sonunda yoğurt starter kültürlerinin seçimi ile yoğurt teknolojisinde 
+hangi olasılıklar üzerinde durulmasının antimikrobiyel direnç sorununun çözümüne katkısı olacağı üzerinde 
+durulması mümkün görülmektedir. 
+Siirt Üniversitesi bünyesinde antimikrobiyel direnç sorunu konusunda bilgi birikimi sağlanacak ve bu 
+konuda kamu otoritesinin plan ve projelerine akademik destek vermede Üniversite’miz öncü 
+olabilecektir.  
+ 
+BEKLENEN ASGARİ AKADEMİK ÇIKTILAR: 
+• 
+Enaz 1 araştırma makalesi yayınlamak. 
+• 
+Enaz bir uluslararası katılımlı kongrede sözlü sunum yapmak.  
+ 
+BEKLENEN NİHAİ ETKİ: 
+• 
+Yoğurt bakterileri arasında antimikrobiyel direnç aktarımı konusu detaylı olarak irdelenecektir. 
+Sonuçta ilginç yeni fikirler ve tezlerin ortaya atılmasına katkı sunacak temel bilgiler elde 
+edilecektir. 
+ 
+ 
+Bakteriler arasında gen aktarımı olduğu bilinmektedir. Ancak yoğurt içerisindeki bakteriler arasında bu g
+en aktarımının derecesi mayalama esnasında veya muhafaza esmasında net olarak ortaya konmamıştır. 
+Yoğurt içerisinde antimikrobiyel direnç gelişiminin devam edip etmediği bilinmemektedir. Ya da direncin 
+giderilme olasılığının olup olmadığı. Bu çalışmada gerek yoğurt starter kültürleri ve gerekse diğer muhte
+mel mikroflora üyeleri arasında direnç aktarımları farklı koşulların etkinliği de test edilerek araştırılmaya 
+çalışılacaktır. 
+ 
+ 
+ 
+
+
+=== [SAYFA 6] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+6 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2. Amaç ve Hedefler 
+    
+Araştırma önerisinin amacı ve hedefleri açık, ölçülebilir, gerçekçi ve araştırma süresince ulaşılabilir nitelikte olacak 
+şekilde yazılır. 
+ 
+ 
+ 
+ 
+ 
+En az 350 karakter (harf, noktalama işareti vb.) yazılmalıdır. 
+ 
+Proje Sorusu: Yoğurt yapımı veya soğuk muhafazası esnasında bakteriler arasında antimikrobiyel direnç 
+transferi olmakta mıdır, hangi bakteri veya bakteri grupları arasında olmaktadır. Bunun halk sağlığına etkisi olur 
+mu? Olası riskleri gidermede yoğurt teknolojisinde değişiklikler önerilebilir mi? 
+ 
+Hipotez: Doğal antimikrobiyel direnç sahip olan yoğurt starter kültürleri (laktik asit bakterileri) bu genlerini yoğurtta 
+az sayıda da olsa pastörizasyondan kurtularak mevcut olan çiğ süt bakterilerine aktarabilir. Tersi de olabilir. Çiğ 
+süt bakterilerinde de antimikrobiyel direnç bulunabilir ve bu özellik starter kültüre aktarılabilir.  
+Projenin amacı:  
+Genel amaç: Tüm dünyada süregelen ve giderek yoğunlaşan antimikrobiyel direnç sorununa insanlık adına 
+çözüm arayanlara katkı sağlamaktır. 
+Özel amaç: Yoğurt teknolojisi ve ürün spesifik nitelikleri dikkate alındığında yoğurt tüketiminin halk sağlığında 
+antimikrobiyel direnç özel durumu açısından yararı veya zararı konusunda yeni bilgilere ulaşmak, daha derin 
+araştırmalara öncülük etmektir. 
+         
+Projenin hedefi: Yoğurt starter kültürü (maya) bakterilerini bir grup ve pastörizasyondan kurtularak yoğurtta 
+mevcudiyetini devam ettiren çiğ süt bakterileri diğer grup olarak ele alınacaktır. Bu gruplar içerisinde veya gruplar 
+arasında antimikrobiyel direnç konusunda değişimler takip edilecek ve aralarındaki ilişki ortaya çıkarılacaktır. Bu 
+sayede olası antimikrobiyel direnç riskleri konusunda yorumlarda bulunularak gelecekte yapılması gereken 
+çalışmalar konusunda önermelerde bulunulacaktır.  
+ 
+Anafikir dayanakları (Gerekçeler):  
+-Farklı starter kültürleri farklı antimikrobiyel direnç özellikleri gösterebilir (farklı firmaların yoğurt mayaları temin 
+edilerek karşılaştırmalı olarak antimikrobiyel direnç değerleri incelenecektir).  
+-Farklı çiğ sütlerden farklı tür ve sayıda mikroflora pastörizasyondan kurtulabilir ve bunların antimikrobiyel direnç 
+tablosu farklı olabilir.  
+-Farklı starter kültürler farklı çiğ süt bakterileri ile etkileşime girdikten sonra farklı antimikrobiyel direnç tabloları 
+ortaya çıkabilir. 
+-Tekrarlayan sayıda yoğurt mayasının mayalamada kullanılması antimikrobiyel direnç genlerinin transferini 
+kolaylaştırıyor olabilir.  
+-Yukarıdaki maddelerde antimikrobiyel direnç riski gözlenirse yoğurt üretim prosesi gözden geçirilebilir. 
+-Teknolojik uygulamaların antimikrobiyel direnç sorunlarına olumlu katkısı olabilir. 
+-Halk sağlığı açısından durumun bir ön değerlendirmesi yapılabilir. 
+-Bu çalışma daha sonra yapılacak olan daha kapsamlı çalışmalara önayak olabilir 
+ 
+ 
+ 
+ 
+ 
+2. YÖNTEM 
+ 
+Araştırma önerisinde uygulanacak yöntem ve araştırma teknikleri (veri toplama araçları ve analiz yöntemleri dahil) 
+ilgili literatüre atıf yapılarak açıklanır. Yöntem ve tekniklerin çalışmada öngörülen amaç ve hedeflere ulaşmaya 
+elverişli olduğu ortaya konulur.  
+ 
+
+
+=== [SAYFA 7] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+7 
+  
+ 
+Yöntem bölümünün araştırmanın tasarımını, bağımlı ve bağımsız değişkenleri ve istatistiksel yöntemleri kapsaması 
+gerekir. Araştırma önerisinde herhangi bir ön çalışma veya fizibilite yapıldıysa bunların sunulması beklenir. 
+Araştırma önerisinde sunulan yöntemlerin iş paketleri ile ilişkilendirilmesi gerekir. 
+ 
+En az 350 karakter (harf, noktalama işareti vb.) yazılmalıdır. 
+ 
+İŞ TANIMI ŞEMASI 
+ 
+ 
+ 
+         YÖNTEM ÖZETİ:  
+ 
+A. Ticari yoğurtlarda farklı bakteri gruplarında antimikrobiyel direnç mevcudiyetinin tespiti 
+(İş paketi 1):  
+ 
+a. 
+Üç farklı markaya ait 9 adet ticari yoğurt analiz edilecektir. Her bir örnekten 100 adet 
+bakteriye antimikrobiyel direnç testi uygulanacaktır. Toplam 900 adet bakteri 
+incelenecektir. 
+b. 
+En yüksek antimikrobiyel direnç gösteren 10 bakteri ile en düşük antimikrobiyel direnç 
+gösteren 10 bakteri seçilecektir. Bu bakteriler İş paketi 2’de referans suşlar olarak 
+kullanılacaktır.   
+ 
+B. Farklı ortamlarda antimikrobiyel direnç değişimlerinin tespitleri (İş Paketi 2): 
+ 
+a. 
+UHT steril sütte ve pastörize sütte antimikrobiyel direnç değişimlerinin tespiti. 
+ 
+b. 
+Sıvı besiyerlerinde antimikrobiyel direnç değişimlerinin tespiti. 
+   
+c. 
+Pastörize süt kullanarak yapılan yoğurt içerisinde bakterilerde antimikrobiyel direnç 
+değişiminin tespiti.  
+ 
+d. 
+Steril süt kullanılarak yapılan yoğurt içerisinde bakterilerde antimikrobiyel direnç 
+değişiminin tespiti. 
+ 
+e. 
+Pastörize sütten yapılan yoğurtların soğuk muhafazası süresince (7 ve 14. gün) 
+antimikrobiyel direnç tespiti. 
+ 
+f. 
+Tekrarlayan inkübasyonlar (10 tekrar) sonucunda antimikrobiyel direnç değişimlerinin 
+tespiti. 
+ 
+ 
+İŞ PAKETİ 1
+Ticari yoğurtlar
+•Tüm florada dirençli bakteri düzeyinin analizi
+•100 adet dirençli suşun seleksiyonu, izolasyonu ve identifikasyonu ve sonraki çalışmalarda 
+kullanılması.
+İŞ PAKETİ 
+( Direnç 
+aktarımları)
+•Sıvı besiyerinde, UHT sütte, Pastörize sütte, UHT süt yoğurdunda ve pastöre süt yoğurdunda 
+direnç aktarımı olasılıklarının incelenmesi (3 saatlik bir inkübasyon periyodu sununda, 10. ve 20. 
+ardışık inkübasyon sonunda olmak üzere tekrarlayan inkünasyonlar esnasında).
+•Örnekleri +4 oC'de 7 ve 14 gün bekletmeyle meydana gelecek olası direnç değişimlerinin 
+incelenmesi.
+İŞ PAKETİ 3
+(İzolasyon ve 
+identifikasyon)
+•En dirençli 100 adet Gram pozitif bakterinin izolayonu ve identifikasyonu.
+•İŞ Paketi 1'de yoğurtlarda identifiye edilen suşlarla (100 referans suş) İş Paketi 3'te identifye 
+edilen suşların benzerliklerinin incelenmesi, istatistiki değerlendirmelerin yapılması.
+
+
+=== [SAYFA 8] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+8 
+  
+ 
+C. En yüksek ve en düşük seviyede antimikrobiyel direnç gösteren 100 bakterinin 
+izolasyonu ve identifikasyonu (İş Paketi 3) 
+ 
+a. 
+İzolasyon: Bakterilerin klasik izolasyonu ve temel fenotipikniteliklerine göre ön 
+tanımlanması yapılacaktır.  
+b. 
+İdentifikasyon: 100 adet seçilmiş bakteri suşu VITEK 2 GP identifikasyon sistemi ile 
+identifiye edilecektir. 
+ 
+MATERYAL VE YÖNTEM DETAY BİLGİSİ: 
+Materyal:  
+-Sıvı besiyerleri: Nutrient Broth, MRS Broth, M17 Broth, Antibioic Broth No. 1. 
+-Katı besiyerleri: Nutrient agar, Mrs Agar, M17 Agar, Rogosa Agar, Antibiotic Agar No. 1. 
+-UHT süt: marketlerde satılan ticari kutu sütler kullanılacaktır. 
+-Pastörize süt: Çiğ süt 85 oC’de 1 dakika tutulduktan sonra elde edilen süt. 
+-Starter kültür: 3 farklı firmadan temin edilen 9 farklı ticari yoğurt starter kültürü. 
+-İzolasyon: Gram boyama seti, oksidaz test kiti, katalaz test kiti, üçlü şeker test besiyeri (TSI agar),  
+-İdentifikasyon: VITEK test kitleri. 
+ 
+Yöntem: 
+A. İş Paketleri içerisindeki işlerin ayrı ayrı izahı. 
+B. Laboratuvar işlerinin detaylı izahı. 
+B.1. Örneklerin ekime hazırlanması (standart protokoller). 
+B.2. Ekim ve inkübasyon (standart protokoller). 
+B.3. Koloni seçimi ve izolasyon testlerinin uygulanması (standart protokoller). 
+B.4. Test organizmalarının (referans suşların) seçimi ve antimikrobiyel direnç testlerinin yapılması 
+(Agar-disk difüzyon tekniği). 
+B.5. Tekrarlayan inkübasyonlarda direnç değişimlerinin gözlenmesi (5., 10. ve 20. tekrar). 
+B.6. Bakteri identifikasyonları (VITEK test kitler ile). 
+B.7. İstatistiki analizler. 
+ 
+                     YÖNTEM: 
+A. İş Paketleri içerisindeki işlerin ayrı ayrı izahı. 
+ 
+A1. Ticari yoğurtlarda farklı bakteri gruplarında antimikrobiyel direnç mevcudiyetinin tespiti (İş paketi 1):  
+ 
+A.1.1. Siirt ili merkezinde satış yerlerinden alınan üç farklı markaya ait 9 adet ticari yoğurt analiz edilecektir. 
+Örneklerin seri seyreltilerinin hazırlanası, katı besi yerlerine ekilmesi ve besiyerlerinin inkübasyonu, koloni seçimi, 
+kolonilere izolasyon testleri uygulanması neticesinde 100 farklı bakteri test organizmaları olarak seçilecektir. Bu 
+bakterilere VITEK testleri uygulanarak identifikasyonu sağlanacaktır.  
+ 
+A.1.2. Seçilen test bakterileri sıvı besiyerinde +4 oC’de muhafaza edilerek ileri aşamalarda yapılacak deneylerde 
+kullanılacaktır.  
+ 
+A.2. Farklı ortamlarda antimikrobiyel direnç değişimlerinin tespitleri (İş Paketi 2): 
+ 
+A.2.1. Sıvı besiyerlerinde antimikrobiyel direnç değişimlerinin tespiti: Yukarıda bildirilen sıvı besiyerleri hazırlanıp 
+deney tüplerine 10’ar ml bölündükten sonra otoklavda steril edileceklerdir. Soğuduktan sonra referans suşlar ve 
+starter kültür suşlarının farklı kombinasyonları ile inokule edilecek ve 43 oC’de 24 saat inkibe edileceklerdir. 
+Üçüncü ve ve 24. saatte katı besi yerlerine ekim, koloni seçimi, ön izolasyon ve nihai olarak seçilen 100 adet 
+bakteriye antimikrobiyel direnç testi uygulanacaktır. 
+  
+A.2.2. UHT steril sütte antimikrobiyel direnç değişimlerinin tespiti: Yukarıda bildirilen sıvı besiyerleri yerine ticari 
+olarak marketlerde satılan steril sütlerden alınarak aynı şekilde 10 ml miktarlarında deney tüplerine bölündükten 
+sonra otoklavda steril edileceklerdir. Soğuduktan sonra referans suşlar ve starter kültür suşlarının farklı 
+kombinasyonları ile inokule edilecek ve 43 oC’de 24 saat inkibe edileceklerdir. 3. saatte ve 24. saatte katı besi 
+yerlerine ekim, koloni seçimi, ön izolasyon ve nihai olarak seçilen 100 adet bakteriye antimikrobiyel direnç testi 
+uygulanacaktır. 
+ 
+A.2.3. Pastörize süt kullanarak yapılan yoğurt içerisinde bakterilerde antimikrobiyel direnç değişiminin tespiti: 
+Yukarıda bildirilen sıvı besiyerleri yerine marketlerde satılan günlük çiğ sütlerden alınarak laboratuvara 
+getirilecektir. Bu sütlerden 1 litre kadar alınarak Bean-Mary içerisinde 85 oC’de 1 dakika süreyle pastörize edilecek 
+ve 45 oC’de starter kültür ilave edilerek karıştırıldıktan sonra aynı şekilde 10 ml miktarlarında steril deney tüplerine 
+bölündükten sonra referans suşların farklı kombinasyonları ve tek tek suşları ile inokule edilecektir. Tüpler 43 
+oC’de 3 saat inkübe edildikten sonra +4 oC’de soğuk muhafazaya alınacaktır. Koloni elde etme ve izolasyon 
+işlemleri yukarıda bildirildiği şekilde yapılacaktır. Analizler soğuk muhafaza başlangıcında ve 24.saatinde 
+
+
+=== [SAYFA 9] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+9 
+  
+ 
+yapılacaktır. Üçüncü ve 24. saatte katı besi yerlerine ekim, koloni seçimi, ön izolasyon ve koloni seçiminden sonra 
+nihai olarak seçilen 100 adet bakteriye antimikrobiyel direnç testi uygulanacaktır. 
+ 
+A.2.4. UHT steril süt kullanılarak yapılan yoğurt içerisinde bakterilerde antimikrobiyel direnç değişiminin tespiti: 
+Steril UHT sütler marketlerden alınarak 45 oC’de ısıtılmış ve starter kültürle inokule edilmiş hale getirilecek ve 
+steril deney tüplerine 10’ar ml miktarlarında deney tüplerine bölünecektir. Tüpler referans suşlarla tek tek veya 
+kombine olarak inokule edilecektir. sonraki işlemler Madde 2.3’te bildirildiği şekilde yapılacaktır.  
+ 
+A.2.5. Pastörize sütten yapılan yoğurtların soğuk muhafazası süresince (7 ve 14. gün) antimikrobiyel direnç tespiti: 
+Madde 2.3’te yapılan testler aynı örneklerin soğuk muhafazası devam ettirilerek 7. ve 14. günlerde tekrarlanarak 
+soğuk muhafaza süresi içerisinde olası değişiklikler araştırılacaktır. 
+ 
+A.2.6. Tekrarlayan inkübasyonlar (5,10 ve 20 tekrar) sonucunda antimikrobiyel direnç değişimlerinin tespiti: Madde 
+2.3’te bildirilen örnek hazırlama ve inkübasyon ile paralel olarak bir kat fazla örnek daha hazırlanacak ve bu 
+aşamada yapılacak testlerde kullanılmak üzere inkübe edilecektir. İnkübasyondan sonra bu örnekler maya olarak 
+kullanılarak 20 tekrarlı inkübasyonun ilki için kullanılacaktır. Bu aşamada ardışık 20 işlem yapılacak ve her 
+defasında sıfırdan pastörize sütler hazırlanıp steril tüplere bölündükten sonra bir önceki inkübasyonda elde edilen 
+3 saatlik yoğurt örnekleri starter kültür (maya) olarak kullanılacak ve 10’ar ml’lik pastörize süt tüplerinin her birine 
+%3 oranında inokule edilerek mayalama yapılacaktır. Her mayalama bir önceki 3 saat süreyle inkübe edilen tüpte 
+oluşan yoğurtla yapılacaktır. Bu şekilde 20 ardışık işlem yapılarak her biri 43 oC’de 3 saat inkübe edilecektir. 
+Beşinci, 10. ve 20. tekrarın sonunda her bir örnekten 10 adet olmak üzere seçilen suşlar izolasyon ve identifikason 
+yapılmak üzere İş Paketi 3’te bildirilen işlerde kullanılacaktır.   
+ 
+A.3. En yüksek ve en düşük seviyede antimikrobiyel direnç gösteren 100 bakterinin izolasyonu ve 
+identifikasyonu (İş Paketi 3): 
+ 
+A.3.1. İzolasyon: Madde 5.6’da bildirildiği şekilde 10 tekrarlı inkübasyonla yoğurt yapıldıktan sonra katı 
+besiyerlerine ekim, koloni seçimi, koloni saflaştırma ve izolasyon testlerinden sonra toplam olarak fenotipik 
+özellikler bakımından farklı gruplara ayrılan suşlardan bir mantık çerçevesinde 100 adet Gram pozitif suş 
+seçilecektir. Bu suşlara antibiyogram testleri yapılacaktır. Bu suşların daha sonra identifikasyonu yapılacaktır.  
+ 
+A.3.2. İdentifikasyon: Madde 6.1’de bildirildiği şekilde izolasyonu ve antibiyogram testleri yapılan 100 adet Gram 
+pozitif suşun adlandırılması amacıyla VITEK testi uygulanacaktır. Testler sonucunda fenotipik özellikler de dikkate 
+alınarak suşların en muhtemel adlandırılması yapılacaktır. İdentifikasyon işleminde cihazın üreticisi firmanın 
+algoritmalarından ve bilgi bankasından yararlanılacaktır.  
+ 
+           B. Laboratuvar işlerinin detaylı izahı. 
+B.1. Örneklerin ekime hazırlanması: 
+Örnekler sıvı besiyerleri, mayalanmış süt ve yoğurt örnekleridir. Örnekler 10’ar ml halinde vidali kapaklı deney 
+tüplerinde olacaktır. Bu tüplerin içerikleri gevşek olacağı için mekanik çalkalama ve vortekseme ile homojenize 
+edileceklerdir. Homojenize tüp içeriklerinden 1 ml örnek alınarak seri seyreltiler hazırlanacaktır. Mikrobiyolojik 
+analizler için 1 ml örnek alınarak, içerisinde 9 ml steril fizyolojik tuzlu su (FTS, % 0.9 NaCl içeren steril distile su) 
+bulunan deney tüplerine aktarılarak ardışık işlemlerle 10’luk tabanda 10-7’ye kadar seri seyreltileri hazırlanacaktır. 
+Bu şekilde hazırlanan seri seyrelti tüplerinden katı besiyerlerine ekim yapılacaktır.  
+ 
+B.2. Ekim ve inkübasyon: 
+Yayma plak yöntemi ile ikili parallel petriye ekimler yapılacaktır (16). Toplam mezofilik aerobik bakteri sayısı, Plate 
+Count Agar (PCA) kullanılarak 30 oC’de 24-48 saatte, toplam psikrofilik aerobik bakteri sayısı PCA kullanılarak 10 
+oC’de 7 günde (17),  Laktokokların sayımı, M17 agarda, laktobasillerin sayımı da MRS agarda yapılacaktır. 
+ 
+ 
+Tablo. Mikrobiyolojik analizler ile ilgili özet bilgi. 
+Mikroorganizma 
+Besiyeri/Firma/Ülke 
+İnkübasyon koşulları 
+Sıcaklık 
+Süre 
+Aerob/Anaerob 
+Toplam Mezofilik 
+Aerobik Bakteri 
+PCA 
+(Plate 
+Count Agar, Fluka, 
+İsviçre) 
+35°C 
+48 
+saat 
+Aerob 
+Toplam Psikrofilik 
+Aerobik Bakteri 
+PCA 
+(Plate 
+Count Agar, Fluka, 
+İsviçre) 
+10°C 
+48 
+saat 
+   Aerob 
+Laktobasil 
+MRS 
+Agar  
+(de-Man Rogosa 
+Sharpe Agar, Merck, Almanya) 
+37°C 
+7 
+gün 
+    Aerob 
+
+
+=== [SAYFA 10] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+10 
+  
+ 
+Laktokok 
+ M17 
+Agar  
+(M17 Agar, Merck, 
+Almanya) 
+37°C 
+3 
+gün 
+Anaerob-% 5 lik 
+CO2 ortamı 
+ 
+ 
+B.3. Koloni seçimi ve izolasyon testlerinin uygulanması:  
+İnkübasyondan sonra 30-300 koloni bulunduran petrilerdeki kolonilerden 10’ar adet seçilecek, koloni 
+saflaştırma işlemlerinde yine aynı besiyerleri kullanılacaktır. Saflaştırılan kolonilerden Gram boyama 
+yapılacak ve Gram pozitif koloniler seçilecektir. Seçilen kolonilere sırasıyla, oksidaz, katalaz, TSI agarda 
+üreme testleri uygulanacak ve bu üç teste göre her bir örnek tipinden seçilen koloniler gruplandırılacaktır. 
+Benzer mikroorganizmaları bir araya getirmek ve aralarından referans suş olarak kullanılmak üzere seçilecek 
+olan 100 adet bakteriyi belirlemek için bu işlem yapılacaktır (16).  
+ 
+Mikroskopik analizler: Hareket, Gram boyama, şekil ve spor oluşumu testleri yapılacaktır. Hareket testi lam 
+üzerinde 1 damla suda asılı duran bakterilerin mikroskopta x40 büyütmede incelenmesiyle yapılacaktır. Morfolojik 
+özellikler ve spor oluşumu Gram boyama preparatında değerlendirilecektir. Ayrıca suşların farklı ısı derecelerinde 
+bekletilmesi suretiyle sporlanmaları gözlenecektir. Gram boyama yapılırken rutin prosedürden başla olası anaerop 
+Gram pozitiflerin boyamasının başarılı bir şekilde yapılabilmesi için bazı konulara dikkat edilecektir. Anaerop 
+bakteriler narindir ve ısı ile kolayca deforme olabilecekleri için, materyalin fiksasyonu metanol ile yapılacaktır. 
+Dekolorizasyona direnç gösteremeyen anaerop Gram pozitif bakterilerin Gram pozitif boyanmış olarak kalmalarını 
+sağlamak için kristal viyole ile muamele sırasında preparat üzerine 3-5 damla taze hazırlanmış 5% lik sodyum 
+bikarbonat damlatılacaktır. Ayrıca sulu fuksin içerisine safranin ilave edilecektir. 
+ 
+Oksidaz testi: %1 lik Kovac's oksidaz ayıracı (Tetramethyl-p-phenylenediamine dihydrochloride) bir süzgeç 
+kağıdına emdirilir ve üzerine bakteri kolonisi tatbik edilir. 10 saniye içerisinde bakteri kolonisinin temas ettiği 
+süzgeç kağıdının koyu mavi renk alması pozitif sonuçtur. 60 saniye içerisinde oluşan renkleşme durumunda test 
+tekrarlanır. Daha geç oluşabilecek renkleşmeler değerlendirilmeyecektir.  
+ 
+Katalaz testi: İncelenecek bakteri kolonisi kürdan kullanarak lam üzerinde ezilir. Üzerine 1 damla hidrojen peroksit 
+(%3) damlatılarak 30 saniye içerisinde meydana gelen gaz kabarcıkları aranacaktır.  
+ 
+TSI (Triple sugar Iron Agar) testi: Yatık TSI besiyerine inoküle edilen suş 37°C’ da 24 saat inkübe edilecektir. 
+İnkübasyon sonunda tüpün dibindeki sarıya dönen renk değişimi glikozun kullanıldığını, yatık yüzeydeki sarıya 
+dönen renk değişimi laktozun kullanıldığını, yatık yüzeyin ucundaki sarıya dönen renk değişimi sukrozun 
+kullanıldığını gösterecektir.  
+ 
+B.4. Test organizmalarının (referans suşların) seçimi ve antimikrobiyel direnç testlerinin yapılması:  
+Madde 4’te bildirildiği şekilde izolasyon testleri yapılarak gruplandırılmış ve alt grupları belirlenmiş 
+bakterilerden anlamlı bir dağılımla toplam olarak 100 adet bakteri seçilecektir. Seçilen 100 adet bakteriye 
+antimikrobiyel direnç testleri uygulanacaktır. Testlerde rutin agar-disk difüzyon testi uygulanacaktır. Antibiotic 
+Agar kullanılacak, ekim yapılan ve her birine disc dispenser kullanılarak 8 adet antibiyotik diski yerleştirilen 
+katı besiyeri petrileri Madde 3’teki tabloda bildirilen inkübasyon ısı derecelerinde bildirilen süre kadar inkübe 
+edilecektir. inkübasyonları tamamlanan petrilerde gelişen duyarlılık zonları dijital kumpas kullanılarak 
+ölçülecektir.  
+ 
+B.5. Tekrarlayan inokulasyon ve inkübasyonlar:  
+Araştırmada kullanılan 4 farklı besiyeri-inkübasyon tipinin her birinden seçilen ve izolasyonları ile 
+antibiyogram testleri yapılan suşlardan mantık çerçevesinde örnekleyerek 10’ar adet (5 tanesi dirençli ve 5 
+tanesi en duyarlı) olmak üzere toplamda 40 adet antimikrobiyel direnç göstermeyen suş seçilecektir. Seçilen 
+suşlar farklı kombinasyonlar halinde 5, 10 ve 20 defa tekrarlanan inokulasyon ve inkübasyonlara tabi 
+tutulacaktır. İnokulasyonlada bakterilerin aynı grup ve farklı grup üyelerinin kombinasyonları kullanılacaktır. 
+Besiyeri olarak UHT steril süt ve Antibiotic Broth No:1 kullanılacaktır.  Her bir suş TSI Yatık agardan ilk olarak 
+Nutrient Broth No: 1’e inokule edilecek, uygun ısı dereceleri ve sürelerde (Madde 3’te bildirildiği gibi) inkübe 
+edilecektir. Her bir inkübasyon 3 saat sürecektir. Süre dolunca aynı brothdan yeni bir 10 ml’lik steril brotha 50 
+mikrolitre miktarında inokule edilerek 5., 10. ve 20. İnkübasyonlar tamamlanınca her bir tüpten Antibiyotik 
+Agar NO:1 üzerine sürülerek ve Madde 3’te bildirildiği gibi inkübe edilerek duyarlılık zonlarının kaydedilmesi 
+sağlanacaktır. Bu testler sonucunda duyarlı bakteriler ile dirençli bakteriler aynı ortamda inkübe edildiğinde 
+direnç aktarımının gerçekleşip gerçekleşmediği gözlenmiş olacaktır. Aynı grup ve farklı grup bakteriler 
+kullanılarak grup içi ve gruplar arasındaki gen aktarımlarının da ipuçları elde edilmeye çalışılacaktır.  
+ 
+B.6. Bakteri identifikasyonları:  
+Toplamı 100 adet olmak üzere 50 adet antimikrobiyel direnç suş ve 50 adet antimikrobiyel direnç göstermeyen 
+suş gruplarda mantıklı tercihle seçilecek ve VITEK 2 GP identifikasyon sistemi kullanılarak identifiye 
+edilecektir. İdentifikasyon prosödürü olarak cihazın kullanım kılavuzu ve GBP test kitinin kullanım klavuzu 
+kullanılacak ve Bio-Merieux firmasının dökümanları dikkate alınacaktır. 
+ 
+
+
+=== [SAYFA 11] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+11 
+  
+ 
+B.7. İstatistiki analizler: Her bir edeney tüpü ikili paralel olarak çalışılacaktır. Her bir katı besi yeri de ilili paralel 
+petri olarak ekilecektir. Veriler analysis of variance (ANOVA) and Duncan Post Hoc Test kullanılarak analiz 
+edilecektir. İstatistiki önem dereceleri P < 0.05 değeri ile ifade edilecektir. SPSS istatistik paket programı (SPSS 
+ver. 13.0 for Windows, SPSS Inc., Chicago, USA) kullanılacaktır.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [SAYFA 12] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+12 
+  
+ 
+3 
+ PROJE YÖNETİMİ  
+ 
+3.1 İş- Zaman Çizelgesi 
+ 
+Araştırma önerisinde yer alacak başlıca iş paketleri ve hedefleri, her bir iş paketinin hangi sürede gerçekleştirileceği, başarı ölçütü ve araştırmanın başarısına katkısı “İş-
+Zaman Çizelgesi” doldurularak verilir. Literatür taraması, gelişme ve sonuç raporu hazırlama aşamaları, araştırma sonuçlarının paylaşımı, makale yazımı ve malzeme alımı 
+ayrı birer iş paketi olarak gösterilmemelidir. 
+Başarı ölçütü olarak her bir iş paketinin hangi kriterleri sağladığında başarılı sayılacağı açıklanır. Başarı ölçütü, ölçülebilir ve izlenebilir nitelikte olacak şekilde nicel veya 
+nitel ölçütlerle (ifade, sayı, yüzde, vb.) belirtilir. 
+ 
+ 
+İŞ-ZAMAN ÇİZELGESİ (*) 
+         
+İP 
+No 
+İş Paketlerinin Adı ve Hedefleri 
+Kim(ler) Tarafından 
+Gerçekleştirileceği 
+Zaman Aralığı 
+(..-.. Ay) 
+Başarı Ölçütü ve Projenin Başarısına Katkısı  
+1 
+Ticari yoğurtlarda farklı bakteri 
+gruplarında antimikrobiyel direnç 
+mevcudiyetinin tespiti (İş paketi 1):  
+Murat, ahmet 
+İlk 3 ay 
+Antibiyotik dirençli bakteriler tespit edildi. 
+2 
+ 
+Farklı ortamlarda antimikrobiyel 
+direnç değişimlerinin tespitleri (İş 
+Paketi 2): 
+ 
+Murat, ahmet 
+4-9. aylar 
+Direnç değişimleri ve uygun koşullar tespit edildi. 
+3 
+En yüksek ve en düşük seviyede 
+antimikrobiyel direnç gösteren 100 
+bakterinin 
+izolasyonu 
+ve 
+identifikasyonu (İş Paketi 3): 
+ 
+Murat, ahmet 
+10-12. aylar 
+Tür ve alttür halinde 100 adet bakterinin izolasyonu ve 
+identifikasyonu yapıldı. 
+4 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+(*) Çizelgedeki satırlar ve sütunlar gerektiği kadar genişletilebilir ve çoğaltılabilir.
+
+
+=== [SAYFA 13] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+13 
+  
+ 
+ 
+3.2 Risk Yönetimi 
+   Araştırmanın başarısını olumsuz yönde etkileyebilecek riskler ve bu risklerle karşılaşıldığında araştırmanın 
+başarıyla yürütülmesini sağlamak için alınacak tedbirler (B Planı) ilgili iş paketleri belirtilerek ana hatlarıyla aşağıdaki 
+Risk Yönetimi Tablosu’nda ifade edilir. B planlarının uygulanması araştırmanın temel hedeflerinden sapmaya yol 
+açmamalıdır. 
+ 
+                                                       RİSK YÖNETİMİ TABLOSU* 
+İP 
+No 
+En Önemli Riskler 
+Risk Yönetimi (B Planı) 
+1 
+Risk yoktur. 
+ 
+2 
+ 
+ 
+   (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+3.3. Araştırma Olanakları 
+ 
+Bu bölümde projenin yürütüleceği kurum ve kuruluşlarda var olan ve projede kullanılacak olan altyapı/ekipman 
+(laboratuvar, araç, makine-teçhizat, vb.) olanakları belirtilir. 
+ 
+ARAŞTIRMA OLANAKLARI TABLOSU (*) 
+ 
+Kuruluşta Bulunan Altyapı/Ekipman Türü, Modeli 
+(Laboratuvar, Araç, Makine-Teçhizat, vb.) 
+Projede Kullanım Amacı 
+Yeterli araştırma altyapısı Bölüm’de vardır. Malzeme listesi 
+https://gidahijyeni.siirt.edu.tr/ ve 
+https://gidahijyeni.siirt.edu.tr/detay/cihazlarimiz/333841148.html 
+sayfalarında mevcuttur. 
+Laboratuvar altyapısı projenin 
+yürütülmesinde gereklidir.  
+ 
+ 
+ 
+ 
+ (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+4. 
+YAYGIN ETKİ 
+ 
+      Önerilen çalışma başarıyla gerçekleştirildiği takdirde araştırmadan elde edilmesi öngörülen ve beklenen yaygın 
+etkilerin neler olabileceği, diğer bir ifadeyle yapılan araştırmadan ne gibi çıktı, sonuç ve etkilerin elde edileceği 
+aşağıdaki tabloda verilir. 
+ 
+ARAŞTIRMA ÖNERİSİNDEN BEKLENEN YAYGIN ETKİ TABLOSU 
+Yaygın Etki Türleri 
+Önerilen Araştırmadan Beklenen Çıktı, Sonuç ve 
+Etkiler 
+Bilimsel/Akademik  
+(Makale, Bildiri, Kitap Bölümü, Kitap) 
+Bir adet bilimsel makale üretilerek en az TR Dizin 
+dergilerinde yayınlanacaktır. 
+Ekonomik/Ticari/Sosyal 
+(Ürün, Prototip, Patent, Faydalı Model, Üretim İzni, 
+Çeşit Tescili, Spin-off/Start- up Şirket, Görsel/İşitsel 
+Arşiv, Envanter/Veri Tabanı/Belgeleme Üretimi, Telife 
+Konu Olan Eser, Medyada Yer Alma, Fuar, Proje 
+Pazarı, Çalıştay, Eğitim vb. Bilimsel Etkinlik, Proje 
+Sonuçlarını Kullanacak Kurum/Kuruluş, vb. diğer 
+yaygın etkiler) 
+Endüstride direnç aktarımı konusunda farkındalık 
+oluşacaktır. 
+
+
+=== [SAYFA 14] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+14 
+  
+ 
+Araştırmacı Yetiştirilmesi ve Yeni Proje(ler) 
+Oluşturma  
+(Yüksek Lisans/Doktora Tezi, Ulusal/Uluslararası Yeni 
+Proje) 
+Bu proje sayesinde araştırmacı niteliklerimiz gelişecek 
+ve yeni araştırmacılar ve araştırmaların oluşmasına 
+katkı sağlanacaktır. 
+ 
+ 
+5. BÜTÇE TALEP ÇİZELGESİ 
+Bütçe Türü 
+ Talep Edilen 
+Bütçe Miktarı 
+(TL) 
+Talep Gerekçesi 
+Sarf Malzeme 
+4000 
+Proje için gerekli ancak Bölüm laboratuvarında eksik olan malzemeler talep 
+edilmiştir. Diğer gerekli malzemeler bölüm envanterinden kullanılacaktır. 
+Makina/Teçhizat 
+(Demirbaş) 
+ 
+ 
+Hizmet Alımı 
+ 
+ 
+Ulaşım 
+ 
+ 
+TOPLAM 
+ 
+ 
+NOT: Bütçe talebiniz olması halinde hem bu tablonun hem de TÜBİTAK Yönetim Bilgi Sistemi (TYBS) başvuru 
+ekranında karşınıza gelecek olan bütçe alanlarının doldurulması gerekmektedir. Yukardaki tabloda girilen bütçe 
+kalemlerindeki rakamlar ile, TYBS başvuru ekranındaki rakamlar arasında farklılık olması halinde TYBS ekranındaki 
+veriler dikkate alınır ve başvuru sonrasında değiştirilemez. 
+ 
+6. BELİRTMEK İSTEDİĞİNİZ DİĞER KONULAR 
+Sadece araştırma önerisinin değerlendirilmesine katkı sağlayabilecek bilgi/veri (grafik, tablo, vb.) eklenebilir.  
+ 
+Bütçenin kısıtlı olması bu tür proje heveslerimizi bastırmaktadır. 
+ 
+  
+ 
+7. EKLER 
+ 
+EK-1:  KAYNAKLAR 
+ 

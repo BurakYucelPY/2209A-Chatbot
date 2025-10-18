@@ -1,0 +1,638 @@
+
+
+=== [SAYFA 1] ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÜBİTAK–2209-A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA 
+PROJELERİ DESTEĞİ PROGRAMI 
+ 
+Başvuru formunun Arial 9 yazı tipinde, her bir konu başlığı altında verilen açıklamalar göz önünde 
+bulundurularak hazırlanması ve ekler hariç toplam 20 sayfayı geçmemesi beklenir (Alt sınır 
+bulunmamaktadır). Değerlendirme araştırma önerisinin özgün değeri, yöntemi, yönetimi ve yaygın etkisi 
+başlıkları üzerinden yapılacaktır. 
+ 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2020 
+ 
+ 
+1. Dönem Başvurusu 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [SAYFA 2] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+2
+  
+ 
+A. GENEL BİLGİLER 
+ 
+Başvuru Sahibinin Adı Soyadı:  
+Araştırma Önerisinin Başlığı:  
+Danışmanın Adı Soyadı:  
+Araştırmanın Yürütüleceği Kurum/Kuruluş: Süleyman Demirel Üniversitesi 
+ 
+ÖZET 
+ 
+     Türkçe özetin araştırma önerisinin (a) özgün değeri, (b) yöntemi, (c) yönetimi ve (d) yaygın etkisi hakkında bilgileri 
+kapsaması beklenir. Her bir özet 450 kelime veya bir sayfa ile sınırlandırılmalıdır. Bu bölümün en son yazılması 
+önerilir.  
+ 
+Gelişen teknoloji ile günlük hayatta kullandığımız birçok eşyaya akıllı özellik kazandırılmaktadır. Kişisel 
+kullanımı olan akıllı saat, akıllı telefon örneklerinin yanı sıra akıllı ev sistemleri en geniş kapsamlı örneğidir. Akıllı 
+teknolojiler, genel olarak içerisinde bir işletim sistemi bulundurmaktadır. Bununla birlikte içerisinde 
+mikroişlemci/mikrodenetleyici, bellek ve çevresel ara birimler yer almaktadır. En çok kullanılan eşyalardan biri 
+olan aynalar da akıllı hale getirilerek, kullanıcılarına hem ayna hem de bilgisayar destekli bilgi hizmeti 
+sunmaktadır. Son yıllarda akıllı ayna uygulamaları da bu noktada akıllı ürünler kategorisindeki yerini almıştır. 
+Salgın hastalıkların yaygınlaştığı bu dönemde, gündelik hayat içinde insan bedeni çeşitli etkenlere 
+maruz kalmaktadır. Ancak bu etkenlerin insan vücudunda nelere yol açtığı bilinmemektedir. Bu sebeple kişiler 
+çeşitli sağlık kuruluşlarına başvurmak zorunda kalmaktadırlar. Fakat çoğu insan gün içinde genel sağlık 
+durumunu öğrenmek için sağlık kurumlarına gitmek istememektedir.  
+Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna projesinde günlük hayatın karmaşası içinde 
+kalan insanların güne daha çabuk adapte olması ve her sabah sağlık açısından hayati önem taşıyan bilgileri 
+öğrenebilmeleri hedeflenmiştir.  
+ Bu çalışmada, akıllı aynalar üzerinde bulunan mikrodentleyici kartlar sayesinde internet üzerinden veri 
+alınır ve ayna içine yerleştirilmiş monitöre bilgileri aktarılır. Tasarlanan akıllı ayna sisteminde Raspberry Pi 
+mikrodenetleyici kartı kullanılarak web servislerinden güncel olarak çekilen hava durumu, saat, konum ile çekilen 
+trafik bilgisi, kullanıcıya ait etkinlik verileri ile birlikte sensörler ile alınan kişinin vücut sıcaklığı, nabız ve görüntü 
+işleme ile yüz analiz bilgileri izlenecektir. 
+Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna projesinde ayna karşısına gelen kişinin görüntü 
+işlemeyle göz altı morluğu, deri rengi tonu, diş minesi tonu verileri elde edilerek önceki günlerdeki verilerle 
+kıyaslanır ve kullanıcıya elde edilen veriler sunulur.  
+Akıllı aynada iki farklı mod bulunmaktadır. Güç kapalı modunda, akıllı ayna standart bir yansıtma aynası 
+olarak görev yapmaktadır. Güç açık modunda ise ayna, akıllı bir sistem olarak kişiyi izlemektedir. Akıllı ayna 
+uygulamasının kullanım kolaylığı ve sağlayacağı fayda açısından kişilerin günlük hayata başlangıç ihtiyaçlarını 
+karşılayacaktır. 
+Anahtar Kelimeler: Akıllı Ayna, Raspberry Pi, Arduino, OpenCV, Görüntü İşleme, Nesnelerin interneti 
+(Internet of Things) 
+ 
+ 
+1. ÖZGÜN DEĞER  
+ 
+ 1.1. Konunun Önemi, Araştırma Önerisinin Özgün Değeri ve Araştırma Sorusu/Hipotezi 
+ 
+Araştırma önerisinde ele alınan konunun kapsamı ve sınırları ile önemi literatürün eleştirel bir değerlendirmesinin 
+yanı sıra nitel veya nicel verilerle açıklanır. 
+ 
+Özgün değer yazılırken araştırma önerisinin bilimsel değeri, farklılığı ve yeniliği, hangi eksikliği nasıl gidereceği 
+veya hangi soruna nasıl bir çözüm geliştireceği ve/veya ilgili bilim veya teknoloji alan(lar)ına kavramsal, kuramsal 
+ve/veya metodolojik olarak ne gibi özgün katkılarda bulunacağı literatüre atıf yapılarak açıklanır.  
+
+
+=== [SAYFA 3] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+3
+  
+ 
+  
+Önerilen çalışmanın araştırma sorusu ve varsa hipotezi veya ele aldığı problem(ler)i açık bir şekilde ortaya konulur. 
+ 
+     Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna cihazı nerelerde kullanılır? 
+• 
+Elektrik ve internet bulunan her yerde kullanılabilir. Kullanıcının ateş, nabız, deri nemi, yüz analizi 
+değerlerini, hava durumu ve trafik bilgisini kolaylıkla almasını sağlar. 
+Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna cihazının kolaylıkları? 
+• 
+Kullanıcının sağlık kuruluşlarına başvurmadan kendi kendine ateş, nabız, deri nemi ve yüz analizi 
+değerlerini öğrenebilmesi ve geçmiş verileri doğrultusunda karşılaştırma yaparak kullanıcıya uyarı ve 
+tavsiyelerde bulunmasını sağlar. 
+Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna cihazının avantajları nelerdir? 
+• 
+Düşük maliyetli olması. 
+• 
+Kurulumu hızlı olması. 
+• 
+Kullanıcı verilerinin depolanabilmesi. 
+• 
+Kullanıcının genel sağlık durumunu kontrol altında tutması. 
+• 
+Teknolojinin gündelik hayatta verimli kullanımının yaygınlaştırılması. 
+Raspberry Pi cihazının seçilme sebebi? 
+Raspberry Pi, kredi kartı büyüklüğünde bir bilgisayardır ve üzerine çeşitli eklentiler eklenebildiği için masaüstü 
+veya dizüstü bilgisayarların yapabileceği çoğu işlemi yapabilme kapasitesine sahiptir [1]. Fiyatının uygun olması, 
+kullanım kolaylığı ve geliştirme olanaklarının çokluğu sebebiyle Raspberry Pi cihazı seçilmiştir. 
+Yapılan çalışmalar kapsamında geliştirilen akıllı ayna sistemlerinde wirelees üzerinden çekilen konum bilgisi 
+harita bilgisi hava durumu bilgisi bulunmaktadır. Bazı projelerde OpenCV ile yüz tanıma sistemi bulunmaktadır. 
+Resmi kurumlarca satışı bulunmamasına rağmen bireysel olarak akıllı ayna projeleri yapılmaktadır. 
+ Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna projesi, web servislerinden alınan hava durumu 
+bilgilerini, zaman ve konum bilgilerini içermesi, içerisinde kişinin genel sağlık değerleri hakkındaki verileri alabilen 
+sensör ve bu verileri işleyebilen yazılımlar bulundurması ve görüntü işleme ile göz altı morluğu, deri rengi tonu, 
+diş minesi tonu verilerinin elde edilmesi, önceki günlerle kıyaslanması ve kullanıcıya elde edilen verilerin 
+sunulması ile özgün bir tasarım olacaktır. 
+Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna projesi, içerisinde kişinin genel sağlık değerleri 
+hakkındaki verileri alabilen sensör ve bu verileri işleyebilen yazılımlar bulundurması ile özgün bir tasarım olacaktır. 
+ 
+ 
+ 
+1.2. Amaç ve Hedefler 
+    
+Araştırma önerisinin amacı ve hedefleri açık, ölçülebilir, gerçekçi ve araştırma süresince ulaşılabilir nitelikte olacak 
+şekilde yazılır. 
+ 
+Salgın hastalıkların yaygınlaştığı bu dönemde, gündelik hayat içinde vücudumuz çeşitli etmenlere maruz 
+kalır. Ancak bu etmenlerin vücudumuzda nelere yol açtığını bilemeyiz. Bu sebeple çeşitli sağlık kuruluşlarına 
+başvurmak zorunda kalırız. Fakat çoğu insan gün içinde genel sağlık durumunu öğrenmek için sağlık kurumlarına 
+gitmek istemez.  
+Projeye başlama nedeni kullanıcıların ateş, nabız, deri nemi ve yüz analizi değerlerini sağlık kurumlarına 
+gitmeden ev ortamında öğrenebilmelerini ve ayna üzerinde kullanılan algoritma sayesinde çeşitli öneriler 
+almalarını sağlamaktır. Alınan veriler günlük olarak kayıt edileceği için kişinin önceki günlere göre değerlerinin 
+değişimini de öğrenmesi sağlanacaktır. Bu sayede sağlık sistemine düşen yük miktarının azalması ve 
+
+
+=== [SAYFA 4] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+4
+  
+ 
+kullanıcıların sunulan uyarı ve öneriler doğrultusunda gerekli tedbirleri zamanında almaları hedeflenmektedir. 
+ 
+ 
+ 
+2. YÖNTEM 
+ 
+Araştırma önerisinde uygulanacak yöntem ve araştırma teknikleri (veri toplama araçları ve analiz yöntemleri dahil) 
+ilgili literatüre atıf yapılarak açıklanır. Yöntem ve tekniklerin çalışmada öngörülen amaç ve hedeflere ulaşmaya 
+elverişli olduğu ortaya konulur.  
+ 
+Yöntem bölümünün araştırmanın tasarımını, bağımlı ve bağımsız değişkenleri ve istatistiksel yöntemleri kapsaması 
+gerekir. Araştırma önerisinde herhangi bir ön çalışma veya fizibilite yapıldıysa bunların sunulması beklenir. 
+Araştırma önerisinde sunulan yöntemlerin iş paketleri ile ilişkilendirilmesi gerekir. 
+ 
+Akıllı Ayna, bilgisayarı, ekranı ve yarım ayna yüzeyini birleştiren bir cihazdır. Yarım ayna yüzeyi akıllı 
+aynanın bir kullanıcının kendi yansımasını görmesini sağlarken, entegre ekran akıllı aynanın kullanıcısına bir 
+kullanıcı arayüzü (Ul) sunmasını sağlayan bir çıkış cihazıdır [1].  
+OpenCV (Open Source Computer Vision), esas olarak gerçek zamanlı bilgisayar ile görüntü 
+işlemeyi hedefleyen bir programlama fonksiyonu kütüphanesidir.  Başlangıçta Intel tarafından geliştirilen 
+kütüphane, sonradan Willow Garage tarafından desteklendi. Bu kütüphane çapraz platformludur ve BSD lisansı 
+ile ücretsiz olarak kullanılabilir [2]. 
+Kullanıcının sağlık kuruluşlarına başvurmadan kendi kendine ateş, nabız, deri nemi ve yüz analizi 
+değerlerini öğrenebilmesini sağlar. Aynı zamanda cihazın bulunduğu konum doğrultusunda hava durumu ve harita 
+üzerinde trafik durumu bilgisini kullanıcıya sunar.  
+Bu sayede kullanıcı ayna karşısında geçirdiği süre zarfında hava durumu ve yol bilgisini öğrenerek günlük 
+planlamalarını vakit kaybetmeden yapabilecektir.  
+Ayna üzerinde bulunan Raspberry Pi cihazı sayesinde internet üzerinden istenen bilgileri çekerek ekrana 
+yansıtabilecektir. Isı ve nem sensörü sayesinde kişinin beden nem ve ısı değerini alıp işleyebilecektir. Üzerinde 
+bulunan kamera sayesinde görüntü işleme ile kişinin yüz analizini yansıtabilecektir. 
+Veri tabanında depolanan günlük veriler kıyaslanarak oluşan değişiklik sonucunda kullanıcıya uyarı ve 
+tavsiyeler verilecektir. Elde edilen veriler doğrultusunda kullanıcı genel sağlık durumunun kontrolünü rahatlıkla 
+yapabilecektir. 
+ Bugün çalışmalarına devam eden ve geleceğin teknolojisinde yerini alacak olan akıllı aynalar, 
+kullanıcılarına hem ayna hem de bilgisayar destekli bilgi hizmetleri sağlıyor. Yerleşik mikrodenetleyici kartları 
+sayesinde, internete bağlanabilen ve internetten veri alabilen bu sistemler aynadaki yerlerde bu bilgileri 
+gösterebilir [3]. Yapılan çalışmalar kapsamında geliştirilen akıllı ayna sistemleri, Raspberry Pi mikrodenetleyici 
+kartı kullanılarak web servislerinden alınan hava durumu bilgileri, zaman ve konum bilgileri, güncel olay bilgileri, 
+kullanıcı bilgileri ve kamera görüntüsünü içermektedir. 
+ 
+Cihaz 7 temel parçadan oluşmaktadır.  
+1) Ayna 
+2) Monitör 
+3) Raspberry pi 
+4) Arduino 
+5) Raspberry Pi Kamera Modülü V2  
+6) DHT11 Isı ve Nem Sensörü Kart  
+
+
+=== [SAYFA 5] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+5
+  
+ 
+7) MH-SR 602 MINI Hareket Sensör Modülü   
+ 
+Cihaz duvara en uygun şekilde yerleştirilir.  
+Cihazın önünde hareket ederek cihazın açılması sağlanır.  
+Cihazın üzerinde bulunan tuşlardan birisi seçilir. 
+Cihaz, seçilen fonksiyona göre ekrana istenilen bilgileri yansıtır. 
+ 
+Şekil 1: Sistemin Blok Şeması 
+ 
+Şekil 1’de verilen sistemin blok şemasında kişi aynanın önüne geçmektedir. Ayna modülünün üst 
+tarafında cihaz pasif durumdayken ayna olarak görünen kısım, cihaz aktif duruma geçince monitör görevi görmeye 
+başlamaktadır. Herhangi bir sensör aktif hale getirilmediği zamanlarda monitörde, kişinin bulunduğu şehrin hava 
+durumu, trafik yoğunluğu, saat bilgisi ve internet bağlantı bilgisi bulunmaktadır.  
+Modülün yan kısımlarında bulunun sensörlerin aktif hale getirilmesiyle seçilen sensör doğrultusunda 
+kullanıcı verileri ekrana yansıtılmaktadır.  
+Elde edilen veri, veri tabanında depolanan verilerle kıyaslandığında farklılık olduğu program tarafından 
+
+
+=== [SAYFA 6] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+6
+  
+ 
+tespit edilirse ekrana gerekli tavsiye ve uyarılar yansıtılır. 
+ 
+Tavsiye ve Uyarılar    
+1) 
+Nem değeri; 
+a) 
+Nem değeri %50 üstündeyse; 
+i. 
+Bir önceki günden yüksekse değerleriniz yükseliş göstermektedir, cilt doktoruna başvurunuz. 
+ii. 
+Bir önceki günden düşükse nem değeriniz düşüş göstermektedir. İyi su çekici özelliği olan 
+nemlendirici kullanmaya devam edin. 
+b) 
+Nem değeri %40 altındaysa;   
+i. 
+Bir önceki günden yüksekse kuru, çok kuru ve hassas ciltler için besleyici bir bakım sunan, cildin 
+koruyucu tabakasını güçlendirmeye yardımcı olan nemlendirici kullanınız. 
+ii. 
+Bir önceki günden düşükse değerleriniz düşüş göstermektedir cilt doktoruna başvurunuz. 
+ 
+2) 
+Isı değeri;  
+a) 
+Isı değeri 38.2°C üstündeyse; 
+i. 
+Bir önceki günden yüksekse ateşiniz kritik düzeydedir lütfen doktora gidiniz. 
+ii. 
+Bir önceki günden düşükse değerleriniz düşüş göstermektedir istirahat edip sıvı tüketimini 
+arttırınız. 
+b) 
+Isı değeri 33.2°C altındaysa; 
+i. 
+Lütfen doktora gidiniz. 
+ 
+ 
+              
+ Görüntü İşleme İle Yüz Analizi 
+Görüntü İşleme, görüntüyü dijital form haline getirmek ve bazı işlemleri gerçekleştirmek için geliştirilmiş, 
+spesifik görüntü elde etmek veya ondan bazı yararlı bilgiler çıkarmak için kullanılan bir yöntemdir. 
+Bu yöntemin girdisi video kesiti veya fotoğraf gibi bir görüntüdür. Çıktısı ise görüntünün istenilen ya da 
+dikkat edilmesi gereken bölümüne karşılık gelir. Genellikle Görüntü İşleme sistemi, önceden belirlenmiş sinyal 
+işleme ( Signal Processing ) yöntemlerini uygularken görüntüleri iki boyutlu sinyaller olarak ele alır. 
+Görüntü işleme temel olarak aşağıdaki üç adımı içerir: 
+1. 
+Görüntünün optik tarayıcı ile veya dijital fotoğraflarla alınması. 
+2. 
+Veri sıkıştırma, görüntü iyileştirme ve uydu fotoğrafları gibi insan gözü olmayan lekelenme 
+kalıplarını içeren görüntüyü analiz etme-kullanma.  
+3. 
+Çıktı, sonuçların görüntü analizine dayalı olarak değiştirilmiş, kullanıma hazır hale 
+getirilmesidir. 
+Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna projesinde görüntü işlemeyle göz altı morluğu, 
+deri rengi tonu, diş minesi tonu verileri elde edilerek önceki günlerdeki verilerle kıyaslanır ve kullanıcıya elde edilen 
+veriler sunulur.                
+ 
+   ALGORİTMA 
+1. 
+Başla 
+2. 
+Hareket sensörü hareket algıladıysa monitörü aç, algılamadıysa 19. adıma git 
+3. 
+Konum bilgisini çek.  
+4. 
+Bulunan konumda hava durumunu çek. 
+5. 
+Çekilen bilgileri ekrana yansıt.  
+6. 
+Eğer Isı-nem sensörü çalıştıysa ısı nem değerini ölç çalışmadıysa 14. adıma git.   
+7. 
+Eğer ısı>38.2 ateşiniz normal değerden yüksektir lütfen doktora gidin yaz. 
+8. 
+Eğer ısı<33.2 ise ekrana ateşiniz normal değerin altındadır lütfen doktora gidin yaz. 
+9. 
+Eğer ısı>=33.2 ve ısı<=38.2 ise ekrana ateşiniz normal değerlerdedir yaz. 
+10. Eğer nem>%50 vücut nem değeriniz normal değerden yüksektir yaz. 
+
+
+=== [SAYFA 7] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+7
+  
+ 
+11. Eğer nem<%40 ise ekrana nem değeriniz normal değerin altındadır lütfen derinizi nemlendirin yaz. 
+12. Eğer nem>=%40 ve nem<=%50 ise ekrana nem değeriniz normal değerlerdedir yaz.  
+13. Ölçülen değeri kaydet ve ekrana yansıt. 
+14. Eğer nabız sensörü çalıştıysa nabız değerini ölç çalışmadıysa 19. adıma git.  
+15. Eğer nabız>=60 ve nabız<=100 ise nabzınız normal değer arasındadır yaz. 
+16. Eğer nabız<60 ise nabzınız normal değerlerden düşüktür yaz. 
+17. Eğer nabız>100 ise nabzınız normal değerlerden büyüktür. 
+18.  Ölçülen değeri kaydet ve ekrana yansıt. 
+19. Dur 
+ 
+            Şekil 2 Algoritma Akış Şeması 
+Algoritma akış şemasında hareket algılandığı zaman cihazın aktif hale geleceği ve wirelees üzerinden 
+çekilen bilgilerin ekrana yansıtılacağı görülmektedir. Kullanıcının isteği doğrultusunda sensörler aktif hale getirilip 
+elde edilen bilgiler ekrana yansıtılmaktadır.   
+Görüntü İşleme Tabanlı Sağlık Analizi Yapan Akıllı Ayna projesi ile kullanıcılara genel sağlık durumlarını 
+düzenli olarak evde takip edebilme imkânı sunmak ve sağlık kuruluşlarının yükünü azaltmak amaçlanmıştır. 
+Sağlık durumu analizini yapan kullanıcı aynı zamanda günlük hava ve trafik durumunu görebilecek bu 
+sayede planlamalarını hızlı bir şekilde yapabilecektir. 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [SAYFA 8] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+8
+  
+ 
+3 
+ PROJE YÖNETİMİ  
+ 
+3.1 İş- Zaman Çizelgesi 
+ 
+Araştırma önerisinde yer alacak başlıca iş paketleri ve hedefleri, her bir iş paketinin hangi sürede 
+gerçekleştirileceği, başarı ölçütü ve araştırmanın başarısına katkısı “İş-Zaman Çizelgesi” doldurularak verilir. 
+Literatür taraması, gelişme ve sonuç raporu hazırlama aşamaları, araştırma sonuçlarının paylaşımı, makale 
+yazımı ve malzeme alımı ayrı birer iş paketi olarak gösterilmemelidir. 
+Başarı ölçütü olarak her bir iş paketinin hangi kriterleri sağladığında başarılı sayılacağı açıklanır. Başarı ölçütü, 
+ölçülebilir ve izlenebilir nitelikte olacak şekilde nicel veya nitel ölçütlerle (ifade, sayı, yüzde, vb.) belirtilir. 
+ 
+ 
+İŞ-ZAMAN ÇİZELGESİ (*) 
+         
+İ
+P 
+N
+o 
+İş Paketlerinin Adı ve 
+Hedefleri 
+Kim(ler) 
+Tarafından 
+Gerçekleştiri
+leceği 
+Zaman Aralığı 
+(..-.. Ay) 
+Başarı Ölçütü ve Projenin 
+Başarısına Katkısı  
+1 Literatür Araştırması 
+Yürütücü/Ara
+ştırmacı 
+7. Ay 
+Mevcut sistemleri ile karşılaştırma 
+yapılması, farklı tasarım ve özellikte 
+ürün geliştirilmesi farkının 
+incelenmesi. 
+2 Projenin Planının 
+Hazırlanması 
+Yürütücü 
+8. Ay 
+Proje yapılırken hangi yolların 
+izleneceğinin belirlenmesi. 
+3 Sistem Tasarımı 
+Araştırmacı 
+9.Ay 
+Projenin tasarlanması. 
+4 Malzeme Alımı 
+Araştırmacı 
+10. Ay 
+Gerekli malzemelerin alınması. 
+5 Projenin 
+Monte 
+Edilmesi 
+Yürütücü/Ara
+ştırmacı 
+11-12-1. Ay 
+Hazırlanan tasarıma göre 
+malzemelerin monte edilmesi. 
+6 Yazılım Çalışmaları  
+Yürütücü/Ara
+ştırmacı 
+1-2. Ay 
+Monte edilen malzemelere yazılım 
+çalışmaları yapılması. 
+7 Sistem 
+Ve 
+Yazılım 
+Testi 
+Yürütücü/Ara
+ştırmacı 
+3-4. Ay 
+Yapılan yazılım çalışmalarına testler 
+uygulanması. 
+8 Son Kontrol 
+Yürütücü/Ara
+ştırmacı 
+4-5. Ay 
+Sorunların giderilmesi ve projenin 
+en uygun hale getirilmesi. 
+9 Sonuç 
+Raporunun 
+Yazılımı Ve Sunumu 
+Yürütücü 
+6. Ay 
+Sonuç raporunun yazılması ve 
+sunulması. 
+ 
+ 
+(*) Çizelgedeki satırlar ve sütunlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+ 
+ 
+3.2 Risk Yönetimi 
+   Araştırmanın başarısını olumsuz yönde etkileyebilecek riskler ve bu risklerle karşılaşıldığında araştırmanın 
+başarıyla yürütülmesini sağlamak için alınacak tedbirler (B Planı) ilgili iş paketleri belirtilerek ana hatlarıyla aşağıdaki 
+Risk Yönetimi Tablosu’nda ifade edilir. B planlarının uygulanması araştırmanın temel hedeflerinden sapmaya yol 
+açmamalıdır. 
+ 
+                                                       RİSK YÖNETİMİ TABLOSU* 
+İP 
+No 
+En Önemli Riskler 
+Risk Yönetimi (B Planı) 
+1 
+Stok yetersizliği 
+Parçaların yurtdışından temin edilmesi. 
+2 
+Malzeme arızası 
+Yeni malzeme temini. 
+   (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+
+
+=== [SAYFA 9] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+9
+  
+ 
+ 
+3.3. Araştırma Olanakları 
+ 
+Bu bölümde projenin yürütüleceği kurum ve kuruluşlarda var olan ve projede kullanılacak olan altyapı/ekipman 
+(laboratuvar, araç, makine-teçhizat, vb.) olanakları belirtilir. 
+ 
+ARAŞTIRMA OLANAKLARI TABLOSU (*) 
+ 
+Kuruluşta Bulunan Altyapı/Ekipman Türü, Modeli 
+(Laboratuvar, Araç, Makine-Teçhizat, vb.) 
+Projede Kullanım Amacı 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+4. 
+YAYGIN ETKİ 
+ 
+      Önerilen çalışma başarıyla gerçekleştirildiği takdirde araştırmadan elde edilmesi öngörülen ve beklenen yaygın 
+etkilerin neler olabileceği, diğer bir ifadeyle yapılan araştırmadan ne gibi çıktı, sonuç ve etkilerin elde edileceği 
+aşağıdaki tabloda verilir. 
+ 
+ARAŞTIRMA ÖNERİSİNDEN BEKLENEN YAYGIN ETKİ TABLOSU 
+Yaygın Etki Türleri 
+Önerilen Araştırmadan Beklenen Çıktı, Sonuç ve 
+Etkiler 
+Bilimsel/Akademik  
+(Makale, Bildiri, Kitap Bölümü, Kitap) 
+1 adet Ulusal Hakemli dergilerde makale yayını 
+1 adet Uluslararası konferans tam metin bildiri sunumu 
+Ekonomik/Ticari/Sosyal 
+(Ürün, Prototip, Patent, Faydalı Model, Üretim İzni, Çeşit 
+Tescili, Spin-off/Start- up Şirket, Görsel/İşitsel Arşiv, 
+Envanter/Veri Tabanı/Belgeleme Üretimi, Telife Konu 
+Olan Eser, Medyada Yer Alma, Fuar, Proje Pazarı, 
+Çalıştay, Eğitim vb. Bilimsel Etkinlik, Proje Sonuçlarını 
+Kullanacak Kurum/Kuruluş, vb. diğer yaygın etkiler) 
+Ürün Geliştirme; sosyal amaçlıdır. Kullanıcıların evden 
+çıkmadan genel sağlık bilgilerini öğrenmeleri, bu sayede 
+sağlık sistemine düşen yük miktarının azalması ve 
+kullanıcıların sunulan uyarı ve öneriler doğrultusunda 
+gerekli tedbirleri zamanında almaları hedeflenmektedir. 
+ 
+Araştırmacı Yetiştirilmesi ve Yeni Proje(ler) 
+Oluşturma  
+(Yüksek Lisans/Doktora Tezi, Ulusal/Uluslararası Yeni 
+Proje) 
+Geliştirilerek farklı özellikler eklenecektir. Uzman kişilerin 
+değerlendirmesi sağlanacaktır. 
+ 
+ 
+ 
+5. 
+BELİRTMEK İSTEDİĞİNİZ DİĞER KONULAR 
+Sadece araştırma önerisinin değerlendirilmesine katkı sağlayabilecek bilgi/veri (grafik, tablo, vb.) eklenebilir.  
+ 
+Projede kullanılacak malzemeler: 
+
+
+=== [SAYFA 10] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+10
+  
+ 
+                  
+ 
+  Şekil 3: Ayna                                                   Şekil 4: Monitör 
+          
+   
+Şekil 5: Raspberry Pi                                                 Şekil 6: Arduino 
+ 
+                
+ 
+Şekil 7: Raspberry Pi Kamera Modülü V2            Şekil 8: DHT11 Isı ve Nem Sensörü Kart 
+ 
+ 
+
+
+=== [SAYFA 11] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+11
+  
+ 
+                         
+ 
+Şekil 9: MH-SR 602 MINI Hareket Sensör Modülü             Şekil 10: Pulse Nabız Ölçer 
+ 
+Şekil 11: Veritabanı Varlık-İlişki Diyagramı 
+ 
+  
+ 
+6. 
+EKLER 
+ 
+ 
+EK-1:  KAYNAKLAR 
+         
+
+
+=== [SAYFA 12] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+12
+  
+ 
+KAYNAKLAR Akademik Google dan bildiri makale olabilir. Son çalışmalar makale olarak yayınlanmaktadır. 
+Yayınlanmış tezler olabilir 
+Kitaplardan bilgi olabilir 

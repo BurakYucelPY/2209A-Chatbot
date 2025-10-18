@@ -1,0 +1,572 @@
+
+
+=== [SAYFA 1] ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÜBİTAK–2209-A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA 
+PROJELERİ DESTEĞİ PROGRAMI 
+ 
+Başvuru formunun Arial 9 yazı tipinde, her bir konu başlığı altında verilen açıklamalar göz önünde 
+bulundurularak hazırlanması ve ekler hariç toplam 20 sayfayı geçmemesi beklenir (Alt sınır 
+bulunmamaktadır). Değerlendirme araştırma önerisinin özgün değeri, yöntemi, yönetimi ve yaygın etkisi 
+başlıkları üzerinden yapılacaktır. 
+ 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 Yılı 
+ 
+1. Dönem Başvurusu
+
+
+=== [SAYFA 2] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+2 
+  
+ 
+A. GENEL BİLGİLER 
+ 
+Başvuru Sahibinin Adı Soyadı: Melih Ercan Yetiş-İsmail Sorucu 
+Araştırma Önerisinin Başlığı: Görüntü İşleme Tabanlı Su Sayacı Okuma Sistemi Tasarımı 
+Danışmanın Adı Soyadı: İhsan Pehlivan 
+Araştırmanın Yürütüleceği Kurum/Kuruluş: Sakarya Uygulamalı Bilimler Üniversitesi 
+ 
+ 
+ÖZET 
+ 
+     Türkçe özetin araştırma önerisinin (a) özgün değeri, (b) yöntemi, (c) yönetimi ve (d) yaygın etkisi hakkında bilgileri 
+kapsaması beklenir. Bu bölümün en son yazılması önerilir.  
+ 
+Özet 
+ 
+      Su sayacı, kullanıcıların su tüketimini ölçen ve faturalandıran bir cihazdır. Bu cihaz, su kullanımını takip 
+ederek israfı önler ve kullanıcıya doğru bir fatura sunar. Günümüzde su sayaçlarını okumak için görevli 
+personeller vardır. Projemizin amacı su sayaçlarının sayaç okuma personeli olmadan, uzak mesafeden, 
+mevcut sisteme entegre şekilde, hızlı, düşük maliyetle okunmasını sağlamak ve hem enerji tasarrufu 
+sağlayarak hem de kullanıcıyı bilinçlendirerek doğaya verilen zararı azaltacak bir tasarım yapmaktır. 
+ 
+      Su sayacı okuma sistemi; ESP32-CAM modülü, su sayacı ve kablosuz ağ ile çalışan akıllı bir sistemdir. 
+Sistem, su sayacının üzerine yerleştirilen ESP32-CAM modülü ile sayacın fotoğrafını belirli aralıklarla çeker ve 
+kablosuz ağ üzerinden bir sunucuya gönderir. Sunucuda çalıştırılan kod sayesinde fotoğraftaki tüketim verileri 
+algılanır ve su tüketimi hesaplanır. Sunucu, aynı zamanda su tüketimini bir veri tabanında saklar ve bir web 
+arayüzü ile kullanıcıya sunar. Kullanıcı, web arayüzü üzerinden su tüketimini grafikler, tablolar ve istatistikler 
+şeklinde görüntüleyebilir, karşılaştırabilir ve analiz edebilir. Sistem su sayaçlarını okuma işlemini çevreci bir 
+şekilde kolaylaştırmayı ve kullanıcıyı su tasarrufuna teşvik etmeyi sağlar.  
+ 
+      Bu sistem, su sayacı okuma işlemini otomatikleştirmek, faturalandırmayı kolaylaştırmak ve su tasarrufunu 
+teşvik etmek için tasarlanmıştır. Bu sistem, ESP32-CAM modülünün avantajlarını kullanarak mevcut su sayacı 
+okuma yöntemlerine göre daha hızlı, daha ekonomik ve daha çevrecidir.  
+ 
+Bu sistemin çalışma prensibi sırasıyla; 
+ 
+• 
+ESP32-CAM modülü, su sayacının yüzeyine paralel olacak şekilde yerleştirilir. Modül, su sayacının 
+okunabilir bölümünü tamamen kapsayacak şekilde ayarlanır. 
+• 
+ESP32-CAM modülü, bir güç kaynağına bağlanır. Modül, kablosuz ağa bağlanmak için gerekli ayarları 
+yapar ve sunucu ile iletişim kurmak için gerekli protokolleri uygular. 
+• 
+ESP32-CAM modülü, belirli aralıklarla su sayacının fotoğrafını çeker. Fotoğraf, JPEG formatında 
+kaydedilir ve sunucuya gönderilmek üzere kablosuz ağ üzerinden paketlenir. 
+• 
+Sunucu, ESP32-CAM modülünden gelen fotoğraf paketini alır. Paket, fotoğrafı çözümlemek için açılır. 
+Fotoğraf, görüntü işleme yöntemi ile işlenir. Görüntü işleme yazılımı, fotoğraftaki tüketim verilerini okur 
+ve su tüketimini hesaplar. 
+• 
+Sunucu, su tüketimini bir veri tabanında saklar ve su tüketimini bir web arayüzü ile kullanıcıya sunar. 
+Kullanıcı, web arayüzüne erişmek için bir tarayıcı kullanır. Kullanıcı, web arayüzü üzerinden su 
+tüketimini görüntüleyebilir, karşılaştırabilir ve analiz edebilir. Kullanıcı; su tüketimini azaltmak için 
+öneriler alabilir. 
+ 
+      Bu sistem, yakın geleceğimizin önemli sorunlarından olan su yönetimi ve tasarrufu konularına katkı ve 
+kolaylık sağlar. 
+ 
+Anahtar Kelimeler: Su sayacı, ESP32-CAM, Su tüketimi, Kablosuz ağ, Web arayüzü 
+ 
+ 
+1. ÖZGÜN DEĞER  
+
+
+=== [SAYFA 3] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+3 
+  
+ 
+ 
+ 1.1. Konunun Önemi, Araştırma Önerisinin Özgün Değeri ve Araştırma Sorusu/Hipotezi 
+ 
+Araştırma önerisinde ele alınan konunun kapsamı ve sınırları ile önemi literatürün eleştirel bir değerlendirmesinin 
+yanı sıra nitel veya nicel verilerle açıklanır. 
+ 
+Özgün değer yazılırken araştırma önerisinin bilimsel değeri, farklılığı ve yeniliği, hangi eksikliği nasıl gidereceği 
+veya hangi soruna nasıl bir çözüm geliştireceği ve/veya ilgili bilim veya teknoloji alan(lar)ına kavramsal, kuramsal 
+ve/veya metodolojik olarak ne gibi özgün katkılarda bulunacağı literatüre atıf yapılarak açıklanır.  
+  
+Önerilen çalışmanın araştırma sorusu ve varsa hipotezi veya ele aldığı problem(ler)i açık bir şekilde ortaya konulur. 
+ 
+   
+      Su sayacı, kullanıcıların su tüketimini ölçen ve faturalandıran bir cihazdır. Bu cihaz, su kullanımını takip 
+ederek israfı önler ve kullanıcıya doğru bir fatura sunar.                                                                                              
+       Günümüzde su sayaçlarının okunması için sayaç okuma personelleri çalışmaktadır. Personellerin tek tek 
+sayaçları gezmesi için araçlar kullanılmaktadır. Bu durum ise gereksiz enerji kullanımına ve çevre kirliliğine yol 
+açmaktadır. Bu noktada düşüncemiz ‘‘Su sayaçlarının daha çevreci bir şekilde okunmasını sağlayabilir miyiz?’’ 
+oldu ve proje araştırmalarına başladık. 
+      Projemizdeki sistem sayesinde su sayaçlarını okumak için personele ihtiyaç duyulmayacaktır. Su sayaçları 
+uzaktan ve otomatik bir şekilde okunacaktır. Okuma dönemlerine göre veriler karşılaştırılacak, kullanıcıya çevreci 
+öneriler yapılarak kullanıcı bilinçlendirilecektir. Çevreye karşı toplumsal bilinç biraz da olsa arttırılmış olacaktır. Bu 
+sayede hem su tasarrufu hem yakıt tasarrufu sağlanmış olacaktır. Önceki yönteme göre maliyet azalmış olacaktır. 
+Çevreye verilen zarar azalmış olacaktır. 
+ 
+ 
+ 
+ 
+ 
+1.2. Amaç ve Hedefler 
+    
+Araştırma önerisinin amacı ve hedefleri açık, ölçülebilir, gerçekçi ve araştırma süresince ulaşılabilir nitelikte olacak 
+şekilde yazılır. 
+ 
+ 
+      Projemizin amacı su sayaçlarının sayaç okuma personeli olmadan, uzak mesafeden, mevcut sisteme entegre 
+şekilde, hızlı, düşük maliyetle okunmasını sağlamaktır. Aynı zamanda hem enerji tasarrufu sağlayan hem de 
+kullanıcıyı bilinçlendirerek doğaya verilen zararı azaltacak bir tasarım yapmaktır. 
+ 
+Amacı gerçekleştirmeye yönelik genel hedeflerimiz; 
+ 
+• 
+Elektronik donanım tasarımı yapmak, 
+ 
+• 
+Kamera modülünün çektiği fotoğrafları Wi-Fi ile gönderecek mikrodenetleyici program tasarımı yapmak, 
+ 
+• 
+Gönderilen fotoğrafları görüntü işleme yöntemi ile bilgisayar tarafından algılayacak ve algılanan verilerin 
+düzenlenip yorumlanmasını sağlayacak yazılım tasarımı yapmak. 
+ 
+ 
+ 
+ 
+2. YÖNTEM 
+ 
+Araştırma önerisinde uygulanacak yöntem ve araştırma teknikleri (veri toplama araçları ve analiz yöntemleri dahil) 
+ilgili literatüre atıf yapılarak açıklanır. Yöntem ve tekniklerin çalışmada öngörülen amaç ve hedeflere ulaşmaya 
+elverişli olduğu ortaya konulur.  
+ 
+Yöntem bölümünün araştırmanın tasarımını, bağımlı ve bağımsız değişkenleri ve istatistiksel yöntemleri kapsaması 
+
+
+=== [SAYFA 4] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+4 
+  
+ 
+gerekir. Araştırma önerisinde herhangi bir ön çalışma veya fizibilite yapıldıysa bunların sunulması beklenir. 
+Araştırma önerisinde sunulan yöntemlerin iş paketleri ile ilişkilendirilmesi gerekir. 
+ 
+ 
+ 
+Projemiz 3 ana kısımdan oluşmaktadır. 
+ 
+• 
+Mikrodenetleyicinin düzgün bir şekilde çalışması için gereken elektronik donanım tasarımı 
+ 
+• 
+Kameradan gelen verileri Wi-Fi üzerinden sunucuya gönderecek mikrodenetleyici yazılım tasarımı 
+ 
+• 
+Mikrodenetleyiciden gelen verileri işleyecek yazılım tasarımı 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Şekil 1. Uzaktan Sayaç Okuma Sistemi Blok Diyagramı 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [SAYFA 5] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+5 
+  
+ 
+1.1 Mikrodenetleyici Donanım Tasarımı 
+ 
+      Projemizde dahili bir kamerası olduğu için ESP32-CAM mikrodenetleyicisini kullanmayı düşünüyoruz. ESP32-
+CAM’i tercih etmemizi sağlayan başlıca özellikleri şunlardır: 
+ 
+• 
+Voltaj: 5 V  
+• 
+Akım: 2A  
+• 
+OV2640 ve OV7670 kamera desteği, dahili flaş. 
+• 
+Çalışma sıcaklığı: -40°C/85°C 
+• 
+İşlemci: 32bit çift çekirdekli 240 MHz Tensilica LX6 
+• 
+SRAM: 520 KB  
+• 
+Flaş: 16 MB 
+• 
+Wi-Fi Protokolü: 802.11 (b, g, n, d, e, i, k, r) 
+• 
+Bluetooth Protokolü: BLEv4.2 BR / EDR 
+ 
+      Mikrodenetleyiciyi beslemek için ilk aşamada 5V adaptör kullanacağız. İsteğe bağlı 9V pili regülatör yardımı 
+ile 5V’a düşürüp de kullanılabilir. Hatta ileriki aşamada kendi kendine yetebilen bir sistem olması için sayacın takılı 
+olduğu borunun içerisine çok küçük enerji üretebilecek bir su dinamosu koyulabilir. Mikrodenetleyicinin üzerinde 
+dahili olarak bulunan veya harici olan bir kameranın sayaca dik pozisyonda yerleştirilerek sayaçtaki sayıları daha 
+net bir şekilde fotoğraflaması sağlanacak. Su sayaçları genellikle karanlık alanlarda konumlandırıldığından dolayı 
+fotoğrafların daha net çekilebilmesi için yalnızca fotoğraf çekilmeden hemen önce aktif olacak bir led ışık 
+kullanılacak. Bu led ışık hem gereksiz parlak olup görüntüyü bozmaması hem de enerji tüketimini arttırmaması 
+için optimum seviyeye ayarlanacak. 
+ 
+ 
+ 
+1.2 Mikrodenetleyici Yazılım Tasarımı 
+      ESP32-CAM mikrodenetleyicisi içerisine yazılacak yazılım, dahili kameradan alınan fotoğrafların işlenerek 
+kablosuz ağ üzerinden başka bir yazılıma aktarılmasını sağlayacak. İlk olarak ESP32-CAM’i Wi-Fi ağına bağlamak 
+için SSID ve şifre ayarlamaları yapılır. Bu ayarlamalar, geliştirici tarafından Arduino IDE veya ESP-IDF kullanılarak 
+gerçekleştirilir. Bağlantı sağlandıktan sonra HTML tabanlı bir sunucu oluşturulur ve kameradan alınan görüntüler, 
+JPEG formatında bu sunucuya aktarılır. Yazılım, ESP32-CAM'in bünyesinde barındırdığı Wi-Fi ağlarına 
+bağlanabilme yeteneği sayesinde geniş bir kullanım alanına hitap eder ve uzaktan erişim özelliği sunar. Arduino 
+IDE veya ESP-IDF kullanımı, geliştiricilere projeyi kişiselleştirme ve ihtiyaca göre ayarlama yapma imkanı sağlar. 
+Oluşturulan sunucu, ESP32-CAM tarafından işlenen görüntüyü kablosuz ağ üzerinden başka bir yazılıma 
+aktarmak için kullanılır. Görüntülerin JPEG formatının aktarılması, dosya hızını optimize ederek görüntü koruma 
+avantajı sağlar. Ek olarak adaptörle kullanım için güç yönetimi yöntemleri eklenerek, ESP32-CAM'in adaptörle 
+beslenmesi optimize edilir. Adaptöre bağlı olarak düşük güçte kalma özelliği sayesinde enerji tüketimi en aza 
+indirilir ve mikrodenetleyici adaptör bağlantısı kesildiğinde otomatik olarak normal çalışma moduna geçer. Bu, 
+adaptörle ve pil ile kullanım arasında sorunsuz bir geçiş sağlar. 
+ 
+ 
+ 
+ 
+ 
+ 
+1.3 Verileri İşleyen ve Yorumlayan Yazılım Tasarımı 
+ 
+      Wi-Fi üzerinden gelen JPEG formatındaki fotoğrafları bilgisayarın algılayacağı hale getirebilmek için yazılacak 
+yazılımı Python dilinde OpenCV, Pytesseract gibi kütüphaneleri kullanarak yazmayı düşünüyoruz. Aşağıda 
+görüntü işleme işlemi için genel olarak izleyeceğimiz adımlar verilmiştir. 
+• 
+İlk olarak OpenCV ve Pytesseract kütüphaneleri cmd(Command Prompt)’a yazılan ‘‘pip install opencv-
+python’’ ve ‘‘pip install pytesseract’’ komutları ile yüklenilir. 
+• 
+Kütüphaneler ‘‘import cv2’’ ve ‘‘import pytesseract’’ komutları ile aktif hale getirilir. 
+• 
+Fotoğraf ‘‘cv.imread()’’ komutu ile okunulur. 
+
+
+=== [SAYFA 6] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+6 
+  
+ 
+• 
+Okumanın daha iyi olması için fotoğrafa rengi griye çevirme, görüntü eşikleme(thresholding), ince 
+çerçeveleme(erosion) uygulanabilir. 
+• 
+En iyi çalışan Tesseract config ayarları tespit edilir ve uygulanır. 
+ 
+ 
+Şekil 2. Tesseract OCR config ayarları 
+ 
+• 
+Sonuçlar yazdırılır. 
+      
+      Görüntü işleme işlemi sayesinde sayaç üzerindeki tüketim verileri okunmuş olur. Okuma işlemi belli aralıklarda 
+yapılır. Bu aralıklara göre de haftalık tüketim, aylık tüketim, yıllık tüketim gibi veriler elde edilir. Elde edilen veriler 
+bir web arayüzünde tablolar ve grafikler şeklinde kullanıcıya sunulur. Web arayüzü oluşturmak için HTML, CSS, 
+JavaScript kullanılması düşünülmektedir. Fakat yedek plan olarak Front-End, UI (User Interface) framework'leri 
+veya web arayüzü oluşturucuları kullanılabilir. Aşağıda web arayüzü oluşturmak için genel olarak izleyeceğimiz 
+adımlar verilmiştir. 
+ 
+• 
+İlk olarak web sitesinin dosyalarını düzenli tutmak için bir proje dizini oluşturulur. Bu dizinde HTML, CSS, 
+JavaScript dosyaları saklanır. 
+• 
+Web sayfasının temel yapısını oluşturmak için ‘‘index.html’’ şeklinde bir HTML dosyası oluşturulur. 
+Sayfanın içeriği tanımlanmış olur. 
+• 
+Sayfanın stilini belirlemek için ‘‘styles.css’’ şeklinde bir CSS dosyası oluşturulur. 
+• 
+Web sayfasına dinamik özellikler ekleyebilmek için bir de ‘‘script.js’’ şeklinde bir JavaScript dosyası 
+oluşturulur. 
+• 
+HTML dosyası bir tarayıcıda açılarak web sayfası görüntülenir. 
+ 
+      Sonuç olarak su tüketim verilerini düzenlenmiş ve yorumlanmış şekilde kullanıcıya sunacak web arayüzü 
+oluşturulmuş olur. Sistem çalışır hale geldikten sonra ise iyileştirme çalışmaları yapılır. 
+ 
+ 
+
+
+=== [SAYFA 7] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+7 
+  
+ 
+3 
+ PROJE YÖNETİMİ  
+ 
+3.1 İş- Zaman Çizelgesi 
+ 
+Araştırma önerisinde yer alacak başlıca iş paketleri ve hedefleri, her bir iş paketinin hangi sürede gerçekleştirileceği, başarı ölçütü ve araştırmanın başarısına katkısı “İş-
+Zaman Çizelgesi” doldurularak verilir. Literatür taraması, gelişme ve sonuç raporu hazırlama aşamaları, araştırma sonuçlarının paylaşımı, makale yazımı ve malzeme alımı 
+ayrı birer iş paketi olarak gösterilmemelidir. 
+Başarı ölçütü olarak her bir iş paketinin hangi kriterleri sağladığında başarılı sayılacağı açıklanır. Başarı ölçütü, ölçülebilir ve izlenebilir nitelikte olacak şekilde nicel veya 
+nitel ölçütlerle (ifade, sayı, yüzde, vb.) belirtilir. 
+ 
+ 
+İŞ-ZAMAN ÇİZELGESİ (*) 
+         
+İP 
+No 
+İş Paketlerinin Adı ve Hedefleri 
+Kim(ler) Tarafından 
+Gerçekleştirileceği 
+Zaman Aralığı 
+(..-.. Ay) 
+Başarı Ölçütü ve Projenin Başarısına Katkısı  
+1 Sistem şemasının oluşturulması 
+Melih Ercan Yetiş 
+1 Ay 
+%10 
+2 Mikrodenetleyici yazılım tasarımı 
+Melih Ercan Yetiş-
+İsmail Sorucu 
+1-2 Ay 
+%30 
+3 
+Sunucu ortamının oluşturulması ve 
+gelen verileri işleyecek yazılım 
+tasarımı 
+Melih Ercan Yetiş 
+1-2 Ay 
+%30 
+4 
+İşlenen verilerin anlamlı hale 
+gelmesi için verileri yorumlayan, 
+tablolar oluşturan ve tavsiyeler veren 
+yazılım tasarımı 
+İsmail Sorucu 
+1-2 Ay 
+%20 
+5 Sistemin kurulması, deneyler ile test 
+edilmesi, iyileştirmelerin yapılması 
+İsmail Sorucu 
+1-2 Ay 
+%10 
+ 
+ 
+(*) Çizelgedeki satırlar ve sütunlar gerektiği kadar genişletilebilir ve çoğaltılabilir.
+
+
+=== [SAYFA 8] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+8 
+  
+ 
+ 
+3.2 Risk Yönetimi 
+   Araştırmanın başarısını olumsuz yönde etkileyebilecek riskler ve bu risklerle karşılaşıldığında araştırmanın 
+başarıyla yürütülmesini sağlamak için alınacak tedbirler (B Planı) ilgili iş paketleri belirtilerek ana hatlarıyla aşağıdaki 
+Risk Yönetimi Tablosu’nda ifade edilir. B planlarının uygulanması araştırmanın temel hedeflerinden sapmaya yol 
+açmamalıdır. 
+ 
+                                                       RİSK YÖNETİMİ TABLOSU* 
+İP 
+No 
+En Önemli Riskler 
+Risk Yönetimi (B Planı) 
+1 
+Enerji olmayan yerlerde beslemenin adaptör ile 
+yapılamaması.  
+Buna karşılık lityum iyon pil ile besleme yapılacak. 
+Ekstra olarak lityum iyon pil su basıncı ile dönen bir 
+dinamo tarafından beslenecek. 
+2 
+ 
+ 
+   (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+3.3. Araştırma Olanakları 
+ 
+Bu bölümde projenin yürütüleceği kurum ve kuruluşlarda var olan ve projede kullanılacak olan altyapı/ekipman 
+(laboratuvar, araç, makine-teçhizat, vb.) olanakları belirtilir. 
+ 
+ARAŞTIRMA OLANAKLARI TABLOSU (*) 
+ 
+Kuruluşta Bulunan Altyapı/Ekipman Türü, Modeli 
+(Laboratuvar, Araç, Makine-Teçhizat, vb.) 
+Projede Kullanım Amacı 
+Sakarya Uygulamalı Bilimler Üniversitesi Teknoloji 
+Fakültesi Elektrik Elektronik Mühendisliği 
+Laboratuvarları 
+Projenin test edileceği laboratuvar 
+Sakarya Uygulamalı Bilimler Üniversitesi Teknoloji 
+Fakültesi Bilgisayar Mühendisliği Laboratuvarları 
+Proje yazılımlarının oluşturulacağı laboratuvar 
+Su Sayacı 
+Projenin test edilmesi için gerekli araç 
+ (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+4. 
+YAYGIN ETKİ 
+ 
+      Önerilen çalışma başarıyla gerçekleştirildiği takdirde araştırmadan elde edilmesi öngörülen ve beklenen yaygın 
+etkilerin neler olabileceği, diğer bir ifadeyle yapılan araştırmadan ne gibi çıktı, sonuç ve etkilerin elde edileceği 
+aşağıdaki tabloda verilir. 
+ 
+ARAŞTIRMA ÖNERİSİNDEN BEKLENEN YAYGIN ETKİ TABLOSU 
+Yaygın Etki Türleri 
+Önerilen Araştırmadan Beklenen Çıktı, Sonuç ve 
+Etkiler 
+Bilimsel/Akademik  
+(Makale, Bildiri, Kitap Bölümü, Kitap) 
+ 
+Lisans bitirme çalışması, bildiri 
+Ekonomik/Ticari/Sosyal 
+(Ürün, Prototip, Patent, Faydalı Model, Üretim İzni, 
+Çeşit Tescili, Spin-off/Start- up Şirket, Görsel/İşitsel 
+Arşiv, Envanter/Veri Tabanı/Belgeleme Üretimi, Telife 
+Konu Olan Eser, Medyada Yer Alma, Fuar, Proje 
+Pazarı, Çalıştay, Eğitim vb. Bilimsel Etkinlik, Proje 
+Sonuçlarını Kullanacak Kurum/Kuruluş, vb. diğer 
+yaygın etkiler) 
+ 
+Prototip tasarım üretilebilir. 
+ 
+Ürün olarak sayaç okuma sistemi üretimi yapılabilir. 
+ 
+Su dağıtım firmaları proje sonuçlarını kullanabilir. 
+
+
+=== [SAYFA 9] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+9 
+  
+ 
+Araştırmacı Yetiştirilmesi ve Yeni Proje(ler) 
+Oluşturma  
+(Yüksek Lisans/Doktora Tezi, Ulusal/Uluslararası Yeni 
+Proje) 
+ 
+Bu proje geliştirilerek bir yüksek lisans proje konusu 
+olabilir. 
+ 
+ 
+ 
+5. BÜTÇE TALEP ÇİZELGESİ  
+Bütçe Türü 
+ Talep Edilen 
+Bütçe Miktarı 
+(TL) 
+Talep Gerekçesi 
+Sarf Malzeme 
+4000 
+ESP32-CAMx2 800TL, Lityum İyon Pilx4 400TL, Mikro USB Kablo 100TL, 
+Adaptörx2 200TL, Su Sayacı 875TL, Su Türbini Jeneratörü x2 900TL, 
+12V/5V Voltaj Düşürücü x2 280TL, Esp32cam koruyucu kutu x2 245TL, 
+Lityum İyon Pil Yuvası x2 200TL 
+Makina/Teçhizat 
+(Demirbaş) 
+4300 
+Lehimleme Seti 1500TL, Silikon Tabancası 500TL, Breadboard 100TL, 
+Silikon Çubuk 100TL, Jumper Kablo 100TL, Yan Keski 300TL, Pense 
+250TL, Karga Burun 150TL, Yıldız Tornavida 100TL, Düz Tornavida 50TL, 
+Dijital Avometre 1000TL, Makaron Seti 150TL 
+Hizmet Alımı 
+ 
+ 
+Ulaşım 
+500 
+Projeyi test etmek için aktif çalışan bir sayaca ulaşım 
+TOPLAM 
+8800 
+ 
+NOT: Bütçe talebiniz olması halinde hem bu tablonun hem de TÜBİTAK Yönetim Bilgi Sistemi (TYBS) başvuru 
+ekranında karşınıza gelecek olan bütçe alanlarının doldurulması gerekmektedir. Yukardaki tabloda girilen bütçe 
+kalemlerindeki rakamlar ile, TYBS başvuru ekranındaki rakamlar arasında farklılık olması halinde TYBS ekranındaki 
+veriler dikkate alınır ve başvuru sonrasında değiştirilemez. 
+ 
+6. BELİRTMEK İSTEDİĞİNİZ DİĞER KONULAR 
+Sadece araştırma önerisinin değerlendirilmesine katkı sağlayabilecek bilgi/veri (grafik, tablo, vb.) eklenebilir.  
+ 
+ 
+ 
+  
+ 
+7. EKLER 
+ 
+EK-1:  KAYNAKLAR 
+ 

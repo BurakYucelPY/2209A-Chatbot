@@ -1,0 +1,100 @@
+
+
+=== [SAYFA 1] ===
+ 
+2209 Projesi İçin Özgün Değer Bölümü  
+Bu bölüm, önerdiğiniz araştırmanın neden önemli olduğunu, bilimsel olarak ne tür bir katkı 
+sağlayacağını ve daha önce yapılan çalışmalardan nasıl ayrıştığını anlatmanız gereken yerdir. Bu 
+kısım, projenizin “neden desteklenmeye değer” olduğunu gösteren en kritik bölümdür. 
+Değerlendiriciler, projenizin yenilikçi yönünü ve bilimsel katkısını burada görmek ister. 
+Bu bölümü yazarken, aslında şu beş temel soruya yanıt veriyor olmalısınız: 
+1- Neden bu konu önemli? 
+2- Bu konuda şimdiye kadar neler yapılmış? 
+3- Yapılanların eksik ya da yetersiz olduğu yönler neler? 
+4- Siz bu eksiklikleri nasıl gidermeyi planlıyorsunuz? 
+5- Ve bu çalışma sonucunda ne bulmayı bekliyorsunuz? 
+Bu beş sorunun akışını takip ederek, “Özgün Değer” bölümünüzü mantıksal bir biçimde 
+kurgulayabilirsiniz. 
+1- Konunun Önemi: “Neden bu konu önemli?” 
+Öncelikle konunun neden araştırılmaya değer olduğunu anlatarak başlayın. Bu bölüm, projenizin 
+gerekçesidir. Ele aldığınız konunun hangi alanda yer aldığını, neden güncel ya da kritik bir mesele 
+olduğunu açıklayın. Toplumsal, çevresel, ekonomik veya bilimsel etkilerine değinebilirsiniz. 
+Sadece genel ifadelerle değil, mümkünse veriler, oranlar veya güncel istatistiklerle destekleyin. 
+Örneğin: 
+
+
+=== [SAYFA 2] ===
+“Dünya genelinde X hastalığı yılda yaklaşık Y milyon kişiyi etkilemektedir (Referans: WHO, 
+2023). Bu durum, erken teşhis yöntemlerinin geliştirilmesini zorunlu kılmaktadır.” 
+Bu tür veriler, konunun somut önemini vurgular ve değerlendiriciye “evet, bu gerçekten 
+araştırılmalı” dedirtir. 
+2- Literatürün Özeti: “Bu konuda şimdiye kadar neler yapılmış?” 
+Konunun önemini anlattıktan sonra, şimdiye kadar bu alanda yapılmış çalışmalardan bahsedin. Bu 
+kısımda amacınız, konuyu sizden önce kimlerin, hangi yöntemlerle ele aldığını ve neler bulduğunu 
+göstermektir. Ancak bu, sadece bir listeleme değildir. Her çalışmayı kısaca tanıtıp, eleştirel bir 
+gözle değerlendirmeniz gerekir. 
+Örneğin: 
+“Smith (2020) çalışmasında X yöntemini kullanarak Y sonucuna ulaşmıştır. Ancak bu çalışma, Z 
+değişkenini göz önünde bulundurmamıştır.” 
+Bu tür bir yaklaşım, sizin literatürü sadece okuyan biri değil, onu analiz eden bir araştırmacı 
+olduğunuzu gösterir. 
+3- Literatürdeki Boşluk: “Yapılanların eksik ya da yetersiz olduğu yönler neler?” 
+ “Özgün Değer” kısmının en önemli kısmı burasıdır. Daha önce yapılan çalışmaların hangi 
+yönlerden yetersiz kaldığını, hangi sorulara cevap vermediğini veya hangi durumlarda işe 
+yaramadığını açıkça belirtin. Bu, sizin çalışmanızın neden gerekli olduğunu ortaya koyar. 
+“Literatürde X konusuna yönelik birçok çalışma bulunmasına rağmen, bu çalışmaların büyük 
+çoğunluğu yalnızca laboratuvar ortamında gerçekleştirilmiş ve gerçek yaşam koşulları yeterince 
+dikkate alınmamıştır.” 
+Böyle bir açıklama, projenizin hangi boşluğu dolduracağını net biçimde gösterir. 
+4- Sizin Katkınız: “Bu eksiklikleri nasıl gidereceksiniz?” 
+Artık sizin yapacaklarınıza geldik. Bu bölümde, yukarıda bahsettiğiniz eksiklikleri nasıl ele 
+alacağınızı anlatın. Kullanacağınız yöntem, yaklaşım veya teknolojinin ne olduğunu, bu sayede 
+önceki çalışmalardan nasıl farklılaşacağınızı belirtin. 
+“Bu çalışmada, önceki araştırmalardan farklı olarak X yöntemine ek olarak Y analizi 
+kullanılacak; böylece elde edilen sonuçların doğruluğu artırılacaktır.” 
+Projenizin yenilikçi yönünü ortaya koyun. Bu, projenizin özgünlüğünü gösterir. 
+5- Araştırma Sorusu veya Hipotez: “Ne bulmayı bekliyorsunuz?” 
+
+
+=== [SAYFA 3] ===
+Son olarak, araştırmanızın temelini oluşturan araştırma sorusu veya hipotezi net bir biçimde 
+ortaya koyun. Bu bölüm, çalışmanızın yönünü belirler. 
+Araştırma sorusu, genel olarak “X’in Y üzerinde etkisi var mı?” gibi bir merak cümlesi 
+şeklindedir. Hipotez ise test edilebilir bir öngörüdür. 
+Örneğin: 
+“Bu çalışmada, X yönteminin Y başarımını artıracağı hipotezi test edilecektir.” 
+Bu cümle, hem araştırmanızın hedefini hem de beklenen katkıyı özetler. 
+Görseller  
+Þ Bu beş soruya yanıt verirken, literatürde atıf yaptığınız çalışmalardan önemli 
+bulguların şekil, tablo veya grafiklerini kullanabilirsiniz. Görsel unsurlar, konunun 
+anlaşılmasını kolaylaştırır ve literatürün gerçekten incelendiğini gösterir. 
+Örneğin: 
+“Aşağıdaki grafik, X yönteminin Y parametresi üzerindeki etkisini önceki araştırmalara göre 
+göstermektedir (Kaynak: Smith, 2020).” Bu tür görseller, değerlendiricinin dikkatini çeker. 
+SKA KAPSAMI  
+“Özgün Değer” kısmının son paragrafında, projenizin hangi Sürdürülebilir Kalkınma Amacı 
+(SKA) ile örtüştüğünü mutlaka belirtin. Bu, projenizin yalnızca akademik değil, aynı zamanda 
+küresel ölçekte toplumsal bir değere sahip olduğunu gösterir. 
+Örneğin, “Sağlık” temalı bir proje için: 
+“Bu çalışma, SKA 3 – ‘Sağlıklı ve kaliteli yaşamı her yaşta güvence altına almak’ amacına katkı 
+sağlamaktadır. Proje kapsamında geliştirilecek yöntem, bulaşıcı olmayan hastalıkların erken 
+tanısına yönelik teknolojik çözümler üreterek hedef 3.4’ün gerçekleştirilmesine destek olacaktır.” 
+Ya da çevre odaklı bir proje için: 
+“Proje, SKA 12 – ‘Sorumlu üretim ve tüketim’ amacına katkı sağlamaktadır. Atık miktarını 
+azaltmaya yönelik geliştirilecek yöntem, hedef 12.5 doğrultusunda önleme, azaltma ve geri 
+dönüşüm süreçlerini iyileştirmeyi amaçlamaktadır.” 
+Bu bağlantıyı kurarken yalnızca amaç numarasını değil, o amacın alt hedeflerinden (örneğin 3.4 
+veya 12.5 gibi) hangisiyle ilişki kurduğunuzu da belirtmek önemlidir. 
+ 
+
+
+=== [SAYFA 4] ===
+Metninizi yazarken bilimsel ama sade bir dil kullanın. Gereksiz teknik terimlerden veya çok uzun 
+cümlelerden kaçının. Paragraflar arasında neden–sonuç ilişkisi kurarak yazının akışını güçlendirin. 
+“Bu nedenle”, “dolayısıyla”, “buna bağlı olarak” gibi bağlaçlar kullanmak okuyucunun sizi 
+kolayca takip etmesini sağlar. 
+Ayrıca, tüm iddialarınızı kaynaklarla (literatürdeki çalışmalarla) destekleyin. Atıflar (örneğin APA 
+biçimiyle) metni güvenilir kılar. 
+ 
+Ek: Örnek Kabul Edilmiş 2209 Projesi 
+ 

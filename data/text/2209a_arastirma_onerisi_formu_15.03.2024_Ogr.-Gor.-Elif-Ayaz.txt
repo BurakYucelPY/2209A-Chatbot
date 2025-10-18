@@ -1,0 +1,625 @@
+
+
+=== [SAYFA 1] ===
+ 
+ 
+ANKARA ÜNİVERSİTESİ 
+TEKNOLOJİ TRANSFER OFİSİ 
+KOORDİNATÖRLÜĞÜ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           2209-A-  
+(Üniversite Öğrencileri Araştırma  
+Projeleri Destekleme Programı) 
+Açıklamalı Proje Hazırlama Dokümanı 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Öğr.Gör. Elif AYAZ 
+ 
+Üniversite Sanayi İşbirliği ve Öğrenci Projeleri Sorumlusu 
+ 
+eayaz@ankara.edu.tr  
+ 
+elif.ayaz@ankaratto.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== [SAYFA 2] ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÜBİTAK–2209-A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA 
+PROJELERİ DESTEĞİ PROGRAMI 
+ 
+Başvuru formunun Arial 9 yazı tipinde, her bir konu başlığı altında verilen açıklamalar göz önünde 
+bulundurularak hazırlanması ve ekler hariç toplam 20 sayfayı geçmemesi beklenir (Alt sınır 
+bulunmamaktadır). Değerlendirme araştırma önerisinin özgün değeri, yöntemi, yönetimi ve yaygın etkisi 
+başlıkları üzerinden yapılacaktır. 
+ 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.....Yılı 
+ 
+… Dönem Başvurusu 
+Açıklamalı [es1]: Biçimsel kurallara uymanız gerekmektedir. 
+Aksi takdirde, projeniz bilimsel değerlendirmeye alınmadan ön 
+aşamada reddedilecektir. Ekler hariç en fazla 20 sayfa olması 
+beklenen proje öneriniz için alt sınır sayfa limiti bulunamamaktadır. 
+Sadece, 20 sayfaya ulaşmak adına aynı bilginin tekrar edilmesi sıkça 
+karşılaşılan bir durumdur ve TÜBİTAK hakemleri böyle bir durumu 
+olumlu karşılamamaktadır. Başarılı proje dosyaları genellikle kısa ve 
+öz şekilde yazılır. İhtiyaç duymanız dahilinde, başlıkların altında yer 
+alan açıklamaları silerek alandan yer kazanabilirsiniz. 
+Açıklamalı [es2]: Hakemler, projenizi bu başlıklar üzerinden 
+değerlendirecektir. 
+Açıklamalı [es3]: Bu bölümde hangi yıl hangi dönem 
+başvurusuna başvuruyorsanız belirtmeniz gerekmektedir. Örnek; 
+2024 Yılı – 1. Dönem Başvurusu 
+
+
+=== [SAYFA 3] ===
+ 
+
+
+=== [SAYFA 4] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+4 
+  
+ 
+A. GENEL BİLGİLER 
+ 
+Başvuru Sahibinin Adı Soyadı:  
+Araştırma Önerisinin Başlığı: 
+Danışmanın Adı Soyadı: 
+Araştırmanın Yürütüleceği Kurum/Kuruluş: 
+ 
+ 
+ÖZET 
+ 
+     Türkçe özetin araştırma önerisinin (a) özgün değeri, (b) yöntemi, (c) yönetimi ve (d) yaygın etkisi hakkında bilgileri 
+kapsaması beklenir. Her bir özet 450 kelime veya bir sayfa ile sınırlandırılmalıdır. Bu bölümün en son yazılması 
+önerilir.  
+ 
+Özet 
+Anahtar Kelimeler: 
+ 
+ 
+1. ÖZGÜN DEĞER  
+ 
+ 1.1. Konunun Önemi, Araştırma Önerisinin Özgün Değeri ve Araştırma Sorusu/Hipotezi 
+ 
+Araştırma önerisinde ele alınan konunun kapsamı ve sınırları ile önemi literatürün eleştirel bir değerlendirmesinin 
+yanı sıra nitel veya nicel verilerle açıklanır. 
+ 
+Özgün değer yazılırken araştırma önerisinin bilimsel değeri, farklılığı ve yeniliği, hangi eksikliği nasıl gidereceği 
+veya hangi soruna nasıl bir çözüm geliştireceği ve/veya ilgili bilim veya teknoloji alan(lar)ına kavramsal, kuramsal 
+ve/veya metodolojik olarak ne gibi özgün katkılarda bulunacağı literatüre atıf yapılarak açıklanır.  
+  
+Önerilen çalışmanın araştırma sorusu ve varsa hipotezi veya ele aldığı problem(ler)i açık bir şekilde ortaya konulur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2. Amaç ve Hedefler 
+    
+Araştırma önerisinin amacı ve hedefleri açık, ölçülebilir, gerçekçi ve araştırma süresince ulaşılabilir nitelikte olacak 
+şekilde yazılır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Açıklamalı [es4]: 1 kişi ön lisans/lisans başvuru sahibi 
+(Yürütücü) olarak yazılmalıdır. Projenizde ortak olan diğer ekip 
+arkadaşlarınızın bilgilerini burada belirtmeniz gerekmemektedir. 
+Diğer öğrenciler BİDEB sisteminde Araştırma Projesi Öğrenci 
+Bilgileri başlığına kaydedilir.Diğer öğrenciler ‘Araştırmacı’ olarak 
+projede yer alacaktır. 
+Yürütücü olma şartları, ön lisans ve lisans öğrencisi olmanızdır. 
+(Açık öğretim ve hazırlık sınıfı öğrencileri başvuru yapamaz.) 
+ 
+Etik kurul belgesi alınacaksa proje yürütücüsü adına alınmalıdır. 
+Açıklamalı [es5]: Projenizde size danışmanlık yapacak hocanızın 
+adını yazınız. 
+Açıklamalı [es6]: Ankara Üniversitesi yazmalısınız. 
+Açıklamalı [es7]: Bu bölümü en son yazmanız önerilmektedir.  
+Bu bölümde aşağıda sıralanan 2209-A değerlendirme kriterlerine 
+uygun 1’er paragraf  bilgi veriniz:  
+(a) özgün değeri:…………… 
+(b) yöntemi:………………….. 
+(c) yönetimi:…………………….. 
+(d) yaygın etkisi:…………. 
+Açıklamalı [es8]: Projenizin konusuna uygun 3-5 arası anahtar 
+kelime yazınız. Projenizin konusuna uygun olarak yazmadığınız 
+anahtar kelimeler, projenizin yanlış hakeme gitmesine sebep olabilir. 
+Açıklamalı [es9]: Bu bölümde, projenizin hangi alandaki 
+eksikliği dolduracağı, ya da daha önce literatürde yer alan 
+çalışmaların hangi açıdan iyileştirilmesi ve sizin bu çalışmayla bu 
+eksiklikleri  nasıl gidereceğini açıklamalıyız. 
+ 
+*Özgün Değer 2209-A programının bilimsel değerlendirme 
+kriterlerinden biridir. Yani hakemler bu bölüme not verirler. 
+ 
+Yazım sırasında öncelikle literatürden alıntılarla konun önemine 
+vurgu yapılmalı, daha önce yapılan çalışmalardan bahsedilmeli ve 
+devamında özgün değerde bu projenin özgünlüğü ve yeniliklerine 
+vurgu yapılmalı ve bu alanda daha önce yapılan çalışmalardan farkı 
+detaylı olarak aktarılmalıdır. 
+ 
+Bilimsel dil kullanmanız gerekmektedir. 
+Açıklamalı [es10]: Projenizi uygulamak istediğiniz nokta 
+amacınızdır. Bu amaca ulaşmak için koyduğunuz basamaklar ise 
+hedeflerinizdir.  Basamakların uygulanabilirliği sizin projenizin ara 
+çıktılarıdır. 
+ 
+Önce amacınızı ‘Projenin amacı;……….’ benzeri açık bir ifade ile 
+belirtiniz sonra da amaca ulaşmak için projenin hedeflerini ‘projenin 
+hedefleri: …’ gibi açık bir ifade ile, mümkünse maddelendirerek 
+belirtiniz.  
+ 
+*Amaç ve Hedefler 2209-A programının bilimsel değerlendirme 
+kriterlerinden biridir. Yani hakemler bu bölüme not verirler. 
+
+
+=== [SAYFA 5] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+5 
+  
+ 
+ 
+ 
+ 
+ 
+2. YÖNTEM 
+ 
+Araştırma önerisinde uygulanacak yöntem ve araştırma teknikleri (veri toplama araçları ve analiz yöntemleri dahil) 
+ilgili literatüre atıf yapılarak açıklanır. Yöntem ve tekniklerin çalışmada öngörülen amaç ve hedeflere ulaşmaya 
+elverişli olduğu ortaya konulur.  
+ 
+Yöntem bölümünün araştırmanın tasarımını, bağımlı ve bağımsız değişkenleri ve istatistiksel yöntemleri kapsaması 
+gerekir. Araştırma önerisinde herhangi bir ön çalışma veya fizibilite yapıldıysa bunların sunulması beklenir. 
+Araştırma önerisinde sunulan yöntemlerin iş paketleri ile ilişkilendirilmesi gerekir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Açıklamalı [es11]: Yöntem başlığını,İş-Zaman Çizelgesini 
+tamamladıktan sonra doldurmaya başlamanız önerilmektedir. 
+ 
+Bu yöntem, projenizin genel kurgusunu görmeniz ve işlerinizde 
+öncelik/sonralık ilişkisini netleştirmeniz açısından fayda 
+sağlayacaktır.  
+ 
+İş Zaman Çizelgesinde yazdığınız İş Paketlerinin adını birer alt başlık 
+olarak buraya yazarak detaylandırmanız projeyi değerlendiren 
+hakemin projeyi okurken kopukluk yaşamasının önüne geçecektir. 
+ 
+Böylelikle, kullanacağınız yöntemlerden herhangi birini atlamadan 
+yazdığınıza emin olmanızı sağlayacaktır.  
+ 
+Yöntem bölümü bilimsel araştırma projelerinde yapılacak işin 
+detayının anlatıldığı bölüm olduğu için; genellikle projede en uzun 
+yer kaplayan bölümlerin başında yer almaktadır. 
+ 
+ 
+*Yöntem, 2209-A programının bilimsel değerlendirme kriterlerinden 
+biridir. Yani hakemler bu bölüme not verirler. 
+Bu bölümde, detaylı bilgi paylaşımında bulunmanız beklenmektedir. 
+
+
+=== [SAYFA 6] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+6 
+  
+ 
+3 
+ PROJE YÖNETİMİ  
+ 
+3.1 İş- Zaman Çizelgesi 
+ 
+Araştırma önerisinde yer alacak başlıca iş paketleri ve hedefleri, her bir iş paketinin hangi sürede gerçekleştirileceği, başarı ölçütü ve araştırmanın başarısına katkısı “İş-
+Zaman Çizelgesi” doldurularak verilir. Literatür taraması, gelişme ve sonuç raporu hazırlama aşamaları, araştırma sonuçlarının paylaşımı, makale yazımı ve malzeme alımı 
+ayrı birer iş paketi olarak gösterilmemelidir. 
+Başarı ölçütü olarak her bir iş paketinin hangi kriterleri sağladığında başarılı sayılacağı açıklanır. Başarı ölçütü, ölçülebilir ve izlenebilir nitelikte olacak şekilde nicel veya 
+nitel ölçütlerle (ifade, sayı, yüzde, vb.) belirtilir. 
+ 
+ 
+İŞ-ZAMAN ÇİZELGESİ (*) 
+         
+İP 
+No 
+İş Paketlerinin Adı ve Hedefleri 
+Kim(ler) Tarafından 
+Gerçekleştirileceği 
+Zaman Aralığı 
+(..-.. Ay) 
+Başarı Ölçütü ve Projenin Başarısına Katkısı  
+1  
+ 
+ 
+ 
+2  
+ 
+ 
+ 
+3  
+ 
+ 
+ 
+4  
+ 
+ 
+ 
+5  
+ 
+ 
+ 
+ 
+ 
+(*) Çizelgedeki satırlar ve sütunlar gerektiği kadar genişletilebilir ve çoğaltılabilir.
+Açıklamalı [es12]: Projenizin amaç ve hedefler kısmında 
+belirlemiş olduğunuz hedeflere ulaşmak için yapacağınız bilimsel 
+çalışmaya uygun iş-zaman çizelgesi oluşturmanız beklenir. 
+ 
+*İş paketleri 2209-A programının değerlendirme kriterlerinden bir 
+tanesidir. 
+Açıklamalı [es13]: Her iş paketinin bir adı ve hedefi olması 
+gerekmektedir. Bu iş paketlerinin, tanımlayıcı bir isimlerinin olması 
+gerekmektedir. Projeyle ilgisiz olan, IP isimleri kabul 
+edilmemektedir. 
+ 
+Malzemelerin temini, sonuç raporunun yazılması, makale 
+yazılımı,  literatür taraması, çalışmaya hazırlık gibi şeyler iş 
+paketi olarak gösterilemez. 
+Açıklamalı [es14]: Projenizin kaçıncı ayda başlayıp kaçıncı ayda 
+biteceğini yazmalısınız. Zaman aralığı oluştururken gerçekçi hedefler 
+koymanız önerilmektedir. 2 ayda bitmesi gereken bir hedef için 1 ay 
+yazmanız projeyi değerlendiren hakemin olumsuz değerlendirmesine 
+neden olacaktır. (0-1 ay, 2-4 ay şeklinde zaman aralığı 
+oluşturulabilir.) 
+ 
+ 
+Zaman aralığını planlarken bir önceki iş paketi ile bağıntısı dikkate 
+alınmalıdır. İş paketlerinin kısmen veya tamamen eş zamanlı 
+yürütülmesi ya da biri bittikten sonra diğerinin başlaması mümkün. 
+Ancak temel kriter, iş gereksinimine uygun olarak yazılmalarıdır. 
+ 
+İş paketlerinin kimler tarafından yapılacağı, ekibin kapasitesi ile 
+uyumlu olması gerekmektedir.  
+ 
+ 
+Açıklamalı [es15]:  
+Başarı Ölçütü: Bu iş paketini başarı ile sonuçlandırma ölçütünüzü  
+mümkünse rakamla yazınız.  
+Projenin Başarısına Katkısı: Bu iş paketinin projenin başarısındaki 
+önemi ölçüsünde katkı yüzdesi veriniz.  
+Sütundaki % değerlerin toplamı %100 olmalı. Örneğin, 5 iş paketiniz 
+varsa ve % değerleri sırasıyla %10, %25, %35, %20, %10 olsa, 
+toplamları %100 olacaktır. 
+
+
+=== [SAYFA 7] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+7 
+  
+ 
+ 
+3.2 Risk Yönetimi 
+   Araştırmanın başarısını olumsuz yönde etkileyebilecek riskler ve bu risklerle karşılaşıldığında araştırmanın 
+başarıyla yürütülmesini sağlamak için alınacak tedbirler (B Planı) ilgili iş paketleri belirtilerek ana hatlarıyla aşağıdaki 
+Risk Yönetimi Tablosu’nda ifade edilir. B planlarının uygulanması araştırmanın temel hedeflerinden sapmaya yol 
+açmamalıdır. 
+ 
+                                                       RİSK YÖNETİMİ TABLOSU* 
+İP No 
+En Önemli Riskler 
+Risk Yönetimi (B Planı) 
+1 
+ 
+ 
+2 
+ 
+ 
+   (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+3.3. Araştırma Olanakları 
+ 
+Bu bölümde projenin yürütüleceği kurum ve kuruluşlarda var olan ve projede kullanılacak olan altyapı/ekipman 
+(laboratuvar, araç, makine-teçhizat, vb.) olanakları belirtilir. 
+ 
+ARAŞTIRMA OLANAKLARI TABLOSU (*) 
+ 
+Kuruluşta Bulunan Altyapı/Ekipman Türü, Modeli 
+(Laboratuvar, Araç, Makine-Teçhizat, vb.) 
+Projede Kullanım Amacı 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) Tablodaki satırlar gerektiği kadar genişletilebilir ve çoğaltılabilir. 
+ 
+4. 
+YAYGIN ETKİ 
+ 
+      Önerilen çalışma başarıyla gerçekleştirildiği takdirde araştırmadan elde edilmesi öngörülen ve beklenen yaygın 
+etkilerin neler olabileceği, diğer bir ifadeyle yapılan araştırmadan ne gibi çıktı, sonuç ve etkilerin elde edileceği 
+aşağıdaki tabloda verilir. 
+ 
+ARAŞTIRMA ÖNERİSİNDEN BEKLENEN YAYGIN ETKİ TABLOSU 
+Yaygın Etki Türleri 
+Önerilen Araştırmadan Beklenen Çıktı, Sonuç ve 
+Etkiler 
+Bilimsel/Akademik  
+(Makale, Bildiri, Kitap Bölümü, Kitap) 
+ 
+Ekonomik/Ticari/Sosyal 
+(Ürün, Prototip, Patent, Faydalı Model, Üretim İzni, 
+Çeşit Tescili, Spin-off/Start- up Şirket, Görsel/İşitsel 
+Arşiv, Envanter/Veri Tabanı/Belgeleme Üretimi, Telife 
+Konu Olan Eser, Medyada Yer Alma, Fuar, Proje 
+Pazarı, Çalıştay, Eğitim vb. Bilimsel Etkinlik, Proje 
+Sonuçlarını Kullanacak Kurum/Kuruluş, vb. diğer 
+yaygın etkiler) 
+ 
+Açıklamalı [es16]: Proje değerlendirilirken hakemlerin en çok 
+önem verdiği bölümlerden biridir. 
+ 
+Her iş paketi için bir risk ve bir risk yönetiminin olması 
+gerekmektedir. Örneğin, 5 iş paketi varsa, 5 tane risk ve risk yönetimi 
+olmalıdır. 
+ 
+Projeniz esnasında karşılaşacağınız riskler basit olabilir. Üstesinden 
+gelebileceğinize inanabilirsiniz. Yine de bu bölüme yazmanız 
+gerekmektedir. 
+ 
+Hakemler, burada sizin bu projeyi yaparken risk unsurunu hesaba 
+katıp katmadığınızı incelemektedir. 
+ 
+Risklerin giderilmesi için atacağınız adımlar (B Planı), ilk 
+planladığımızdan (A Planı) daha iyi olmamalıdır. B planı, asıl 
+yönteminiz işe yaramazsa alacağınız önlemdir. 
+ 
+*Risk Yönetimi 2209-A programının değerlendirme kriterlerinden bir 
+tanesidir. 
+Açıklamalı [es17]: Yukarıdaki İş zaman çizelgesi tablosundaki iş  
+paketi numarası anlamına gelmektedir. 
+Açıklamalı [es18]: B planınız daima somut ve yapılabilir 
+olmalıdır. 
+Açıklamalı [es19]: Projenizde kullanacağınız, hali hazırda 
+üniversitede mevcut makine, teçhizat, araç vs. yazınız. 
+Açıklamalı [es20]: Bu bölümü yazarken Yaygın Etki Türleri 
+başlığındaki parantez içerisinde belirtilen kriterlerden uygun olanı 
+başlık haline getirip 1-2 cümle ile açıklayınız.  Açıklamanızın sayısal 
+ifadeler içermesine özen gösteriniz.  
+ 
+(Örnek: Makale: Cancer Research, …gibi SCI bir dergide 1 adet 
+makale yayınlanması planlanmaktadır. 
+ 
+Eğer bir çıktı bulunmuyorsa örneğin;  
+ekonomik/ticari/sosyal çıktısı bulunmamaktadır. Şeklinde belirtiniz. 
+ 
+*Yaygın Etki 2209-A programının değerlendirme kriterlerinden bir 
+tanesidir. 
+
+
+=== [SAYFA 8] ===
+2209/A ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ DESTEĞİ PROGRAMI 
+ARAŞTIRMA ÖNERİSİ FORMU 
+ 
+ 
+ 
+8 
+  
+ 
+Araştırmacı Yetiştirilmesi ve Yeni Proje(ler) 
+Oluşturma  
+(Yüksek Lisans/Doktora Tezi, Ulusal/Uluslararası Yeni 
+Proje) 
+ 
+ 
+ 
+5. BÜTÇE TALEP ÇİZELGESİ 
+Bütçe Türü 
+ Talep Edilen 
+Bütçe Miktarı 
+(TL) 
+Talep Gerekçesi 
+Sarf Malzeme 
+ 
+ 
+Makina/Teçhizat 
+(Demirbaş) 
+ 
+ 
+Hizmet Alımı 
+ 
+ 
+Ulaşım 
+ 
+ 
+TOPLAM 
+ 
+ 
+NOT: Bütçe talebiniz olması halinde hem bu tablonun hem de E-bideb başvuru ekranında karşınıza gelecek olan 
+bütçe alanlarının doldurulması gerekmektedir. Yukardaki tabloda girilen bütçe kalemlerindeki rakamlar ile, E-bideb 
+başvuru ekranındaki rakamlar arasında farklılık olması halinde E-bideb ekranındaki veriler dikkate alınır ve başvuru 
+sonrasında değiştirilemez. 
+ 
+6. BELİRTMEK İSTEDİĞİNİZ DİĞER KONULAR 
+Sadece araştırma önerisinin değerlendirilmesine katkı sağlayabilecek bilgi/veri (grafik, tablo, vb.) eklenebilir.  
+ 
+ 
+ 
+  
+ 
+7. EKLER 
+ 
+EK-1:  KAYNAKLAR 
+ 
+Açıklamalı [es22]: IP numaranızı yazarak, bu malzemenin-
+giderin projeniz açısından neden gerekli olduğunu açıklamanız 
+gerekmektedir. IP1 kapsamında yapılacak…….. İşler sebebiyle bu 
+malzeme-hizmet alımı vs. gerekmektedir versiyonunda yazabilirsiniz. 
+Açıklamalı [es21]: 1 defa kullanabileceğiniz malzemeler 
+demektir. Kağıt, toner, asit vs. örnek gösterilebilir. 
+Açıklamalı [es23]: Üniversitenin demirbaş kaydına girecek 
+bilgisayar, yazıcı,… gibi makine teçhizat demektir. 
+Açıklamalı [es24]: Bir kurumdan bedel karşılığı hizmet 
+alacaksanız bu bölümde belirtmeniz beklenir. 
+Örnek:  
+-Hizmet alımları 
+-Kiralamayı tercih ettiğiniz malzemelr: Mesela TTO bünyesindeki 
+laboratuvarlarımızdan aşağıdaki hizmetleri alabilirsiniz:  
+ 
+Biyokimya Lab. Cihazları 
+01. Çeker Ocak 
+ 
+Çeker Ocak 
+İçerisinde yapılacak deney ve testlerde açığa çıkacak yoğun ısı, koku 
+ve asit buharlarını emniyetli ve laboratuar ortamına yayılmadan 
+tahliye edilmesinde kullanılmaktadır. 
+ 
+02. Asit Baz Saklama Dolabı 
+ 
+Asit Saklama Dolabı 
+Kullanılacak asit ve bazların güvenli bir şekilde saklanması için 
+kullanılmaktadır. 
+ 
+03. Analitik Hassas Terazi 
+ 
+Hassas Terazi 
+Kullanılacak asit ve bazların güvenli bir şekilde saklanması için 
+kullanılmaktadır. 
+ 
+04. Vorteks Karıştırıcı 
+ 
+Karıştırıcı 
+Deneylerde kullanılacak kimyasalların karıştırılması için 
+kullanılmaktadır. 
+ 
+05. Masa Üstü PH Metre 
+ 
+Ph Metre 
+Deneylerde kullanılacak solüsyonların PH ölçümlerinin yapılmasında 
+kullanılmaktadır. 
+ 
+06. Santrifüj 
+ 
+Santrifüj 
+İçerisine yerleştirilen karışımların çökelme prensibine göre 
+ayrılmasını sağlayacaktır.Cihaz farklı hacimli tüpler ile kullanılmaya 
+uygundur. 
+ 
+07. Isıtıcılı Manyetik Karıştırıcı 
+ 
+Manyetik Karıştırıcı 
+Numunelerin homojen biçimde karıştırılması ve ısıtılması için 
+kullanılır. Karıştırma hızı ve sıcaklık ayarları ayrı ayrı kontrol 
+edilebilir. 
+ 
+08. ETÜV 
+ 
+...
+Açıklamalı [es25]: Çalışmanızla ilgili daha önceden yaptığınız 
+bir çalışma, grafik, değerlendirme, tablo vs. var ise burada yer 
+verebilirsiniz. 
+Açıklamalı [es26]: Literatür bilgisi olarak proje önerinizde yer 
+verdiğiniz bütün kaynakları bu bölümde belirtmeniz gerekmektedir. 
+Bu bölümü hazırlamak için aşağıdaki linkten yararlanabilirsiniz:  
+https://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-
+duzenlenmesi 

@@ -1,0 +1,162 @@
+
+
+=== [SAYFA 1] ===
+Sıra
+Öğrenci Ad & Soyad
+Danışman Ad & 
+Soyad
+Öğrenci Bölümü
+Proje Adı
+1
+E***  N**  A***
+H****  Ö*****
+BİLGİ VE BELGE YÖNETİMİ PR.
+Bilimsel Araştırmalarda Gazete Arşivlerinin Kullanımı: Bartın Yerel Gazeteleri Üzerine Bir 
+Araştırma
+2
+E***  S*****
+N****  T****
+BİLGİ VE BELGE YÖNETİMİ PR.
+Çocuklar İçin Gerçekleştirilen Kütüphane Hizmetlerinin Duygusal Zeka Becerileri Bakımından 
+İncelenmesi
+3
+İ*****  İ***  S*****
+H*****  Ç*******
+BİLGİ VE BELGE YÖNETİMİ PR.
+Çocuk Kütüphanelerinde Sürdürülebilir Bilgi Okuryazarlığı Atölyesi: Bartın İli Örneği
+4
+M*****  T*****  
+K**********
+A****  A****
+BİLGİ VE BELGE YÖNETİMİ PR.
+Kamu Kurumlarında Dijital Özlük Programı: Bartın Üniversitesi Örneği
+5
+N*****  N******  Ç****
+A****  A****
+BİLGİ VE BELGE YÖNETİMİ PR.
+Bartın Gazetesi'Nde 2001 ' 2023 Yılları Arasında Yayınlanan Kitap Ve Kütüphane Temalı 
+Haberlerin Değerlendirilmesi
+6
+Ş******  S******
+H*****  Ç*******
+BİLGİ VE BELGE YÖNETİMİ PR.
+Kütüphanelerde Oyun Tabanlı Öğrenme: Masaüstü Eğitici Oyunların Kullanıcı Motivasyonu Ve 
+Katılımına Etkisi
+7
+Z****  Y*****
+N****  T****
+BİLGİ VE BELGE YÖNETİMİ PR.
+Doğada Sürdürülebilir Kütüphane Etkinlikleri
+8
+Ç****  B**
+M***  S****
+ÇAĞDAŞ TÜRK LEHÇELERİ VE 
+EDEBİYATLARI PR.
+Eski Anadolu Türkçesinden Türkiye Türkçesine Eklerin Ölüm Ve Doğumunun Kronolojik 
+Sunumu Ve Analizi
+9
+S******  K*****
+N**  P****
+ÇAĞDAŞ TÜRK LEHÇELERİ VE 
+EDEBİYATLARI PR.
+Türklerde Tabiat Üstü Varlıklar Ve Bunlarla İlgili Kabullenmeler Ve İnanmalar
+10
+K****  Y*****
+G*****  A****
+İNGİLİZCE MÜTERCİM VE 
+TERCÜMANLIK PR.
+Başlangıç Rusça Öğreniminde Seslendirmedeki Uygulamalar Üzerine
+11
+G****  Y*******
+G****  U*****  
+A**********
+PSİKOLOJİ PR.
+Beliren Yetişkinlik Döneminde Toplumsal Cinsiyet Algıları Ve Flört Şiddeti Tutumlarının 
+İlişkisinde Empati Ve Merhametin Aracı Rolü
+12
+İ****  S*****
+S*****  A*****  T****
+PSİKOLOJİ PR.
+Otizmli Çocuğa Sahip Ebeveynlerin Psikososyal İhtiyaçları, Stres Ve Destek Kaynakları: Kırsal 
+Ve Kentsel Farklılıkların İncelenmesi
+13
+R******  I***
+E***  G***
+PSİKOLOJİ PR.
+Romantik İlişkilerde Ayrılık Kaygısı İle Obsesif Kompulsif Belirtiler Arasındaki İlişkide Kendini 
+Açma Davranışının Düzenleyici Rolü
+14
+T****  H****  Ö******
+E***  G***
+PSİKOLOJİ PR.
+Lgbt+ Bireylere Karşı Nefrete Yönelik Tutumda Kendini Kabulün Etkisi Ve Aile İçi İletişimin 
+Aracı Rolü
+15
+Z****  E****
+S****  Ç****
+PSİKOLOJİ PR.
+Üniversite Öğrencisi (Çalışmayan) Ve (Kısmi Zamanlı Çalışan) Bireyler Arasında Nomofobi Ve 
+Depresyon Arasında Yaşam Doyum Ve Uykuyu Geciktirme Davranışının Aracı Rolü
+16
+G****  B*****
+B*****  K****  O****
+SOSYOLOJİ PR.
+Akondroplazili/Cüceliği Olan Bireylerin Damgalanma, Ayrımcılık Ve Sosyal Dışlanma 
+Deneyimleri Üzerine Sosyolojik Bir Çalışma
+17
+S****  M*********
+A****  Ü****
+SOSYOLOJİ PR.
+Teknolojik Gelişmelerin Yeni İstihdam Alanları Üzerinde Beklenen Etkisi: Bartın Üniversitesi 
+Öğrencileri
+18
+T****  T****
+A***  S***
+SOSYOLOJİ PR.
+Bartın'Da Hayvancılık Ve Toplumsal Cinsiyet: Değişen Dinamikler.
+19
+N******  A******
+T****  K******
+TARİH PR.
+Trt Tabii Platformunda Yayınlana 'Mevlâna Celaleddin-İ Rumi" Dizisinde Geçen Tarihi 
+Şahsiyetler, Mekânlar Ve Olayların Tespiti, Tahlili Ve Tarihi Katkılarının Değerlendirilmesi
+20
+T****  N**  Ç*******
+Y****  Ü***
+TARİH PR.
+Erken Cumhuriyet Döneminde Salgın Hastalıklar,Verilen Mücadeleler Ve İnsanlar Üzerindeki 
+Etkiler (1923-1939)
+21
+A******  E******
+G****  K******
+TÜRK DİLİ VE EDEBİYATI PR.
+Modern Doğu Masalları Dizisindeki Kıssa Ve Hikâyelerin Metinlerarasılık Doğrultusunda 
+İncelenmesi
+22
+F*******  Y*******
+A***  Ç****
+TÜRK DİLİ VE EDEBİYATI PR.
+Ankara İli Çubuk İlçesi İş Yeri Adları Üzerine Bir Dil İncelemesi
+23
+G*******  A****
+Ş*****  S****  E***
+TÜRK DİLİ VE EDEBİYATI PR.
+Türk Mitolojisinde Doğa Temsillerinin Ekoeleştirel Açıdan İncelenmesi
+24
+İ***  B****
+S******  A*****
+TÜRK DİLİ VE EDEBİYATI PR.
+Dede Korkut Hikâyeleri'Nin Görsel Üretici Yapay Zekâ Aracılığıyla Tasviri: Kanlı Koca Oğlu Kan 
+Turalı Örneği
+25
+M*****  Ö****
+Ö***  Ö****  K***
+TÜRK DİLİ VE EDEBİYATI PR.
+Klasik Türk Edebiyatında Dezavantajlı Gruplara Yönelik İnanış Ve Tasavvurlar: Dilsizler
+26
+A**  U***
+Y*****  T**
+TÜRK DİLİ VE EDEBİYATI PR. (İÖ)
+Kl'Sik Şiir Hayallerinin Özel Eğitim Öğrencilerine Ana Konu Ve Duygu Belirleme Becerisinin 
+Öğretiminde Kullanımı
+KABUL EDİLEN TUBİTAK 2209-A PROJELERİ
