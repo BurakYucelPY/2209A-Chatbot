@@ -1,5 +1,11 @@
 # 🎓 TübiBot — TÜBİTAK 2209-A RAG Chatbot
 
+<p align="left">
+  <a href="https://huggingface.co/spaces/BurakLecuy/tubibot-2209a">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-HuggingFace%20Spaces-ffcc4d?labelColor=2b3137&logo=huggingface&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
 > 2209-A başvurularına belge temelli cevaplar veren, Türkçe RAG tabanlı bir chatbot.
 
 ## 📋 Proje Hakkında
@@ -12,6 +18,9 @@
 - Vektör Veritabanı: **ChromaDB**
 - Özellik: Kısa konuşma hafızası ile son 3 turu dikkate alır
 
+
+## Canlı Demo
+Projeyi tarayıcıdan deneyin: **https://huggingface.co/spaces/BurakLecuy/tubibot-2209a**
 
 ## 🖼️ Ekran Görüntüleri
 
