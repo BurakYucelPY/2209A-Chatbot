@@ -1,0 +1,11 @@
+gradio
+chromadb
+langchain
+langchain-core
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+google-genai
+python-dotenv
+httpx
+PyMuPDF
