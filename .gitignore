@@ -1,1 +1,17 @@
 .env
+
+# Çalışma çıktıları / indeks
+chat_memory.json
+chroma_store/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sanal ortam
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
