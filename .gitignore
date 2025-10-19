@@ -1,7 +1,6 @@
 .env
 
 # Çalışma çıktıları / indeks
-chat_memory.json
 chroma_store/
 
 # Python cache
