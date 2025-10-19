@@ -120,7 +120,7 @@ Tarayıcı otomatik açılmazsa [http://127.0.0.1:7860/](http://127.0.0.1:7860/)
 
 ## ⚙️ Önemli Ayarlar
 
-- **Hafıza:** Son 3 tur sohbet (chat_memory.json)
+- **Hafıza:** Son 3 tur sohbet (Gradio session state ile her kullanıcı için bağımsız)
 - **Sampling:** temperature=0.7, top_p=0.95, top_k=40
 - **Model adları:**
   - Embedding: BAAI/bge-m3
@@ -152,7 +152,7 @@ Bu projede kullanılan veri seti, tarafımdan derlenmiş resmi ve örnek doküma
 | **ModuleNotFoundError** | `py -m pip install -r requirements.txt` |
 | **GEMINI_API_KEY yok uyarısı** | .env içinde anahtar var mı? Dosya proje kökünde mi? |
 | **Cevap "Kaynaklarda net bilgi yok" diyor** | İlgili PDF gerçekten var mı? pdfden_metin_cikar.py ve indeks_olustur_chroma.py'yi yeni PDF'lerden sonra tekrar çalıştır. |
-| **İndeks ağır / repo şişiyor** | chroma_store/, data/text/, chat_memory.json, .env dosyaları .gitignore'da olmalı. |
+| **İndeks ağır / repo şişiyor** | chroma_store/, data/text/, .env dosyaları .gitignore'da olmalı. |
 | **Türkçe karakter / sayfa numarası hataları** | Bu PDF'e özgü olabilir; metin çıkarımı için alternatif bir extractor denenebilir. |
 
 ## 📌 Notlar
