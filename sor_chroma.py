@@ -1,6 +1,6 @@
 # sor_chroma.py
 # Genel amaçlı: Chroma + BGE-m3 + Gemini 2.0 Flash
-# - Son 3 mesaj hafızalı (chat_memory.json)
+# - Son 3 mesaj hafızalı (Gradio session state ile)
 # - Multi-Query (soru genişletme)
 # - Dinamik anahtar kelime çıkarımı (kullanıcı sorusuna göre)
 # - Odaklı bağlam: sadece ilgili cümleler
@@ -17,8 +17,7 @@ ROOT = os.path.dirname(__file__)
 CHROMA_DIR = os.path.join(ROOT, "chroma_store")
 COLLECTION = "dokumanlar"
 
-# --- Hafıza ---
-MEM_FILE = os.path.join(ROOT, "chat_memory.json")
+# --- Hafıza (artık dosya değil, parametre olarak gelecek) ---
 MAX_TURNS = 3
 
 # --- Embedding ---
@@ -35,19 +34,15 @@ def get_vs():
     )
 
 # ----------------- Hafıza yardımcıları -----------------
-def load_history():
-    if os.path.exists(MEM_FILE):
-        try:
-            return json.load(open(MEM_FILE, "r", encoding="utf-8"))
-        except Exception:
-            return []
-    return []
-
-def save_turn(q, a):
-    hist = load_history()
-    hist.append({"user": q, "assistant": a})
-    json.dump(hist[-MAX_TURNS:], open(MEM_FILE, "w", encoding="utf-8"),
-              ensure_ascii=False, indent=2)
+# Artık dosya kullanmıyoruz, hafıza parametre olarak gelecek
+def update_history(history, q, a):
+    """
+    Mevcut hafızaya yeni bir Q/A ekler ve son MAX_TURNS kadar tutar.
+    history: list of dict [{"user": "...", "assistant": "..."}]
+    """
+    history = history or []
+    history.append({"user": q, "assistant": a})
+    return history[-MAX_TURNS:]
 
 # ----------------- Metin yardımcıları -----------------
 STOPWORDS_TR = {
@@ -173,7 +168,7 @@ def build_prompt(history, context, question):
     return prompt
 
 # ----------------- Ana akış -----------------
-def answer(question: str, top_k: int = 10):
+def answer(question: str, history=None, top_k: int = 10):
     # API
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
@@ -189,7 +184,7 @@ def answer(question: str, top_k: int = 10):
     context = build_focused_context(docs, question)
 
     # 3) Son 3 tur hafızalı cevap
-    history = load_history()
+    history = history or []  # Eğer None gelirse boş liste yap
     prompt = build_prompt(history, context, question)
 
     # === ÇEŞİTLİLİK AYARLARI (senin istediğin) ===
@@ -207,16 +202,16 @@ def answer(question: str, top_k: int = 10):
     )
     answer_text = (resp.text or "").strip()
 
-    # 4) Hafızaya yaz
-    save_turn(question, answer_text)
-    return answer_text, docs
+    # 4) Hafızayı güncelle ve döndür
+    updated_history = update_history(history, question, answer_text)
+    return answer_text, docs, updated_history
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print('Kullanım: py sor_chroma.py "sorunuz"')
         sys.exit(0)
     q = " ".join(sys.argv[1:])
-    ans, refs = answer(q)
+    ans, refs, _ = answer(q, history=[])  # Komut satırından çağrılırsa boş hafıza
     print("\n=== CEVAP ===\n" + ans)
     print("\n=== KAYNAKLAR ===")
     for d in refs:
