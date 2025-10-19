@@ -7,12 +7,13 @@ from pathlib import Path
 load_dotenv()
 
 # ----------------- Mantık -----------------
-def first_respond(user_msg, chat_history):
+def first_respond(user_msg, chat_history, memory_history):
     """Hero ekranındaki ilk gönderim."""
     try:
-        ans, _ = answer(user_msg)
+        ans, _, updated_memory = answer(user_msg, history=memory_history)
     except Exception as e:
         ans = f"Hata: {e}"
+        updated_memory = memory_history
 
     chat_history = (chat_history or []) + [(user_msg, ans)]
     return (
@@ -20,18 +21,20 @@ def first_respond(user_msg, chat_history):
         gr.update(visible=False),   # hero sütunu
         gr.update(visible=True),    # chat sütunu
         "",                         # hero input temizle
-        gr.update(value="")         # alt input temizle
+        gr.update(value=""),        # alt input temizle
+        updated_memory              # güncellenmiş hafıza
     )
 
-def respond(user_msg, chat_history):
+def respond(user_msg, chat_history, memory_history):
     """Sohbet modundaki gönderim."""
     try:
-        ans, _ = answer(user_msg)
+        ans, _, updated_memory = answer(user_msg, history=memory_history)
     except Exception as e:
         ans = f"Hata: {e}"
+        updated_memory = memory_history
 
     chat_history = (chat_history or []) + [(user_msg, ans)]
-    return chat_history, ""
+    return chat_history, "", updated_memory
 
 # ----------------- UI -----------------
 CUSTOM_CSS = """
@@ -376,7 +379,8 @@ logo_path = "logo.png"
 logo_exists = os.path.exists(logo_path)
 
 with gr.Blocks(title="TübiBot — 2209-A", css=CUSTOM_CSS, theme=gr.themes.Soft()) as demo:
-    chat_state = gr.State([])
+    chat_state = gr.State([])      # Gradio görsel chat history
+    memory_state = gr.State([])    # RAG hafızası (son 3 konuşma)
 
     # ---------------- HERO (İLK EKRAN) ----------------
     with gr.Column(visible=True, elem_classes=["show"], elem_id="hero_col") as hero_col:
@@ -446,19 +450,19 @@ with gr.Blocks(title="TübiBot — 2209-A", css=CUSTOM_CSS, theme=gr.themes.Soft
     # ---------------- BAĞLANTILAR ----------------
     first_msg.submit(
         first_respond,
-        [first_msg, chat_state],
-        [chat, hero_col, chat_col, first_msg, msg],
+        [first_msg, chat_state, memory_state],
+        [chat, hero_col, chat_col, first_msg, msg, memory_state],
         queue=False
     )
     first_send.click(
         first_respond,
-        [first_msg, chat_state],
-        [chat, hero_col, chat_col, first_msg, msg],
+        [first_msg, chat_state, memory_state],
+        [chat, hero_col, chat_col, first_msg, msg, memory_state],
         queue=False
     )
 
-    msg.submit(respond, [msg, chat_state], [chat, msg], queue=False)
-    send.click(respond, [msg, chat_state], [chat, msg], queue=False)
+    msg.submit(respond, [msg, chat_state, memory_state], [chat, msg, memory_state], queue=False)
+    send.click(respond, [msg, chat_state, memory_state], [chat, msg, memory_state], queue=False)
 
 if __name__ == "__main__":
     demo.launch()
